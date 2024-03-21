@@ -2,7 +2,7 @@ name: Proxy Check
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *'
   push:
     branches:
       - main
@@ -33,5 +33,5 @@ jobs:
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@users.noreply.github.com'
         git add proxies.txt
-        git commit -m "Update Proxy List: $(date)"
+        git commit -m "Update Proxy List: $(TZ='Asia/Kolkata' date)"
         git push
