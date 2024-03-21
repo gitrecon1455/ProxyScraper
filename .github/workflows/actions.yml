@@ -28,10 +28,13 @@ jobs:
     - name: Removing Duplicate Proxy
       run: cat http_proxies.txt | sort -u > proxies.txt
 
+    - name: Set timezone to IST
+      run: export TZ='Asia/Kolkata'
+
     - name: Commit and push changes
       run: |
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@users.noreply.github.com'
         git add proxies.txt
-        git commit -m "Update Proxy List: $(TZ='Asia/Kolkata' date)"
+        git commit -m "Update Proxy List: $(date)"
         git push
