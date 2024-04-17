@@ -65,7 +65,7 @@
   gtag('js', new Date());
   window.dataLayer = window.dataLayer || [];
  <script id="cookieyes" type="text/javascript" defer data-src="https://cdn-cookieyes.com/client_data/27b843bc4abd22ef54f9a449/script.js"></script> 
- html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}a{background-color:#fff0}b,strong{font-weight:bolder}small{font-size:80%}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}button,[type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText}textarea{overflow:auto}[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0}[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto}[type="search"]{-webkit-appearance:textfield;outline-offset:-2px}[type="search"]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}template{display:none}*,*::before,*::after{box-sizing:inherit}html{box-sizing:border-box}body,button,input,select,optgroup,textarea{color:#000;font-family:"PT Sans",Tahoma,sans-serif;font-size:1rem;line-height:1.5}h1,h2,h3,h4,h5,h6{font-family:"Roboto Condensed",Arial,sans-serif;clear:both;font-weight:700}p{margin-bottom:1.5em}dfn,cite,em,i{font-style:italic}::selection{background:#f08632}::-moz-selection{background:#f08632}body{background:#fff}ul,ol{margin:0 0 1.5em 0}ul{list-style:disc}ol{list-style:decimal}li>ul,li>ol{margin-bottom:0;margin-left:1.5em;padding-left:0}img{height:auto;max-width:100%}figure{margin:1em 0}table{margin:0 0 1.5em;width:100%}a{color:#28be91}a:visited{color:#28be91}a:hover,a:focus,a:active{color:#000}a:focus{outline:none}a:hover,a:active{outline:0}.btn,.btn:active,.btn:focus,.btn:visited,input[type="button"],input[type="button"]:active,input[type="button"]:focus,input[type="reset"],input[type="reset"]:active,input[type="reset"]:focus,input[type="submit"],input[type="submit"]:active,input[type="submit"]:focus{display:inline-block;text-decoration:none;padding:15px;text-transform:uppercase;background:#000;color:#fff;border-radius:10px;font-weight:700;font-size:1.3rem;font-family:'Roboto Condensed',Impact,sans-serif;box-shadow:1px 1px 10px -2px rgb(0 0 0 / .5);-webkit-box-shadow:1px 1px 10px -2px rgb(0 0 0 / .5);-moz-box-shadow:1px 1px 10px -2px rgb(0 0 0 / .5);border:0}.btn:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover{background:#28be91;box-shadow:none;border:0;color:#000}.green-section .btn:hover,.orange-section .btn:hover{background:#fff;color:#000}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="number"],input[type="tel"],input[type="range"],input[type="date"],input[type="month"],input[type="week"],input[type="time"],input[type="datetime"],input[type="datetime-local"],input[type="color"],textarea{padding:20px 10px;color:#000;border:1px solid #ccc;border-radius:10px;padding:10px}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="number"]:focus,input[type="tel"]:focus,input[type="range"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="week"]:focus,input[type="time"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="color"]:focus,textarea:focus{color:#111}select{border:1px solid #ccc}select:disabled{opacity:.5}textarea{width:100%}#page{position:relative}#top{background:#000;font-family:"Roboto Condensed",Arial,sans-serif;height:40px}#top .widget{margin:0}#top .widget a{color:#fff;font-weight:700;text-decoration:none;line-height:2.5rem;padding:0 10px}#top .widget a:hover{color:#28be91}#top .widget .fas{margin-right:5px}@media screen and (max-width:768px){#top .phone,#top .email{display:none}}.site-header{background:#28be91;font-family:"Roboto Condensed",Arial,sans-serif}#header .post-thumbnail{position:relative}@media screen and (max-width:768px){#top .phone{display:none}#header img,#header .wp-post-image{margin-top:30px}}.main-navigation{display:block;float:right}.main-navigation ul{display:flex;list-style:none;margin:0;padding-left:0}.main-navigation ul li a{display:block;text-decoration:none;color:#000;font-size:1.5rem;font-weight:700;line-height:2.5rem;padding:0 15px;text-transform:uppercase;white-space:nowrap}.main-navigation ul li a:hover,.main-navigation ul li a:focus,.main-navigation ul li a:active{color:#fff}.main-navigation ul li.menu-item-has-children>a::after{font-family:"Font Awesome 5 Free";content:"\f078";margin-left:5px;font-size:1rem;display:inline-block;vertical-align:top;line-height:inherit}.main-navigation ul ul{box-shadow:0 3px 3px rgb(0 0 0 / .2);float:left;position:absolute;top:100%;left:-999em;z-index:99999;background:#fff;display:block;border-radius:10px}.main-navigation ul ul li{text-align:left}.main-navigation ul ul li a,.main-navigation ul ul li a:visited{font-size:1rem;text-transform:none}.main-navigation ul ul li a:hover,.main-navigation ul ul li a:focus,.main-navigation ul ul li a:active{color:#28be91}.main-navigation ul ul ul{left:-999em;top:0}.main-navigation ul ul li:hover>ul,.main-navigation ul ul li.focus>ul{display:block;left:auto}.main-navigation ul ul a{min-width:200px;white-space:nowrap}.main-navigation ul li:hover>ul,.main-navigation ul li.focus>ul{left:auto}.main-navigation li{position:relative}.burger-menu-button{display:none;border:none;background:none;cursor:pointer}.burger-menu-button .fa-bars{display:none;font-size:2rem;color:#000}.burger-menu-button .fa-times{display:none;font-size:2rem;color:#fff}@media screen and (max-width:768px){#primary-menu{display:block;position:absolute;top:0;left:-100%;width:100%;height:100%;background-color:rgb(0 0 0 / .95);z-index:9999;transition:left 0.3s ease}#primary-menu>li:first-child{margin-top:60px}#primary-menu>li>a{display:block;font-size:1.5rem;padding:10px 30px;color:#fff}.burger-menu-button{position:absolute;display:block;top:70px;right:30px;z-index:999;background:#fff0;padding:0;box-shadow:none;z-index:99999}.burger-menu-button:hover,.burger-menu-button:focus{background:#fff0}.burger-menu-button .fa-bars{display:block}#searchbutton{display:none}.main-navigation ul ul{display:block;width:100%}.entry-title{font-size:3rem}}#searchbutton{color:#000;font-size:1.1rem;line-height:2.5rem}#searchbutton:hover,#searchbutton:focus{color:#fff}#searchbutton::after{display:none}.searchbox{background:#000;border-radius:10px;border:0;padding:10px;box-shadow:1px 1px 11px -2px rgb(0 0 0 / .5);-webkit-box-shadow:1px 1px 11px -2px rgb(0 0 0 / .5);-moz-box-shadow:1px 1px 11px -2px rgb(0 0 0 / .5)}.search-form input[type="submit"]{padding:12px;font-size:1rem;background:#28be91}.search-form input[type="submit"]:hover{background:#fff}@media screen and (max-width:768px){#searchbutton{display:none}}.section-title{font-size:2.5rem;text-align:center;padding-bottom:60px;text-transform:uppercase;font-weight:700}.section-title::after{content:" ";display:block;width:120px;height:4px;margin:15px auto 0;background:#28be91}.green-section{background:#28be91}.green-section .section-title::after{background:#fff}.green-section a,.green-section a:visited{color:#fff}.orange-section{background:#f08632;color:#fff}.orange-section .section-title::after{background:#fff}.orange-section a,.orange-section a:visited{color:#fff}.orange-section .section-title::after{background:#000}.entry-content .post-thumbnail{margin-bottom:30px}@media screen and (max-width:768px){.country-flag{top:5px;right:10px}}#content{font-size:1.1rem}#action{font-size:1.4rem;font-weight:700}@media screen and (max-width:768px){#action .btn{margin-bottom:30px}}.rank-math-breadcrumb p{color:#fff;font-size:.8rem}.rank-math-breadcrumb a{font-size:.8rem;color:#000!important}.rank-math-breadcrumb a:hover{text-decoration:none}.entry-title{font-size:3.5rem;font-weight:700;margin:10px 0}.subtitle{font-size:1.2rem}.post,.page{margin:0}.page-content,.entry-content,.entry-summary{margin:0}.widget{margin-bottom:30px}.widget select{max-width:100%}.price{position:relative}.price .flag-icon{position:absolute;top:0;left:0;width:72px;height:54px;border-radius:5px 0 0 0}.price .price-title{background:#000;border-radius:10px 10px 0 0;min-height:54px}.price h3{position:absolute;width:100%;text-align:center;color:#fff;font-size:1.2rem;font-weight:700;text-transform:uppercase;padding:15px;margin:0;z-index:5;white-space:nowrap;overflow:hidden}.price .price-title:after{content:" ";display:block;height:54px;width:72px;background-image:linear-gradient(to right,#fff0,rgb(0 0 0));position:absolute;z-index:1}.price select{width:100%;border:1px solid #28be91;padding:15px;font-size:1.2rem;margin-top:10px;border-radius:10px}.tariff_calc_row .btn{margin:15px 0;width:100%}.custom-logo-link{display:inline-block}.site-footer{background:#000;color:#eee}.site-footer .widget-title{line-height:1;margin-bottom:15px;text-transform:uppercase}.site-footer .widget-title::before{content:" ";display:block;width:1px;height:22px;margin:2px 10px 0 0;border-left:5px solid #f08632;float:left}.site-footer ul{margin:0;padding:0;list-style:none}.site-footer a{text-decoration:none}.site-footer a:hover{color:#fff}.site-footer a i{color:#fff}.site-info{background:#111}.site-info p{margin:0}.site-info .fas{margin-right:10px}#top .trp-language-switcher{margin:0}#top .trp-language-switcher>div{padding:0;border:0;border-radius:0;padding:0;background:#fff0}#top .trp-language-switcher>div>a{color:#fff;background:#000;font-weight:700;text-decoration:none;line-height:2.5rem;padding:0 0 0 10px;border-radius:0}#top .trp-language-switcher>div>a:hover{color:#28be91;background:#000}#top .trp-language-switcher>div>a.trp-ls-shortcode-disabled-language{cursor:pointer}#top .trp-language-switcher:focus .trp-ls-shortcode-language,#top .trp-language-switcher:hover .trp-ls-shortcode-language{padding:0}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:10px;box-shadow:0 0 2px 2px rgb(0 0 0 / .6);clip:auto!important;clip-path:none;color:#21759b;display:block;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}.form-proxy-list,.form-providers-list{position:relative;display:block;width:100%;color:#000}.form-proxy-list .form-row-1{border-top-left-radius:20px;border-top-right-radius:20px;-webkit-border-top-left-radius:20px;-webkit-border-top-right-radius:20px;width:100%;background:#f6f6f6;margin:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;min-height:107px;padding:19px 36px 14px}.form-proxy-list .form-col-1{width:60%;float:left;padding:0 48px 0 0}.form-proxy-list .form-col-2{width:40%;float:left;padding-left:20px}.form-proxy-list label,.form-providers-list label{font-size:22px;font-weight:700;position:relative}.form-proxy-list .select{position:relative;margin:0 0 10px}.form-proxy-list .select::before,.form-providers-list .select::before{content:"";position:absolute;top:0;right:0;display:block;width:60px;height:48px;background:#28be91;pointer-events:none;border-top-right-radius:5px;border-bottom-right-radius:5px;-webkit-border-top-right--radius:5px;-webkit-border-bottom-right-radius:5px}.form-proxy-list .select::after,.form-providers-list .select::after{content:"";position:absolute;top:20px;right:20px;width:0;height:0;border:10px solid #fff0;border-top:10px solid #fff;pointer-events:none}.form-proxy-list .select>.all-countries,.form-providers-list .select>.all-countries{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;padding-left:15px;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.form-proxy-list .select select,.form-proxy-list .select>.all-countries,.form-providers-list .select select,.form-providers-list .select>.all-countries{width:100%;height:48px;font-size:22px;color:#333;background:#fff;border:1px solid #ddd;-webkit-border-radius:5px;border-radius:5px;outline:none;line-height:46px}.form-proxy-list .fields-row{width:100%;float:left}.form-proxy-list .fields-row .field{position:relative}.form-proxy-list .fields-row .field:nth-child(1){width:70%;float:left;padding-right:30px}.form-proxy-list .fields-row .field .suffix{display:inline-block;position:absolute;bottom:10px;right:15px;font-size:20px;color:#666}.form-proxy-list .fields-row .field:nth-child(2){width:30%;float:left}.form-proxy-list .form-input{padding:15px;width:100%;height:48px;font-size:22px;color:#333;background:#fff;border:1px solid #ddd;-webkit-border-radius:6px;border-radius:6px;-webkit-box-shadow:inset 0 1.5px 1px #ddd;box-shadow:inset 0 1.5px 1px #ddd;outline:none}.form-proxy-list .form-input::placeholder,.form-proxy-list .fields-row::-webkit-input-placeholder,{color:#666}.form-checkbox-group{width:50%;float:left}.form-checkbox input[type='checkbox'],.form-checkbox input[type='radio']{display:none}.form-checkbox input[type='checkbox']+label:before,.form-checkbox input[type='radio']+label:before{font-family:'Font Awesome 5 Free';content:"\f14a";font-weight:900;font-size:22px;color:#ddd;cursor:pointer;margin-right:10px;display:inline-block}.form-checkbox input[type='checkbox']:checked+label:before,.form-checkbox input[type='radio']:checked+label:before{color:#28be91}.form-checkbox label{font-weight:400;font-size:22px;line-height:35px;cursor:pointer}.form-checkbox input[type='checkbox']+label:hover::before,.form-checkbox input[type='radio']+label:hover::before{color:#666}.form-checkbox input[type='checkbox']:checked+label:hover::before,.form-checkbox input[type='radio']:checked+label:hover::before{color:#28be91}.form-proxy-list .form-row-2{background:#28be91;border-bottom-left-radius:10px;border-bottom-right-radius:10px;-webkit-border-bottom-left-radius:10px;-webkit-border-bottom-right-radius:10px;width:100%;float:left;padding:20px 30px;margin-bottom:30px}.form-proxy-list .form-row-2 .btn:hover{background:#fff;color:#000}.allcountries{display:none;position:absolute;top:105px;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);padding:20px 0 20px 16px;width:100%;max-width:1120px;background-color:#fff;border:1px solid #ddd;-webkit-border-radius:7px;border-radius:7px;z-index:999}@media screen and (max-width:1024px){.allcountries-providers{width:90%}}.allcountries:before{content:"";position:absolute;top:-11px;left:60px;width:20px;height:20px;background:#fff;border-left:1px solid #ddd;border-top:1px solid #ddd;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg)}.allcountries .countries-list{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}.allcountries .country-item{min-height:30px;-webkit-box-flex:1;-webkit-flex:1 1 275px;-ms-flex:1 1 275px;flex:1 1 275px;max-width:275px;overflow:hidden}.country-checkbox label{position:relative;margin-top:-1px;font-weight:400;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;white-space:nowrap;overflow:hidden;max-width:270px;z-index:1;display:-webkit-box!important;display:-webkit-flex!important;display:-ms-flexbox!important;display:flex!important;margin-top:5px;font-size:22px;cursor:pointer;line-height:30px}.country-checkbox input[type='checkbox']{display:none}.country-checkbox input#countries-check-all:checked+label:before{color:#28be91}.country-checkbox input#countries-check-all+label:hover::before{color:#666}.country-checkbox input#countries-check-all:checked+label:hover::before{color:#28be91}.country-checkbox input[type='checkbox']+label>span{margin-right:10px;display:inline-block;float:left;min-width:30px;min-height:30px;opacity:.2;-webkit-border-radius:7px;border-radius:7px}.country-checkbox input[type='checkbox']:checked+label>span{opacity:1}.country-checkbox input[type='checkbox']+label:hover>span{opacity:1}.country-checkbox input[type='checkbox']:checked+label:hover>span{opacity:1}@media screen and (max-width:1024px){.form-proxy-list .fields-row .field,.form-proxy-list .fields-row .field:nth-child(1),.form-proxy-list .fields-row .field:nth-child(2),.form-proxy-list .form-row-1,.form-proxy-list .form-row-2,.form-proxy-list .form-col-1,.form-proxy-list .form-col-2,.form-checkbox-group{display:block;clear:both;float:none;width:100%;padding:0;margin:0}.form-proxy-list .form-row-1,.form-proxy-list .form-row-2{padding:15px}.form-proxy-list .form-row-2 .form-col-1{text-align:center}.form-checkbox-group{display:block;clear:both;float:none;width:100%;padding:0;margin:0}.form-proxy-list label{margin-top:10px}.form-proxy-list .fields-row .field{margin-top:10px}}#proxy-list-table{width:100%!important}@media screen and (max-width:1024px){#proxy-list-table th,#proxy-list-table td{padding:3px}}.pagination-wrap,.simplePagerList{margin-top:20px;text-align:center}#pagination li,.simplePagerList li{display:inline-block}#pagination li a,#pagination li span,.simplePagerList li a{padding:5px 10px;border:1px solid #28be91;border-radius:5px;margin:0 .2em;padding:5px 10px;outline:none;text-decoration:none;transition:background .2s ease}#pagination li a:hover,#pagination li a.active,.simplePagerList li a:hover,#pagination li span,#pagination li.active a{background:#28be91;color:#fff}.trustpilot-widget{width:260px;height:110px}@media screen and (max-width:1024px){.gen-links-list{columns:2;-webkit-columns:2;-moz-columns:2}}.py-40{padding-top:40px;padding-bottom:40px}.py-60{padding-top:60px;padding-bottom:60px}.py-80{padding-top:80px;padding-bottom:80px}.pt-80{padding-top:80px}.pb-60{padding-bottom:60px}.pb-80{padding-bottom:80px}</style>
+ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}a{background-color:#fff0}b,strong{font-weight:bolder}small{font-size:80%}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}button,[type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText}textarea{overflow:auto}[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0}[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto}[type="search"]{-webkit-appearance:textfield;outline-offset:-2px}[type="search"]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}template{display:none}*,*::before,*::after{box-sizing:inherit}html{box-sizing:border-box}body,button,input,select,optgroup,textarea{color:#000;font-family:"PT Sans",Tahoma,sans-serif;font-size:1rem;line-height:1.5}h1,h2,h3,h4,h5,h6{font-family:"Roboto Condensed",Arial,sans-serif;clear:both;font-weight:700}p{margin-bottom:1.5em}dfn,cite,em,i{font-style:italic}::selection{background:#f08632}::-moz-selection{background:#f08632}body{background:#fff}ul,ol{margin:0 0 1.5em 0}ul{list-style:disc}ol{list-style:decimal}li>ul,li>ol{margin-bottom:0;margin-left:1.5em;padding-left:0}img{height:auto;max-width:100%}figure{margin:1em 0}table{margin:0 0 1.5em;width:100%}a{color:#28be91}a:visited{color:#28be91}a:hover,a:focus,a:active{color:#000}a:focus{outline:none}a:hover,a:active{outline:0}.btn,.btn:active,.btn:focus,.btn:visited,input[type="button"],input[type="button"]:active,input[type="button"]:focus,input[type="reset"],input[type="reset"]:active,input[type="reset"]:focus,input[type="submit"],input[type="submit"]:active,input[type="submit"]:focus{display:inline-block;text-decoration:none;padding:15px;text-transform:uppercase;background:#000;color:#fff;border-radius:10px;font-weight:700;font-size:1.3rem;font-family:'Roboto Condensed',Impact,sans-serif;box-shadow:1px 1px 10px -2px rgb(0 0 0 / .5);-webkit-box-shadow:1px 1px 10px -2px rgb(0 0 0 / .5);-moz-box-shadow:1px 1px 10px -2px rgb(0 0 0 / .5);border:0}.btn:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover{background:#28be91;box-shadow:none;border:0;color:#000}.green-section .btn:hover,.orange-section .btn:hover{background:#fff;color:#000}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="number"],input[type="tel"],input[type="range"],input[type="date"],input[type="month"],input[type="week"],input[type="time"],input[type="datetime"],input[type="datetime-local"],input[type="color"],textarea{padding:20px 10px;color:#000;border:1px solid #ccc;border-radius:10px;padding:10px}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="number"]:focus,input[type="tel"]:focus,input[type="range"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="week"]:focus,input[type="time"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="color"]:focus,textarea:focus{color:#111}select{border:1px solid #ccc}select:disabled{opacity:.5}textarea{width:100%}#page{position:relative}#top{background:#000;font-family:"Roboto Condensed",Arial,sans-serif;height:40px}#top .widget{margin:0}#top .widget a{color:#fff;font-weight:700;text-decoration:none;line-height:2.5rem;padding:0 10px}#top .widget a:hover{color:#28be91}#top .widget .fas{margin-right:5px}@media screen and (max-width:768px){#top .phone,#top .email{display:none}}.site-header{background:#28be91;font-family:"Roboto Condensed",Arial,sans-serif}#header .post-thumbnail{position:relative}@media screen and (max-width:768px){#top .phone{display:none}#header img,#header .wp-post-image{margin-top:30px}}.main-navigation{display:block;float:right}.main-navigation ul{display:flex;list-style:none;margin:0;padding-left:0}.main-navigation ul li a{display:block;text-decoration:none;color:#000;font-size:1.5rem;font-weight:700;line-height:2.5rem;padding:0 15px;text-transform:uppercase;white-space:nowrap}.main-navigation ul li a:hover,.main-navigation ul li a:focus,.main-navigation ul li a:active{color:#fff}.main-navigation ul li.menu-item-has-children>a::after{font-family:"Font Awesome 5 Free";content:"\f078";margin-left:5px;font-size:1rem;display:inline-block;vertical-align:top;line-height:inherit}.main-navigation ul ul{box-shadow:0 3px 3px rgb(0 0 0 / .2);float:left;position:absolute;top:100%;left:-999em;z-index:99999;background:#fff;display:block;border-radius:10px}.main-navigation ul ul li{text-align:left}.main-navigation ul ul li a,.main-navigation ul ul li a:visited{font-size:1rem;text-transform:none}.main-navigation ul ul li a:hover,.main-navigation ul ul li a:focus,.main-navigation ul ul li a:active{color:#28be91}.main-navigation ul ul ul{left:-999em;top:0}.main-navigation ul ul li:hover>ul,.main-navigation ul ul li.focus>ul{display:block;left:auto}.main-navigation ul ul a{min-width:200px;white-space:nowrap}.main-navigation ul li:hover>ul,.main-navigation ul li.focus>ul{left:auto}.main-navigation li{position:relative}.burger-menu-button{display:none;border:none;background:none;cursor:pointer}.burger-menu-button .fa-bars{display:none;font-size:2rem;color:#000}.burger-menu-button .fa-times{display:none;font-size:2rem;color:#fff}@media screen and (max-width:768px){#primary-menu{display:block;position:absolute;top:0;left:-100%;width:100%;height:100%;background-color:rgb(0 0 0 / .95);z-index:9999;transition:left 0.3s ease}#primary-menu>li:first-child{margin-top:60px}#primary-menu>li>a{display:block;font-size:1.5rem;padding:10px 30px;color:#fff}.burger-menu-button{position:absolute;display:block;top:70px;right:30px;z-index:999;background:#fff0;padding:0;box-shadow:none;z-index:99999}.burger-menu-button:hover,.burger-menu-button:focus{background:#fff0}.burger-menu-button .fa-bars{display:block}#searchbutton{display:none}.main-navigation ul ul{display:block;width:100%}.entry-title{font-size:3rem}}#searchbutton{color:#000;font-size:1.1rem;line-height:2.5rem}#searchbutton:hover,#searchbutton:focus{color:#fff}#searchbutton::after{display:none}.searchbox{background:#000;border-radius:10px;border:0;padding:10px;box-shadow:1px 1px 11px -2px rgb(0 0 0 / .5);-webkit-box-shadow:1px 1px 11px -2px rgb(0 0 0 / .5);-moz-box-shadow:1px 1px 11px -2px rgb(0 0 0 / .5)}.search-form input[type="submit"]{padding:12px;font-size:1rem;background:#28be91}.search-form input[type="submit"]:hover{background:#fff}@media screen and (max-width:768px){#searchbutton{display:none}}.section-title{font-size:2.5rem;text-align:center;padding-bottom:60px;text-transform:uppercase;font-weight:700}.section-title::after{content:" ";display:block;width:120px;height:4px;margin:15px auto 0;background:#28be91}.green-section{background:#28be91}.green-section .section-title::after{background:#fff}.green-section a,.green-section a:visited{color:#fff}.orange-section{background:#f08632;color:#fff}.orange-section .section-title::after{background:#fff}.orange-section a,.orange-section a:visited{color:#fff}.orange-section .section-title::after{background:#000}.entry-content .post-thumbnail{margin-bottom:30px}@media screen and (max-width:768px){.country-flag{top:5px;right:10px}}#content{font-size:1.1rem}#action{font-size:1.4rem;font-weight:700}@media screen and (max-width:768px){#action .btn{margin-bottom:30px}}.rank-math-breadcrumb p{color:#fff;font-size:.8rem}.rank-math-breadcrumb a{font-size:.8rem;color:#000!important}.rank-math-breadcrumb a:hover{text-decoration:none}.entry-title{font-size:3.5rem;font-weight:700;margin:10px 0}.subtitle{font-size:1.2rem}.post,.page{margin:0}.page-content,.entry-content,.entry-summary{margin:0}.widget{margin-bottom:30px}.widget select{max-width:100%}.price{position:relative}.price .flag-icon{position:absolute;top:0;left:0;width:72px;height:54px;border-radius:5px 0 0 0}.price .price-title{background:#000;border-radius:10px 10px 0 0;min-height:54px}.price h3{position:absolute;width:100%;text-align:center;color:#fff;font-size:1.2rem;font-weight:700;text-transform:uppercase;padding:15px;margin:0;z-index:5;white-space:nowrap;overflow:hidden}.price .price-title:after{content:" ";display:block;height:54px;width:72px;background-image:linear-gradient(to right,#fff0,rgb(0 0 0));position:absolute;z-index:1}.price select{width:100%;border:1px solid #28be91;padding:15px;font-size:1.2rem;margin-top:10px;border-radius:10px}.tariff_calc_row .btn{margin:15px 0;width:100%}.custom-logo-link{display:inline-block}.site-footer{background:#000;color:#eee}.site-footer .widget-title{line-height:1;margin-bottom:15px;text-transform:uppercase}.site-footer .widget-title::before{content:" ";display:block;width:1px;height:22px;margin:2px 10px 0 0;border-left:5px solid #f08632;float:left}.site-footer ul{margin:0;padding:0;list-style:none}.site-footer a{text-decoration:none}.site-footer a:hover{color:#fff}.site-footer a i{color:#fff}.site-info{background:#111}.site-info p{margin:0}.site-info .fas{margin-right:10px}#top .trp-language-switcher{margin:0}#top .trp-language-switcher>div{padding:0;border:0;border-radius:0;padding:0;background:#fff0}#top .trp-language-switcher>div>a{color:#fff;background:#000;font-weight:700;text-decoration:none;line-height:2.5rem;padding:0 0 0 10px;border-radius:0}#top .trp-language-switcher>div>a:hover{color:#28be91;background:#000}#top .trp-language-switcher>div>a.trp-ls-shortcode-disabled-language{cursor:pointer}#top .trp-language-switcher:focus .trp-ls-shortcode-language,#top .trp-language-switcher:hover .trp-ls-shortcode-language{padding:0}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:10px;box-shadow:0 0 2px 2px rgb(0 0 0 / .6);clip:auto!important;clip-path:none;color:#21759b;display:block;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}.form-proxy-list,.form-providers-list{position:relative;display:block;width:100%;color:#000}.form-proxy-list .form-row-1{border-top-left-radius:20px;border-top-right-radius:20px;-webkit-border-top-left-radius:20px;-webkit-border-top-right-radius:20px;width:100%;background:#e9f8f4;margin:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;min-height:107px;padding:19px 36px 14px}.form-proxy-list .form-col-1{width:60%;float:left;padding:0 48px 0 0}.form-proxy-list .form-col-2{width:40%;float:left;padding-left:20px}.form-proxy-list label,.form-providers-list label{font-size:22px;font-weight:700;position:relative}.form-proxy-list .select{position:relative;margin:0 0 10px}.form-proxy-list .select::before,.form-providers-list .select::before{content:"";position:absolute;top:0;right:0;display:block;width:60px;height:48px;background:#28be91;pointer-events:none;border-top-right-radius:5px;border-bottom-right-radius:5px;-webkit-border-top-right--radius:5px;-webkit-border-bottom-right-radius:5px}.form-proxy-list .select::after,.form-providers-list .select::after{content:"";position:absolute;top:20px;right:20px;width:0;height:0;border:10px solid #fff0;border-top:10px solid #fff;pointer-events:none}.form-proxy-list .select>.all-countries,.form-providers-list .select>.all-countries{-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;padding-left:15px;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.form-proxy-list .select select,.form-proxy-list .select>.all-countries,.form-providers-list .select select,.form-providers-list .select>.all-countries{width:100%;height:48px;font-size:22px;color:#333;background:#fff;border:1px solid #ddd;-webkit-border-radius:5px;border-radius:5px;outline:none;line-height:46px}.form-proxy-list .fields-row{width:100%;float:left}.form-proxy-list .fields-row .field{position:relative}.form-proxy-list .fields-row .field:nth-child(1){width:70%;float:left;padding-right:30px}.form-proxy-list .fields-row .field .suffix{display:inline-block;position:absolute;bottom:10px;right:15px;font-size:20px;color:#666}.form-proxy-list .fields-row .field:nth-child(2){width:30%;float:left}.form-proxy-list .form-input{padding:15px;width:100%;height:48px;font-size:22px;color:#333;background:#fff;border:1px solid #ddd;-webkit-border-radius:6px;border-radius:6px;-webkit-box-shadow:inset 0 1.5px 1px #ddd;box-shadow:inset 0 1.5px 1px #ddd;outline:none}.form-proxy-list .form-input::placeholder,.form-proxy-list .fields-row::-webkit-input-placeholder,{color:#666}.form-checkbox-group{width:50%;float:left}.form-checkbox input[type='checkbox'],.form-checkbox input[type='radio']{display:none}.form-checkbox input[type='checkbox']+label:before,.form-checkbox input[type='radio']+label:before{font-family:'Font Awesome 5 Free';content:"\f14a";font-weight:900;font-size:22px;color:#ddd;cursor:pointer;margin-right:10px;display:inline-block}.form-checkbox input[type='checkbox']:checked+label:before,.form-checkbox input[type='radio']:checked+label:before{color:#28be91}.form-checkbox label{font-weight:400;font-size:22px;line-height:35px;cursor:pointer}.form-checkbox input[type='checkbox']+label:hover::before,.form-checkbox input[type='radio']+label:hover::before{color:#666}.form-checkbox input[type='checkbox']:checked+label:hover::before,.form-checkbox input[type='radio']:checked+label:hover::before{color:#28be91}.form-proxy-list .form-row-2{background:#28be91;border-bottom-left-radius:10px;border-bottom-right-radius:10px;-webkit-border-bottom-left-radius:10px;-webkit-border-bottom-right-radius:10px;width:100%;float:left;padding:20px 30px;margin-bottom:30px}.form-proxy-list .form-row-2 .btn:hover{background:#fff;color:#000}.allcountries{display:none;position:absolute;top:105px;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);padding:20px 0 20px 16px;width:100%;max-width:1120px;background-color:#fff;border:1px solid #ddd;-webkit-border-radius:7px;border-radius:7px;z-index:999}@media screen and (max-width:1024px){.allcountries-providers{width:90%}}.allcountries:before{content:"";position:absolute;top:-11px;left:60px;width:20px;height:20px;background:#fff;border-left:1px solid #ddd;border-top:1px solid #ddd;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg)}.allcountries .countries-list{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}.allcountries .country-item{min-height:30px;-webkit-box-flex:1;-webkit-flex:1 1 275px;-ms-flex:1 1 275px;flex:1 1 275px;max-width:275px;overflow:hidden}.country-checkbox label{position:relative;margin-top:-1px;font-weight:400;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;white-space:nowrap;overflow:hidden;max-width:270px;z-index:1;display:-webkit-box!important;display:-webkit-flex!important;display:-ms-flexbox!important;display:flex!important;margin-top:5px;font-size:22px;cursor:pointer;line-height:30px}.country-checkbox input[type='checkbox']{display:none}.country-checkbox input#countries-check-all:checked+label:before{color:#28be91}.country-checkbox input#countries-check-all+label:hover::before{color:#666}.country-checkbox input#countries-check-all:checked+label:hover::before{color:#28be91}.country-checkbox input[type='checkbox']+label>span{margin-right:10px;display:inline-block;float:left;min-width:30px;min-height:30px;opacity:.2;-webkit-border-radius:7px;border-radius:7px}.country-checkbox input[type='checkbox']:checked+label>span{opacity:1}.country-checkbox input[type='checkbox']+label:hover>span{opacity:1}.country-checkbox input[type='checkbox']:checked+label:hover>span{opacity:1}@media screen and (max-width:1024px){.form-proxy-list .fields-row .field,.form-proxy-list .fields-row .field:nth-child(1),.form-proxy-list .fields-row .field:nth-child(2),.form-proxy-list .form-row-1,.form-proxy-list .form-row-2,.form-proxy-list .form-col-1,.form-proxy-list .form-col-2,.form-checkbox-group{display:block;clear:both;float:none;width:100%;padding:0;margin:0}.form-proxy-list .form-row-1,.form-proxy-list .form-row-2{padding:15px}.form-proxy-list .form-row-2 .form-col-1{text-align:center}.form-checkbox-group{display:block;clear:both;float:none;width:100%;padding:0;margin:0}.form-proxy-list label{margin-top:10px}.form-proxy-list .fields-row .field{margin-top:10px}}#proxy-list-table{width:100%!important}@media screen and (max-width:1024px){#proxy-list-table th,#proxy-list-table td{padding:3px}}.pagination-wrap,.simplePagerList{margin-top:20px;text-align:center}#pagination li,.simplePagerList li{display:inline-block}#pagination li a,#pagination li span,.simplePagerList li a{padding:5px 10px;border:1px solid #28be91;border-radius:5px;margin:0 .2em;padding:5px 10px;outline:none;text-decoration:none;transition:background .2s ease}#pagination li a:hover,#pagination li a.active,.simplePagerList li a:hover,#pagination li span,#pagination li.active a{background:#28be91;color:#fff}.trustpilot-widget{width:260px;height:110px}@media screen and (max-width:1024px){.gen-links-list{columns:2;-webkit-columns:2;-moz-columns:2}}.py-40{padding-top:40px;padding-bottom:40px}.py-60{padding-top:60px;padding-bottom:60px}.py-80{padding-top:80px;padding-bottom:80px}.pt-80{padding-top:80px}.pb-60{padding-bottom:60px}.pb-80{padding-bottom:80px}</style>
 * Name:  rank-math-review-snippet.css
 * Plugin:  Rank Math
 * URL: https://rankmath.com/wordpress/plugin/seo-suite/
@@ -353,6 +353,7 @@
 101.200.235.69:8499
 101.200.49.180:8118
 101.206.141.222:9000
+101.224.168.47:8060
 101.229.249.71:8118
 101.230.172.86:80
 101.231.104.82:80
@@ -360,7 +361,6 @@
 101.231.166.98:443
 101.251.204.174:8080
 101.255.103.201:53281
-101.255.116.161:33333
 101.255.117.122:3128
 101.255.117.123:3128
 101.255.117.124:3128
@@ -405,6 +405,7 @@
 101.32.203.200:8080
 101.32.48.146:80
 101.32.62.108:1080
+101.33.252.195:8081
 101.35.238.22:7890
 101.37.118.54:8888
 101.4.136.34:81
@@ -550,7 +551,6 @@
 102.66.163.240:9999
 102.66.210.27:9999
 102.66.242.31:9999
-102.67.101.250:8080
 102.68.128.210:8080
 102.68.128.211:8080
 102.68.128.212:8080
@@ -572,7 +572,6 @@
 102.68.135.21:8080
 102.68.135.229:8080
 102.68.136.1:83
-102.68.137.1:83
 102.68.77.43:8080
 102.68.78.189:8080
 102.68.78.57:8080
@@ -625,7 +624,6 @@
 103.100.84.24:8080
 103.100.84.25:8080
 103.101.193.78:1111
-103.101.216.2:8080
 103.101.229.181:1994
 103.101.231.134:1994
 103.101.24.77:8080
@@ -694,6 +692,7 @@
 103.105.55.14:8080
 103.105.55.170:8080
 103.105.55.175:8080
+103.105.55.51:8081
 103.105.55.73:8080
 103.105.55.76:3125
 103.105.69.254:2021
@@ -725,7 +724,6 @@
 103.106.78.78:1111
 103.107.71.192:1080
 103.107.84.177:8080
-103.107.84.184:8080
 103.108.75.10:9812
 103.108.89.156:80
 103.108.89.159:80
@@ -864,6 +862,7 @@
 103.117.194.69:8080
 103.117.235.241:4109
 103.117.30.238:8080
+103.117.92.33:8080
 103.117.95.136:41890
 103.118.127.218:6969
 103.118.127.222:4153
@@ -991,7 +990,6 @@
 103.125.117.50:8080
 103.125.118.196:8080
 103.125.154.161:8080
-103.125.154.176:8080
 103.125.154.225:8080
 103.125.154.233:8080
 103.125.162.134:82
@@ -1180,7 +1178,7 @@
 103.137.45.10:13799
 103.137.45.213:32210
 103.137.45.243:33357
-103.137.45.29:12039
+103.137.45.74:21758
 103.137.45.7:37968
 103.137.63.209:8080
 103.137.84.17:83
@@ -1395,6 +1393,7 @@
 103.147.182.36:80
 103.147.246.114:8181
 103.147.246.135:8080
+103.147.246.185:3127
 103.147.246.211:8080
 103.147.246.212:8080
 103.147.246.43:8080
@@ -1407,7 +1406,6 @@
 103.147.247.26:3127
 103.147.247.79:8080
 103.147.52.237:3127
-103.147.73.133:8080
 103.147.73.97:8080
 103.147.77.66:3125
 103.147.77.66:5012
@@ -1434,7 +1432,6 @@
 103.148.24.172:8080
 103.148.24.89:8181
 103.148.245.120:8877
-103.148.25.201:8080
 103.148.25.223:8080
 103.148.25.247:8080
 103.148.28.246:3125
@@ -1508,7 +1505,6 @@
 103.15.140.121:44759
 103.15.140.140:4475
 103.15.140.177:44759
-103.15.223.251:3129
 103.15.223.251:3131
 103.15.239.38:65452
 103.15.60.21:8080
@@ -1550,6 +1546,7 @@
 103.152.100.155:8080
 103.152.100.183:8080
 103.152.100.187:8080
+103.152.101.109:8080
 103.152.101.221:8080
 103.152.104.186:32650
 103.152.117.108:8080
@@ -1581,6 +1578,7 @@
 103.152.232.84:8080
 103.152.40.216:32650
 103.152.93.218:8181
+103.153.134.22:8080
 103.153.135.100:8083
 103.153.136.186:8080
 103.153.136.188:8080
@@ -1615,6 +1613,7 @@
 103.153.38.23:8080
 103.153.40.38:8080
 103.153.62.250:3125
+103.153.63.137:3125
 103.153.63.211:8085
 103.153.66.1:8080
 103.154.113.90:8080
@@ -1632,7 +1631,6 @@
 103.154.230.129:8080
 103.154.230.130:8080
 103.154.230.142:8080
-103.154.230.188:8080
 103.154.230.18:8080
 103.154.230.190:8080
 103.154.230.58:8080
@@ -1654,7 +1652,6 @@
 103.154.76.57:9090
 103.154.77.75:8080
 103.154.77.79:8080
-103.154.87.12:8080
 103.154.90.190:3128
 103.154.90.190:8080
 103.154.90.34:8080
@@ -1728,7 +1725,6 @@
 103.156.145.57:82
 103.156.15.121:5678
 103.156.15.23:8181
-103.156.15.35:1080
 103.156.15.48:8080
 103.156.15.68:8080
 103.156.15.74:8080
@@ -1798,11 +1794,11 @@
 103.157.219.4:80
 103.157.253.225:8080
 103.157.58.186:8080
-103.157.83.77:8080
 103.158.121.140:8080
 103.158.121.149:8088
 103.158.121.201:8181
 103.158.253.130:8080
+103.158.253.187:8027
 103.158.253.91:8080
 103.159.155.104:32650
 103.159.155.122:32650
@@ -1813,7 +1809,6 @@
 103.159.194.245:3125
 103.159.195.139:8080
 103.159.195.221:8080
-103.159.195.233:9091
 103.159.195.236:8080
 103.159.195.25:8080
 103.159.195.43:8080
@@ -1882,6 +1877,7 @@
 103.16.119.4:8181
 103.16.133.226:8080
 103.16.226.8:8080
+103.16.248.222:8080
 103.16.71.125:83
 103.160.12.101:3125
 103.160.12.184:8080
@@ -1932,6 +1928,7 @@
 103.161.164.119:8181
 103.161.165.2:8181
 103.161.165.33:8181
+103.161.17.11:50004
 103.161.178.101:9999
 103.161.178.57:9999
 103.161.178.59:9999
@@ -1949,6 +1946,7 @@
 103.161.76.40:8080
 103.161.76.86:8085
 103.162.141.154:8080
+103.162.141.154:88
 103.162.152.5:8085
 103.162.154.200:8888
 103.162.154.3:8888
@@ -2007,7 +2005,6 @@
 103.164.114.187:8080
 103.164.116.170:8080
 103.164.116.172:8080
-103.164.117.186:3128
 103.164.118.83:8080
 103.164.118.86:8080
 103.164.151.27:3125
@@ -2021,6 +2018,7 @@
 103.164.200.227:82
 103.164.200.227:83
 103.164.213.78:8088
+103.164.214.122:8080
 103.164.221.34:8080
 103.164.222.236:3128
 103.164.222.82:3128
@@ -2036,6 +2034,7 @@
 103.165.128.171:8080
 103.165.150.122:8080
 103.165.155.161:1111
+103.165.155.163:1111
 103.165.155.171:1111
 103.165.155.229:1111
 103.165.155.59:1111
@@ -2297,7 +2296,6 @@
 103.174.175.246:3127
 103.174.175.99:8085
 103.174.178.132:1020
-103.174.178.137:2016
 103.174.178.166:2016
 103.174.178.65:8080
 103.174.181.119:1080
@@ -2316,6 +2314,7 @@
 103.174.81.225:83
 103.174.81.66:8080
 103.175.156.142:8080
+103.175.230.212:8080
 103.175.236.102:8080
 103.175.236.186:8080
 103.175.237.34:3127
@@ -2364,6 +2363,7 @@
 103.176.96.210:8082
 103.176.96.214:8082
 103.176.96.41:8082
+103.176.96.53:8082
 103.176.96.86:8080
 103.176.96.88:8080
 103.176.96.99:8088
@@ -2380,7 +2380,6 @@
 103.178.42.10:8181
 103.178.42.14:8181
 103.178.42.29:8181
-103.178.42.3:8181
 103.178.43.100:8181
 103.178.43.102:8181
 103.178.43.10:8181
@@ -2396,8 +2395,8 @@
 103.179.124.10:1080
 103.179.124.226:1080
 103.179.139.115:8080
-103.179.182.159:8888
 103.179.182.185:8181
+103.179.246.30:8080
 103.179.252.14:8181
 103.179.252.2:8181
 103.179.252.49:8181
@@ -2455,7 +2454,6 @@
 103.182.112.11:3128
 103.182.112.11:5000
 103.182.112.11:8000
-103.182.213.13:8080
 103.182.78.137:8080
 103.183.60.226:9812
 103.183.63.130:84
@@ -2555,9 +2553,11 @@
 103.194.242.254:6002
 103.194.242.42:8080
 103.194.46.198:3127
+103.194.70.169:83
 103.194.88.107:32650
 103.194.89.173:9812
 103.194.89.173:9898
+103.195.140.18:9096
 103.195.141.47:1080
 103.195.252.161:82
 103.195.252.161:83
@@ -2613,8 +2613,7 @@
 103.200.20.56:3128
 103.202.223.153:8080
 103.203.172.22:84
-103.203.172.41:82
-103.203.173.49:84
+103.203.175.97:84
 103.204.119.186:8080
 103.204.168.253:8080
 103.204.20.21:8080
@@ -2897,6 +2896,7 @@
 103.244.36.215:8080
 103.244.38.36:3125
 103.245.16.133:8080
+103.245.16.222:8888
 103.245.17.77:8080
 103.245.18.3:8080
 103.245.204.213:8080
@@ -2913,7 +2913,6 @@
 103.246.78.21:8080
 103.247.14.103:1111
 103.247.21.101:1080
-103.247.21.225:2024
 103.247.21.234:8080
 103.247.21.235:8080
 103.247.21.98:8080
@@ -2956,7 +2955,6 @@
 103.252.169.158:8080
 103.253.112.112:3128
 103.253.112.113:3128
-103.253.127.202:8080
 103.253.153.21:31979
 103.253.153.22:32650
 103.253.154.155:48319
@@ -2971,12 +2969,12 @@
 103.255.241.199:8080
 103.255.242.114:8080
 103.255.242.99:8080
+103.26.108.254:84
 103.26.110.125:82
 103.26.110.125:84
 103.26.110.202:84
 103.26.14.158:8080
 103.26.177.66:8080
-103.27.22.65:32650
 103.28.112.126:8080
 103.28.113.245:8080
 103.28.114.157:66
@@ -2988,7 +2986,6 @@
 103.28.225.28:8080
 103.29.185.189:8080
 103.29.185.54:8181
-103.29.238.4:8090
 103.29.90.230:8080
 103.29.91.38:32650
 103.3.58.162:3128
@@ -3074,7 +3071,6 @@
 103.41.212.230:44759
 103.41.250.97:8080
 103.41.88.182:83
-103.41.88.33:83
 103.41.89.129:83
 103.41.89.2:83
 103.41.89.4:83
@@ -3162,7 +3158,6 @@
 103.48.68.37:83
 103.48.68.37:84
 103.48.71.123:83
-103.48.71.130:83
 103.49.114.195:8080
 103.49.202.250:80
 103.49.202.252:80
@@ -3272,7 +3267,6 @@
 103.68.207.34:82
 103.68.207.34:83
 103.68.214.14:8080
-103.68.214.19:8080
 103.68.214.90:1234
 103.68.3.114:4145
 103.69.108.78:8191
@@ -3284,7 +3278,6 @@
 103.69.38.1:8080
 103.69.39.1:8080
 103.69.90.57:8081
-103.7.26.142:8080
 103.7.27.186:8080
 103.70.130.134:83
 103.70.130.134:84
@@ -3478,6 +3471,7 @@
 103.83.232.122:80
 103.83.97.238:8080
 103.84.134.9:1080
+103.84.177.222:8083
 103.84.177.30:8083
 103.84.255.230:80
 103.85.103.129:5678
@@ -3615,6 +3609,7 @@
 103.95.98.36:1088
 103.96.38.166:80
 103.96.79.73:8080
+103.97.245.74:3128
 103.97.46.214:82
 103.97.46.214:83
 103.97.46.214:84
@@ -3971,6 +3966,7 @@
 104.248.151.220:60018
 104.248.151.220:63648
 104.248.151.220:63997
+104.248.158.78:52130
 104.248.158.78:64271
 104.248.249.26:8080
 104.248.254.139:8118
@@ -4048,7 +4044,6 @@
 104.27.66.31:80
 104.27.8.161:80
 104.27.83.183:80
-104.28.253.97:80
 104.32.43.13:5328
 104.35.140.42:80
 104.36.166.34:4618
@@ -4118,6 +4113,7 @@
 106.13.215.242:2080
 106.14.255.124:80
 106.14.64.22:1080
+106.15.199.119:7891
 106.15.2.195:8118
 106.240.89.60:4145
 106.248.0.164:3128
@@ -4152,16 +4148,15 @@
 107.180.101.226:35664
 107.180.101.226:5023
 107.180.88.173:1270
-107.180.88.173:46211
 107.180.88.173:61358
 107.180.90.248:8669
 107.180.90.88:32168
 107.180.90.88:4756
 107.180.91.0:22238
+107.180.92.72:26265
 107.180.92.72:48180
 107.180.92.72:52810
 107.180.95.93:3321
-107.181.143.82:6213
 107.181.161.81:4145
 107.181.168.145:4145
 107.190.148.178:3223
@@ -4200,7 +4195,6 @@
 109.123.254.43:11837
 109.123.254.43:1381
 109.123.254.43:30335
-109.123.254.43:3462
 109.123.254.43:34797
 109.123.254.43:46040
 109.123.254.43:51888
@@ -4408,6 +4402,7 @@
 110.232.93.193:8087
 110.235.246.220:45212
 110.235.249.226:8080
+110.235.250.155:1080
 110.238.109.146:2480
 110.238.109.146:3128
 110.238.109.146:3129
@@ -4556,6 +4551,7 @@
 110.82.222.253:8089
 110.82.222.32:8089
 110.89.211.59:33080
+110.93.227.28:3128
 1104.167.6.218:8017
 111.118.128.123:8080
 111.118.135.132:33260
@@ -4606,7 +4602,6 @@
 111.225.152.101:8089
 111.225.152.102:8089
 111.225.152.103:8089
-111.225.152.105:8089
 111.225.152.109:8089
 111.225.152.10:8089
 111.225.152.112:8089
@@ -4622,7 +4617,6 @@
 111.225.152.124:8089
 111.225.152.125:8089
 111.225.152.127:8089
-111.225.152.131:8089
 111.225.152.132:8089
 111.225.152.133:8089
 111.225.152.135:8089
@@ -4636,7 +4630,6 @@
 111.225.152.145:8089
 111.225.152.147:8089
 111.225.152.148:8089
-111.225.152.149:8089
 111.225.152.14:8089
 111.225.152.150:8089
 111.225.152.151:8089
@@ -4721,6 +4714,7 @@
 111.225.152.40:8089
 111.225.152.41:8089
 111.225.152.43:8089
+111.225.152.47:8089
 111.225.152.48:8089
 111.225.152.4:8089
 111.225.152.50:8089
@@ -4974,7 +4968,6 @@
 112.173.197.26:8001
 112.196.79.14:3129
 112.198.131.71:8082
-112.198.150.11:8082
 112.198.179.67:8080
 112.198.200.136:8082
 112.198.200.59:8081
@@ -5317,7 +5310,6 @@
 114.103.80.109:8089
 114.103.80.45:8089
 114.103.81.128:8089
-114.103.81.44:8089
 114.103.81.64:8089
 114.103.88.112:8089
 114.103.88.179:8089
@@ -5362,7 +5354,7 @@
 114.130.84.94:8080
 114.132.151.56:2080
 114.132.165.163:9999
-114.132.202.246:8080
+114.132.202.125:8080
 114.134.191.194:3186
 114.134.88.174:8080
 114.134.90.43:5678
@@ -5388,8 +5380,8 @@
 114.231.42.248:8089
 114.231.42.97:8888
 114.231.45.10:8089
-114.231.45.141:8089
 114.231.45.158:8089
+114.231.45.175:8089
 114.231.45.191:8089
 114.231.45.33:8089
 114.231.45.37:8089
@@ -5399,12 +5391,12 @@
 114.231.46.213:8089
 114.231.46.224:8089
 114.231.46.42:8089
+114.231.46.74:8089
 114.231.8.109:8089
 114.231.8.112:8089
 114.231.8.114:8089
 114.231.8.13:8089
 114.231.8.173:8089
-114.231.8.21:8089
 114.231.8.30:8089
 114.231.8.51:8089
 114.231.8.52:8089
@@ -5538,7 +5530,6 @@
 115.124.85.20:8080
 115.124.92.42:8080
 115.124.92.50:8080
-115.127.107.217:1085
 115.127.107.218:1085
 115.127.109.2:4506
 115.127.112.74:8090
@@ -5560,11 +5551,9 @@
 115.127.94.18:32650
 115.132.165.112:8080
 115.132.165.209:8080
-115.132.165.97:8080
 115.133.22.97:6666
 115.144.8.91:80
 115.147.15.109:8080
-115.147.20.176:8082
 115.147.26.219:8082
 115.147.32.198:8082
 115.147.33.61:8081
@@ -5603,6 +5592,7 @@
 115.242.198.158:8080
 115.242.252.174:4153
 115.243.184.76:23500
+115.245.86.37:3129
 115.247.146.65:8080
 115.248.66.131:3129
 115.29.140.201:1234
@@ -5988,7 +5978,6 @@
 116.202.20.142:8080
 116.202.20.176:8118
 116.202.209.248:8118
-116.202.235.157:63135
 116.202.24.214:8080
 116.202.27.70:49160
 116.202.6.223:80
@@ -6159,7 +6148,6 @@
 116.73.243.169:9889
 116.90.129.134:80
 116.90.166.213:8080
-116.90.179.198:8080
 116.90.229.186:35561
 116.90.232.50:41890
 116.90.238.49:8085
@@ -6282,7 +6270,6 @@
 117.102.81.5:53281
 117.102.81.6:53281
 117.102.86.146:8080
-117.102.86.148:8080
 117.102.87.66:8080
 117.102.93.131:3128
 117.102.93.242:8080
@@ -6608,6 +6595,7 @@
 117.74.65.207:8020
 117.74.65.207:8029
 117.74.65.207:8041
+117.74.65.207:8047
 117.74.65.207:8060
 117.74.65.207:8071
 117.74.65.207:808
@@ -6832,7 +6820,7 @@
 118.154.108.236:8118
 118.163.120.181:58837
 118.163.13.200:8080
-118.165.65.186:8080
+118.165.9.213:1080
 118.172.139.78:5000
 118.172.155.177:8080
 118.172.159.67:8080
@@ -7206,11 +7194,10 @@
 12.132.186.210:5233
 12.133.53.17:83
 12.144.254.185:9080
-12.15.68.42:8080
 12.156.45.155:3128
-12.163.92.26:8080
 12.163.95.129:8080
 12.167.39.75:9090
+12.176.231.147:80
 12.179.129.208:8080
 12.183.155.183:5478
 12.183.155.185:4900
@@ -7220,7 +7207,6 @@
 12.186.205.123:80
 12.186.205.123:8089
 12.191.44.111:80
-12.198.47.241:8080
 12.208.190.71:9090
 12.218.209.130:5328
 12.218.209.130:53281
@@ -7373,13 +7359,13 @@
 120.46.215.52:9080
 120.48.137.25:7890
 120.48.62.239:8080
+120.48.75.218:80
 120.50.176.58:8080
 120.50.19.84:8080
 120.52.73.105:18080
 120.52.73.108:8094
 120.52.73.124:8083
-120.52.73.131:8093
-120.52.73.145:8082
+120.52.73.99:8081
 120.55.49.231:1234
 120.55.49.231:1337
 120.55.49.231:20000
@@ -7778,7 +7764,6 @@
 122.13.77.173:53333
 122.136.212.132:53281
 122.144.4.134:63123
-122.144.6.66:3777
 122.144.6.66:8080
 122.15.131.65:5787
 122.15.131.65:57873
@@ -7836,6 +7821,7 @@
 122.252.182.122:53281
 122.252.182.83:53281
 122.3.103.31:3128
+122.3.121.231:8082
 122.3.168.75:8080
 122.3.168.77:8080
 122.3.181.62:8080
@@ -7848,6 +7834,7 @@
 122.50.6.186:80
 122.50.6.186:8080
 122.50.7.186:8080
+122.51.123.219:80
 122.52.139.240:8081
 122.52.187.137:5678
 122.52.191.212:8082
@@ -7915,6 +7902,7 @@
 123.112.215.16:9000
 123.115.116.249:9000
 123.115.67.91:9000
+123.125.122.204:80
 123.126.158.50:80
 123.127.110.243:80
 123.127.110.244:80
@@ -8620,6 +8608,7 @@
 123.20.221.107:8080
 123.200.10.78:8080
 123.200.11.158:8080
+123.200.14.194:8080
 123.200.15.218:49120
 123.200.17.107:8080
 123.200.18.155:80
@@ -8684,6 +8673,7 @@
 123.245.250.32:8089
 123.245.250.35:8089
 123.249.65.58:6666
+123.249.8.83:8888
 123.25.116.228:1080
 123.25.147.227:8080
 123.25.15.209:9812
@@ -8799,7 +8789,6 @@
 123.60.155.197:80
 123.60.35.41:8888
 124.104.149.53:8081
-124.105.102.167:8082
 124.105.17.195:8082
 124.105.177.237:8080
 124.105.180.29:8082
@@ -8946,7 +8935,6 @@
 124.205.155.157:9090
 124.207.175.91:8080
 124.217.246.133:9989
-124.217.97.131:8080
 124.220.14.118:2080
 124.221.164.23:8080
 124.222.119.189:2080
@@ -9078,6 +9066,7 @@
 125.137.151.104:3128
 125.141.133.46:5566
 125.141.133.47:5566
+125.141.133.48:5566
 125.141.133.53:5566
 125.141.139.110:5566
 125.141.139.60:5566
@@ -9335,6 +9324,8 @@
 128.140.3.228:8080
 128.140.4.217:8080
 128.140.4.35:8080
+128.140.51.69:8118
+128.192.15.90:111
 128.199.104.190:41354
 128.199.109.115:14505
 128.199.127.190:8888
@@ -9361,7 +9352,6 @@
 128.199.204.169:1337
 128.199.205.11:8080
 128.199.214.87:3128
-128.199.221.91:10901
 128.199.221.91:21605
 128.199.221.91:28900
 128.199.221.91:42474
@@ -9395,7 +9385,6 @@
 129.151.72.85:80
 129.152.20.44:8118
 129.153.153.38:3128
-129.154.224.75:80
 129.154.225.163:8100
 129.158.197.24:3128
 129.158.50.224:3128
@@ -9445,6 +9434,7 @@
 13.76.169.155:3128
 13.80.177.101:8118
 13.81.217.201:80
+13.90.150.239:80
 130.162.157.198:8118
 130.162.243.68:3128
 130.180.208.145:80
@@ -9832,6 +9822,7 @@
 134.35.8.207:8080
 134.35.8.217:8080
 134.35.8.64:8080
+134.35.82.83:8080
 134.35.89.143:8080
 134.35.89.63:8080
 134.35.9.225:8080
@@ -9847,9 +9838,9 @@
 135.125.225.75:8080
 135.125.248.252:80
 135.125.39.69:1200
+135.148.10.161:14130
 135.148.10.161:15078
 135.148.10.161:15213
-135.148.10.161:15522
 135.148.10.161:15626
 135.148.10.161:19212
 135.148.10.161:22380
@@ -9865,6 +9856,7 @@
 135.148.10.161:35903
 135.148.10.161:36500
 135.148.10.161:37854
+135.148.10.161:4051
 135.148.10.161:41456
 135.148.10.161:42795
 135.148.10.161:42881
@@ -9872,7 +9864,9 @@
 135.148.10.161:4661
 135.148.10.161:50205
 135.148.10.161:51589
+135.148.10.161:5174
 135.148.10.161:52506
+135.148.10.161:53471
 135.148.10.161:5607
 135.148.10.161:59215
 135.148.10.161:64122
@@ -10201,7 +10195,6 @@
 138.59.187.13:666
 138.59.187.1:666
 138.59.187.33:666
-138.59.227.248:999
 138.59.235.249:8080
 138.59.9.37:8080
 138.68.103.192:8080
@@ -10232,7 +10225,6 @@
 138.94.141.129:62311
 138.94.236.140:8080
 138.94.238.32:8080
-138.94.76.86:8080
 138.94.92.26:7497
 138.97.0.173:4145
 138.97.0.87:4145
@@ -10370,6 +10362,7 @@
 139.162.238.184:11783
 139.162.238.184:14056
 139.162.238.184:17352
+139.162.238.184:29588
 139.162.238.184:30392
 139.162.238.184:33664
 139.162.238.184:39652
@@ -10377,6 +10370,7 @@
 139.162.238.184:4837
 139.162.238.184:52344
 139.162.238.184:54627
+139.162.238.184:55482
 139.162.238.184:5942
 139.162.238.184:60708
 139.162.28.71:8080
@@ -10499,6 +10493,7 @@
 139.255.25.85:3128
 139.255.255.205:8081
 139.255.26.115:8080
+139.255.33.242:3128
 139.255.36.82:8080
 139.255.38.246:8080
 139.255.41.118:8080
@@ -10582,6 +10577,7 @@
 14.142.36.210:1111
 14.142.36.210:80
 14.143.130.210:1111
+14.143.130.210:80
 14.143.145.38:80
 14.143.172.238:8080
 14.143.231.22:8080
@@ -10712,8 +10708,8 @@
 14.47.70.137:8080
 14.50.81.64:80
 14.56.244.203:8000
-14.63.228.239:80
 14.97.26.195:80
+14.97.32.152:80
 14.99.215.106:1111
 140.0.4.91:8080
 140.0.80.246:8080
@@ -10997,7 +10993,6 @@
 144.22.249.38:80
 144.22.251.59:8080
 144.22.53.1:80
-144.24.122.46:80
 144.24.77.90:55555
 144.48.112.42:8080
 144.48.178.113:82
@@ -11019,21 +11014,18 @@
 144.91.118.176:3128
 144.91.123.26:80
 144.91.66.30:14295
-144.91.66.30:15076
 144.91.66.30:18772
 144.91.66.30:21422
 144.91.66.30:27566
+144.91.66.30:42711
 144.91.66.30:51110
 144.91.66.30:56154
 144.91.66.30:58285
 144.91.66.30:58397
 144.91.66.30:60026
-144.91.66.30:61465
 144.91.66.30:62400
 144.91.68.111:18602
-144.91.68.111:24407
 144.91.68.111:24653
-144.91.68.111:25747
 144.91.68.111:31437
 144.91.68.111:34685
 144.91.68.111:46896
@@ -11043,7 +11035,6 @@
 144.91.81.25:3128
 144.91.88.75:5566
 144.91.89.245:1981
-145.239.2.102:59563
 145.239.89.0:9999
 145.255.30.241:8088
 145.40.101.105:9400
@@ -11107,7 +11098,6 @@
 146.59.127.168:80
 146.59.14.159:80
 146.59.147.11:62801
-146.59.18.246:3898
 146.59.192.125:3128
 146.59.192.49:3128
 146.59.201.30:3128
@@ -11203,6 +11193,7 @@
 148.72.212.198:19818
 148.72.212.198:27534
 148.72.212.198:29972
+148.72.212.198:52273
 148.72.212.212:24385
 148.72.214.245:13986
 148.72.214.245:1915
@@ -11230,7 +11221,6 @@
 149.129.131.46:8103
 149.129.131.46:9002
 149.129.135.54:6666
-149.129.136.233:6666
 149.129.177.32:6666
 149.129.178.248:6666
 149.129.179.23:443
@@ -11271,7 +11261,6 @@
 149.28.175.141:808
 149.28.180.246:12009
 149.28.53.45:38080
-149.34.210.62:9090
 149.36.44.128:2350
 149.5.36.113:8080
 149.5.36.2:8080
@@ -11459,6 +11448,7 @@
 153.19.91.77:80
 153.34.156.246:7890
 154.0.0.4:8080
+154.0.12.163:80
 154.0.12.57:8080
 154.0.132.35:3128
 154.0.14.113:8080
@@ -11502,7 +11492,6 @@
 154.12.253.232:4607
 154.12.253.232:47800
 154.12.253.232:53264
-154.12.253.232:64196
 154.12.255.155:64560
 154.120.245.154:8080
 154.127.120.18:3028
@@ -11601,10 +11590,12 @@
 154.73.159.53:8585
 154.73.28.157:8080
 154.73.28.89:8080
+154.73.29.1:8080
 154.73.29.201:8080
 154.73.29.33:8080
 154.73.29.65:8080
 154.73.30.131:50800
+154.73.87.241:8080
 154.79.242.178:10801
 154.79.242.178:1686
 154.79.245.138:32650
@@ -11947,6 +11938,7 @@
 157.100.53.130:8080
 157.100.53.133:8080
 157.100.53.134:8080
+157.100.53.245:999
 157.100.53.99:999
 157.100.54.11:999
 157.100.54.13:999
@@ -12083,7 +12075,6 @@
 158.181.14.169:8080
 158.181.204.100:8080
 158.181.21.247:8081
-158.187.77.39:17201
 158.220.91.231:3128
 158.255.192.222:8080
 158.255.196.164:8080
@@ -12097,7 +12088,6 @@
 158.255.77.200:8080
 158.51.107.253:8080
 158.51.121.43:8080
-158.51.210.75:7777
 158.51.210.75:8888
 158.69.158.106:8050
 158.69.158.107:8050
@@ -12182,7 +12172,6 @@
 159.223.137.36:8080
 159.223.138.200:8080
 159.223.156.185:8080
-159.223.166.21:13425
 159.223.166.21:13640
 159.223.169.23:8080
 159.223.174.195:8080
@@ -12197,7 +12186,6 @@
 159.223.71.71:4992
 159.223.71.71:49922
 159.223.71.71:5083
-159.223.71.71:50837
 159.223.71.71:5118
 159.223.71.71:51616
 159.223.71.71:51935
@@ -12225,7 +12213,6 @@
 159.65.176.77:10004
 159.65.176.77:10005
 159.65.176.77:10006
-159.65.176.77:10007
 159.65.176.77:10010
 159.65.176.77:10015
 159.65.176.77:10017
@@ -12341,6 +12328,7 @@
 160.226.240.213:8080
 160.242.19.126:8080
 160.248.80.91:137
+160.248.80.91:443
 160.248.80.91:465
 160.248.80.91:80
 160.248.80.91:8080
@@ -12412,7 +12400,6 @@
 161.35.91.95:80
 161.49.116.131:65535
 161.49.176.173:1337
-161.49.176.173:1338
 161.49.215.243:8082
 161.49.215.28:10101
 161.49.215.57:8080
@@ -12431,6 +12418,7 @@
 161.97.147.193:20902
 161.97.147.193:2838
 161.97.147.193:29901
+161.97.147.193:37257
 161.97.147.193:38385
 161.97.147.193:55283
 161.97.147.193:7518
@@ -12444,7 +12432,9 @@
 161.97.74.176:30000
 161.97.97.231:10050
 162.0.220.161:38154
+162.0.220.214:45996
 162.0.220.220:24322
+162.0.220.222:21480
 162.0.220.222:34770
 162.0.220.222:55832
 162.0.220.234:21480
@@ -12512,10 +12502,10 @@
 162.212.157.23:8080
 162.212.157.252:8080
 162.212.157.98:8080
-162.214.102.121:46292
 162.214.102.121:46325
 162.214.102.195:39885
 162.214.103.84:62664
+162.214.111.199:47038
 162.214.111.84:45013
 162.214.121.11:11547
 162.214.121.11:58700
@@ -12541,6 +12531,7 @@
 162.240.239.103:60263
 162.240.239.103:60863
 162.240.57.99:35528
+162.240.58.147:25503
 162.240.58.147:36022
 162.240.58.147:55324
 162.240.59.234:35528
@@ -12766,6 +12757,7 @@
 164.92.233.192:8118
 164.92.237.188:52306
 164.92.237.188:53238
+164.92.237.188:53364
 164.92.237.188:55588
 164.92.237.188:57392
 164.92.237.188:59045
@@ -12782,6 +12774,7 @@
 164.92.86.113:60283
 164.92.86.113:60312
 164.92.86.113:62027
+164.92.86.113:62526
 164.92.86.113:63358
 164.92.86.113:63536
 164.92.86.113:64863
@@ -12827,6 +12820,7 @@
 165.16.27.52:1981
 165.16.28.96:8080
 165.16.30.161:8080
+165.16.31.19:8080
 165.16.39.61:8080
 165.16.42.173:8080
 165.16.43.176:20000
@@ -13036,7 +13030,6 @@
 166.0.235.136:58980
 166.0.235.137:64965
 166.0.235.140:64213
-166.0.235.142:64965
 166.0.235.143:58431
 166.0.235.143:9378
 166.0.235.144:9378
@@ -13726,6 +13719,7 @@
 170.64.188.88:8080
 170.64.190.147:8080
 170.64.190.160:8080
+170.64.222.88:8000
 170.78.21.238:8080
 170.78.210.17:999
 170.78.211.33:999
@@ -13782,7 +13776,6 @@
 170.83.242.251:999
 170.83.243.41:999
 170.83.76.22:999
-170.83.77.246:999
 170.84.205.17:4153
 171.100.152.37:8080
 171.100.153.60:80
@@ -13876,7 +13869,6 @@
 171.237.101.234:4006
 171.237.114.226:4004
 171.237.140.1:4013
-171.237.169.205:4306
 171.237.181.157:4003
 171.237.233.20:4001
 171.237.235.30:5006
@@ -14208,6 +14200,7 @@
 172.104.151.172:8080
 172.104.154.229:22291
 172.104.154.229:38436
+172.104.154.229:45272
 172.104.154.229:47862
 172.104.156.78:8080
 172.104.16.50:10647
@@ -14287,7 +14280,6 @@
 172.111.10.193:3128
 172.163.146.56:6588
 172.173.132.85:80
-172.174.143.211:3128
 172.187.178.207:3128
 172.222.149.211:4045
 172.232.67.27:8080
@@ -14392,14 +14384,11 @@
 173.196.205.170:8080
 173.197.167.242:8080
 173.197.98.164:8111
-173.212.205.138:62909
 173.212.205.143:62909
 173.212.209.216:23077
-173.212.209.49:58855
 173.212.213.133:3128
 173.212.220.213:4392
 173.212.223.23:39968
-173.212.223.23:62031
 173.212.223.23:9905
 173.212.224.116:50886
 173.212.237.43:45148
@@ -14466,8 +14455,6 @@
 174.138.167.180:8888
 174.138.167.181:8888
 174.138.167.182:8888
-174.138.176.74:37042
-174.138.176.77:42265
 174.139.46.100:58841
 174.164.42.83:8118
 174.36.168.202:8080
@@ -14498,7 +14485,6 @@
 175.100.64.127:9812
 175.100.72.95:57938
 175.100.86.17:8080
-175.100.91.151:8080
 175.100.91.212:8080
 175.101.18.145:3129
 175.101.18.21:5678
@@ -14568,7 +14554,6 @@
 175.13.77.44:4780
 175.136.1.254:8080
 175.137.185.108:8123
-175.138.113.230:8080
 175.138.90.207:53281
 175.139.124.4:8080
 175.139.179.65:42580
@@ -14826,7 +14811,6 @@
 177.11.26.246:8083
 177.11.26.250:8083
 177.11.26.255:8083
-177.115.239.37:8080
 177.116.142.250:8080
 177.119.211.157:8080
 177.12.118.160:80
@@ -14859,6 +14843,7 @@
 177.130.104.98:33333
 177.130.140.80:8080
 177.130.60.47:8080
+177.130.63.80:8080
 177.131.29.211:4153
 177.133.25.30:8080
 177.135.247.119:8080
@@ -14905,7 +14890,6 @@
 177.185.85.48:3128
 177.185.92.202:3128
 177.185.93.7:8080
-177.19.167.242:80
 177.190.189.16:44443
 177.190.76.84:9812
 177.190.80.226:8080
@@ -14955,7 +14939,6 @@
 177.23.54.10:6006
 177.23.54.13:6006
 177.230.139.241:999
-177.230.183.185:10101
 177.234.164.50:8080
 177.234.192.14:999
 177.234.192.45:32213
@@ -15057,7 +15040,6 @@
 177.37.118.237:8080
 177.37.16.104:8080
 177.37.16.227:8080
-177.37.160.81:8080
 177.37.167.78:3128
 177.37.96.131:8088
 177.37.97.106:8088
@@ -15066,10 +15048,8 @@
 177.38.245.108:55713
 177.38.5.230:4153
 177.38.5.240:4153
-177.38.72.49:9292
 177.38.83.242:3177
 177.42.194.64:4145
-177.43.72.250:3128
 177.43.72.251:3128
 177.44.82.232:8080
 177.46.198.115:8080
@@ -15261,7 +15241,6 @@
 178.131.84.99:1090
 178.132.4.53:443
 178.134.157.215:8080
-178.134.31.226:8080
 178.136.2.208:55443
 178.137.8.193:81
 178.140.177.145:8889
@@ -15321,6 +15300,7 @@
 178.217.172.206:55443
 178.217.172.53:8080
 178.218.43.60:4411
+178.218.44.79:3128
 178.218.88.12:8123
 178.218.88.13:8123
 178.218.95.25:8123
@@ -15380,7 +15360,6 @@
 178.255.44.197:41890
 178.255.44.199:41890
 178.32.116.232:57123
-178.32.143.55:32048
 178.32.223.222:8118
 178.34.190.6:8080
 178.34.47.126:8080
@@ -15420,7 +15399,6 @@
 178.73.192.11:8118
 178.74.103.46:8080
 178.76.254.130:4145
-178.79.165.164:19149
 178.79.165.164:23122
 178.79.165.164:24765
 178.79.165.164:27416
@@ -15466,10 +15444,10 @@
 179.1.192.39:999
 179.1.192.40:999
 179.1.192.41:999
+179.1.192.46:999
 179.1.192.9:999
 179.1.198.36:999
 179.1.68.194:999
-179.1.68.197:999
 179.1.73.100:999
 179.1.73.102:999
 179.1.77.222:999
@@ -15691,7 +15669,6 @@
 18.142.81.218:80
 18.144.77.146:80
 18.162.51.223:8090
-18.166.226.94:3128
 18.166.72.199:38080
 18.166.72.199:8081
 18.169.83.87:1080
@@ -15768,6 +15745,7 @@
 180.130.190.32:3000
 180.131.242.221:48678
 180.148.4.194:8080
+180.148.4.74:8080
 180.149.232.205:8080
 180.149.232.216:8080
 180.149.234.248:8080
@@ -16096,7 +16074,6 @@
 180.250.153.130:53281
 180.250.159.49:4153
 180.250.170.210:59778
-180.250.173.67:3128
 180.250.204.162:8080
 180.250.252.218:8080
 180.250.252.221:8080
@@ -16135,6 +16112,7 @@
 18080154.38.171.242:8021
 181.10.117.254:999
 181.10.123.154:999
+181.10.123.157:999
 181.10.160.156:8080
 181.10.160.157:8080
 181.10.200.154:3128
@@ -16199,7 +16177,6 @@
 181.119.64.187:999
 181.119.67.130:999
 181.120.28.228:80
-181.129.130.18:8154
 181.129.138.114:30838
 181.129.138.114:32185
 181.129.139.13:999
@@ -16381,7 +16358,6 @@
 181.205.173.74:8080
 181.205.2.122:8080
 181.205.204.218:8080
-181.205.241.228:999
 181.205.243.147:999
 181.205.36.50:80
 181.205.41.210:7654
@@ -16406,7 +16382,6 @@
 181.209.111.147:999
 181.209.111.148:999
 181.209.111.149:999
-181.209.111.82:999
 181.209.112.108:8080
 181.209.114.194:999
 181.209.114.195:999
@@ -16425,6 +16400,7 @@
 181.209.125.126:999
 181.209.77.130:8080
 181.209.77.250:999
+181.209.78.75:999
 181.209.78.78:999
 181.209.80.134:999
 181.209.82.154:23500
@@ -16533,6 +16509,7 @@
 181.238.40.29:8080
 181.28.111.161:8080
 181.29.119.174:8080
+181.29.205.47:8085
 181.30.227.51:8080
 181.31.225.234:3128
 181.36.121.194:80
@@ -16690,7 +16667,6 @@
 181.78.8.215:999
 181.78.82.131:999
 181.78.82.132:999
-181.78.82.211:999
 181.78.85.15:999
 181.78.85.39:999
 181.78.86.242:999
@@ -16705,6 +16681,7 @@
 181.78.94.238:999
 181.78.94.23:9991
 181.78.95.40:999
+181.78.95.48:999
 181.80.15.179:8080
 181.94.205.52:8904
 181.94.205.52:8905
@@ -16862,6 +16839,7 @@
 182.253.171.174:8080
 182.253.171.21:8080
 182.253.171.84:80
+182.253.172.159:8080
 182.253.172.52:8080
 182.253.173.18:4153
 182.253.173.59:8080
@@ -17216,7 +17194,6 @@
 183.165.244.55:8089
 183.165.244.75:8089
 183.165.244.76:8089
-183.165.244.79:8089
 183.165.244.7:8089
 183.165.244.82:8089
 183.165.244.84:8089
@@ -17808,6 +17785,7 @@
 183.3.221.130:3128
 183.33.192.146:9797
 183.56.225.160:8888
+183.60.141.17:443
 183.60.153.67:8080
 183.62.58.35:1080
 183.64.239.19:8060
@@ -18216,7 +18194,6 @@
 185.109.184.150:49319
 185.109.184.150:54565
 185.109.184.150:55978
-185.109.184.150:56067
 185.109.184.150:63819
 185.109.184.150:64200
 185.11.151.62:3128
@@ -18412,7 +18389,6 @@
 185.194.11.180:8080
 185.195.129.116:4153
 185.196.182.22:8080
-185.198.3.1:11223
 185.198.56.73:47910
 185.198.58.33:33671
 185.199.228.220:7300
@@ -18630,6 +18606,7 @@
 185.49.96.94:8080
 185.49.97.21:8080
 185.51.10.19:80122.6.245.14:8090
+185.51.203.151:8080
 185.51.92.103:51327
 185.53.129.141:3128
 185.53.35.160:8080
@@ -18693,6 +18670,7 @@
 185.66.59.251:42647
 185.66.59.77:42647
 185.67.188.178:41258
+185.67.95.91:80
 185.67.95.91:8080
 185.71.233.113:8080
 185.72.27.98:8080
@@ -18773,6 +18751,7 @@
 186.101.16.26:1994
 186.101.16.65:1994
 186.101.16.75:1994
+186.101.91.141:999
 186.101.96.130:1994
 186.101.96.170:1994
 186.103.130.91:8080
@@ -18789,7 +18768,7 @@
 186.121.214.210:32650
 186.121.235.66:8080
 186.125.218.124:999
-186.125.218.153:999
+186.125.218.155:999
 186.125.218.171:999
 186.125.218.180:999
 186.125.218.234:999
@@ -18814,6 +18793,7 @@
 186.148.184.130:999
 186.148.191.226:999
 186.150.201.38:8080
+186.150.207.207:8080
 186.150.207.29:9812
 186.151.27.21:999
 186.151.58.100:8080
@@ -18849,7 +18829,6 @@
 186.167.80.227:999
 186.167.80.228:999
 186.18.194.81:3128
-186.180.64.187:999
 186.180.75.236:999
 186.188.43.25:5678
 186.190.168.58:999
@@ -18900,6 +18879,7 @@
 186.215.87.194:10320
 186.215.87.194:10326
 186.215.87.194:30001
+186.215.87.194:30009
 186.215.87.194:6021
 186.216.126.102:3128
 186.216.127.224:3128
@@ -19310,6 +19290,7 @@
 187.216.73.23:8080
 187.216.90.46:53281
 187.216.93.20:55443
+187.221.227.182:3128
 187.223.179.23:999
 187.228.145.138:8080
 187.228.156.173:8080
@@ -19460,6 +19441,7 @@
 188.117.147.156:8080
 188.120.245.151:9999
 188.120.247.93:3128
+188.121.108.252:1080
 188.121.115.162:3000
 188.121.118.32:80
 188.121.123.124:1080
@@ -19582,9 +19564,8 @@
 188.133.158.80:1256
 188.133.173.21:8080
 188.136.154.38:8080
-188.136.162.204:4153
 188.136.162.3:7060
-188.136.162.3:706068.183.143.134:80
+188.136.162.3:706047.242.58.120:3128
 188.136.164.140:3128
 188.136.216.201:9080
 188.142.224.225:80
@@ -19601,6 +19582,7 @@
 188.164.193.178:33469
 188.164.193.178:34266
 188.164.193.178:37653
+188.164.193.178:3817
 188.164.193.178:39255
 188.164.193.178:40150
 188.164.193.178:4184
@@ -19620,14 +19602,15 @@
 188.165.222.158:8020
 188.165.226.128:59307
 188.165.231.180:55654
-188.165.237.26:52982
 188.165.249.131:3129
+188.165.252.198:54136
 188.165.252.198:61262
 188.166.14.225:8888
 188.166.17.18:8881
 188.166.186.144:8080
 188.166.186.64:8080
 188.166.206.183:8118
+188.166.230.38:42224
 188.166.231.167:7497
 188.166.239.48:3128
 188.166.252.135:8080
@@ -19699,6 +19682,7 @@
 188.25.121.203:8081
 188.255.237.254:6666
 188.255.238.255:5678
+188.27.245.209:8181
 188.34.140.205:8080
 188.34.152.20:8080
 188.34.155.249:8080
@@ -19747,7 +19731,6 @@
 188.92.110.174:1080
 188.93.230.17:59014
 188.94.156.144:3128
-188.94.159.26:3128
 188.94.224.10:8080
 188.94.224.161:8080
 188.94.225.177:8080
@@ -19898,7 +19881,6 @@
 189.203.139.247:8080
 189.203.180.233:999
 189.203.181.34:1080
-189.203.181.34:8080
 189.203.191.136:1994
 189.203.234.146:999
 189.204.145.130:999
@@ -19967,6 +19949,7 @@
 189.3.169.34:9812
 189.3.176.130:1080
 189.3.69.230:8080
+189.30.240.101:8080
 189.31.57.90:8080
 189.37.28.147:6588
 189.39.16.42:5566
@@ -20291,12 +20274,12 @@
 190.14.249.119:999
 190.14.249.174:999
 190.14.249.217:999
+190.14.38.1:8080
 190.140.31.195:9900
 190.142.231.82:999
 190.144.112.42:8080
 190.144.167.178:5678
 190.144.238.66:8080
-190.144.34.146:3128
 190.144.48.50:8080
 190.144.80.122:8080
 190.144.92.197:80
@@ -20544,6 +20527,7 @@
 190.43.232.50:808
 190.43.232.53:999
 190.43.232.95:999
+190.43.92.100:999
 190.43.92.109:999
 190.43.92.123:999
 190.43.92.130:999
@@ -20730,7 +20714,6 @@
 190.90.83.225:999
 190.90.86.81:999
 190.92.159.141:43683
-190.92.159.141:48053
 190.92.159.203:31669
 190.92.159.203:48053
 190.92.227.158:443
@@ -20864,7 +20847,6 @@
 191.209.54.111:8080
 191.240.153.144:8080
 191.240.153.165:8080
-191.242.111.195:8080
 191.242.126.94:8080
 191.242.230.135:8080
 191.243.166.18:3128
@@ -20872,6 +20854,7 @@
 191.243.46.150:43241
 191.243.46.162:43241
 191.243.46.2:18283
+191.243.46.30:43241
 191.243.46.3:43241
 191.249.112.164:8080
 191.252.1.154:80
@@ -21040,6 +21023,7 @@
 192.169.226.96:50578
 192.169.226.96:51778
 192.169.226.96:7251
+192.18.135.185:3128
 192.18.151.166:8888
 192.184.188.11:8080
 192.184.192.60:8080
@@ -21078,7 +21062,9 @@
 192.53.126.207:10096
 192.53.126.207:10147
 192.53.126.207:10232
-192.53.126.207:10695
+192.53.126.207:10241
+192.53.126.207:10678
+192.53.126.207:10858
 192.53.161.152:8080
 192.53.161.211:8080
 192.53.161.226:8080
@@ -21199,7 +21185,6 @@
 193.3.52.4:8080
 193.3.52.5:8080
 193.3.52.6:8080
-193.30.13.18:999
 193.33.194.83:6666
 193.34.21.4:55277
 193.34.45.179:5678
@@ -21357,7 +21342,6 @@
 194.53.158.57:53281
 194.55.138.53:80
 194.61.120.104:8080
-194.61.24.198:8080
 194.61.52.13:3128
 194.67.145.94:55555
 194.67.207.33:3128
@@ -21630,6 +21614,7 @@
 196.6.235.190:8080
 196.6.235.26:8080
 196.6.235.3:8080
+196.61.74.41:8080
 196.65.32.6:8080
 196.65.60.255:8080
 196.74.31.177:8080
@@ -21646,6 +21631,7 @@
 197.157.254.34:4145
 197.159.130.134:5678
 197.159.133.254:3129
+197.168.124.114:3128
 197.188.213.128:8080
 197.210.129.134:41890
 197.210.141.218:8080
@@ -21847,7 +21833,6 @@
 199.102.106.94:4145
 199.102.107.145:4145
 199.116.114.11:4145
-199.116.62.148:9999
 199.15.110.121:8080
 199.15.181.226:80
 199.167.214.246:5497
@@ -21904,7 +21889,6 @@
 20.117.80.140:80
 20.118.133.34:3128
 20.118.133.34:8118
-20.121.139.25:3128
 20.122.27.242:80
 20.127.124.144:1994
 20.127.221.223:80
@@ -21922,13 +21906,13 @@
 20.204.214.23:3129
 20.204.214.79:3129
 20.205.115.87:8080
+20.205.138.223:80
 20.205.61.143:80
 20.205.61.143:8123
 20.206.106.192:80
 20.206.106.192:8123
 20.210.113.32:80
 20.210.113.32:8123
-20.216.12.190:3128
 20.219.118.36:80
 20.219.176.57:3129
 20.219.177.38:3129
@@ -22084,6 +22068,7 @@
 200.123.157.37:8080
 200.123.228.184:999
 200.123.228.186:999
+200.123.229.184:999
 200.123.231.220:999
 200.123.231.232:999
 200.123.27.162:999
@@ -22095,6 +22080,7 @@
 200.125.168.221:999
 200.125.168.222:999
 200.125.169.158:999
+200.125.170.106:999
 200.125.170.108:999
 200.125.170.126:8080
 200.125.171.114:999
@@ -22413,7 +22399,6 @@
 200.69.88.5:999
 200.7.10.158:8080
 200.70.34.22:4153
-200.70.56.203:3128
 200.71.215.62:8080
 200.71.237.238:23500
 200.73.130.8:80
@@ -22460,6 +22445,7 @@
 200.92.201.138:999
 200.92.212.90:999
 200.94.102.130:999
+200.94.102.148:999
 200.94.96.174:999
 200.95.184.58:999
 200.95.184.62:999
@@ -22541,8 +22527,8 @@
 201.174.17.126:7755
 201.174.17.126:999
 201.174.175.82:999
-201.174.224.174:999
 201.174.239.18:8080
+201.174.38.160:999
 201.18.83.210:4040
 201.182.149.29:999
 201.182.241.16:999
@@ -22669,6 +22655,7 @@
 201.222.50.218:80
 201.222.76.34:999
 201.222.83.145:999
+201.222.83.146:999
 201.228.130.234:6588
 201.228.149.35:1080
 201.229.208.2:80
@@ -22791,7 +22778,6 @@
 201.77.108.192:999
 201.77.108.196:999
 201.77.108.1:999
-201.77.108.21:999
 201.77.108.220:999
 201.77.108.225:999
 201.77.108.48:999
@@ -22804,7 +22790,6 @@
 201.77.110.1:999
 201.77.96.0:999
 201.77.96.112:999
-201.77.96.145:999
 201.77.97.96:999
 201.82.2.141:3128
 201.82.32.56:8080
@@ -22880,6 +22865,7 @@
 202.137.144.228:8080
 202.137.15.253:3888
 202.137.17.151:5678
+202.137.230.20:80
 202.137.3.209:3888
 202.137.31.155:5678
 202.137.8.149:8080
@@ -22962,6 +22948,7 @@
 202.154.180.53:46717
 202.154.189.42:80
 202.154.189.43:8080
+202.154.19.163:8080
 202.154.19.218:8081
 202.154.191.234:9933
 202.154.191.38:8080
@@ -23155,6 +23142,7 @@
 202.5.47.173:5020
 202.5.54.70:4145
 202.5.56.139:5020
+202.5.60.46:5020
 202.50.53.107:8080
 202.51.106.229:8080
 202.51.112.169:5430
@@ -23261,6 +23249,7 @@
 202.93.227.14:5328
 202.93.229.234:8080
 202.93.229.2:8080
+202.93.244.38:8080
 202.93.245.46:8080
 202.93.246.202:8080
 202.96.159.221:1080
@@ -23506,6 +23495,7 @@
 203.172.138.187:80
 203.172.207.23:8080
 203.174.15.138:8080
+203.174.15.141:8080
 203.176.179.255:8080
 203.177.133.235:8080
 203.177.152.162:3128
@@ -23560,6 +23550,7 @@
 203.210.85.135:8080
 203.210.85.215:3128
 203.210.87.82:3128
+203.215.166.122:3128
 203.215.167.114:8080
 203.217.169.100:6969
 203.218.172.225:8080
@@ -23580,7 +23571,6 @@
 203.243.51.173:8000
 203.243.63.16:80
 203.28.8.0:80
-203.29.26.47:8080
 203.30.190.46:80
 203.30.191.218:80
 203.30.191.34:80
@@ -23680,6 +23670,7 @@
 204.199.120.27:999
 204.199.120.28:999
 204.199.120.29:999
+204.199.120.61:999
 204.199.125.91:999
 204.199.128.94:999
 204.199.129.38:999
@@ -23843,7 +23834,6 @@
 207.177.51.102:6969
 207.180.204.122:32444
 207.180.204.122:35655
-207.180.204.122:54315
 207.180.204.122:61258
 207.180.213.101:7497
 207.180.216.251:8118
@@ -23859,7 +23849,8 @@
 207.204.241.126:8118
 207.229.149.149:39451
 207.229.149.149:9983
-207.230.8.3:999
+207.230.8.10:999
+207.230.8.66:999
 207.244.255.174:1428
 207.244.255.174:42188
 207.246.104.222:8888
@@ -23879,6 +23870,7 @@
 207.55.242.248:63712
 207.55.243.67:61827
 208.102.51.6:58208
+208.103.57.18:8181
 208.109.13.24:27097
 208.109.13.24:3483
 208.109.14.49:19374
@@ -23940,6 +23932,8 @@
 209.14.112.11:1080
 209.14.112.3:1080
 209.14.112.5:1080
+209.14.115.33:999
+209.14.119.209:999
 209.141.33.219:9092
 209.141.54.136:5555
 209.141.55.228:80
@@ -24066,7 +24060,7 @@
 212.110.188.211:3440
 212.110.188.211:34409
 212.110.188.213:34411
-212.112.120.252:45555
+212.112.113.178:3128
 212.112.125.44:45555
 212.112.127.20:8080
 212.112.97.27:3128
@@ -24130,6 +24124,7 @@
 212.19.7.246:3128
 212.19.8.215:8080
 212.191.130.227:8080
+212.192.3.101:8080
 212.192.31.37:3128
 212.193.176.82:3128
 212.193.5.226:80
@@ -24168,7 +24163,6 @@
 212.33.228.127:1080
 212.33.238.17:8111
 212.33.238.18:8111
-212.33.248.45:1080
 212.35.104.3:3128
 212.39.114.139:5678
 212.39.74.207:8080
@@ -24239,7 +24233,6 @@
 213.136.78.200:45380
 213.136.78.200:47699
 213.136.78.200:59877
-213.136.79.177:40285
 213.14.19.179:9111
 213.14.19.180:9111
 213.14.19.182:9111
@@ -24412,11 +24405,11 @@
 216.169.73.65:34679
 216.169.73.65:60221
 216.173.2.205:8080
+216.173.98.68:6070
 216.176.187.99:30001
 216.176.187.99:30013
 216.176.187.99:30026
 216.176.187.99:30039
-216.176.187.99:39812
 216.176.187.99:39837
 216.176.187.99:39865
 216.176.187.99:8886
@@ -24478,10 +24471,10 @@
 217.197.158.182:41890
 217.197.237.74:8080
 217.199.151.29:84
+217.199.151.94:83
 217.21.148.50:33192
 217.21.214.139:8080
 217.219.121.66:3128
-217.219.172.42:3128
 217.219.247.115:8080
 217.219.28.114:3128
 217.219.28.117:3128
@@ -24701,12 +24694,14 @@
 221.217.55.127:9000
 221.217.55.236:7890
 221.219.100.97:8886
+221.219.102.153:9000
 221.219.97.105:9000
 221.219.99.197:9000
 221.224.53.83:3128
 221.226.109.229:7302
 221.226.75.86:55443
 221.230.139.83:3128
+221.230.7.38:9000
 221.231.13.198:1080
 221.232.237.77:8118
 221.236.177.179:8118
@@ -24900,6 +24895,7 @@
 222.255.139.134:5678
 222.255.238.159:80
 222.255.29.46:8888
+222.64.104.82:9000
 222.64.126.144:9000
 222.64.154.90:9000
 222.64.157.96:9000
@@ -25164,7 +25160,6 @@
 23.143.160.18:999
 23.143.160.6:999
 23.143.160.7:999
-23.146.184.38:3128
 23.152.40.14:3128
 23.162.160.1:16099
 23.170.240.19:3128
@@ -25175,7 +25170,6 @@
 23.225.133.68:41698
 23.225.133.70:41698
 23.225.133.73:41698
-23.225.133.74:41698
 23.225.133.75:41698
 23.225.133.78:41698
 23.225.133.80:41698
@@ -25190,6 +25184,7 @@
 23.227.38.230:80
 23.231.34.48:80
 23.251.138.105:8080
+23.253.80.88:80
 23.254.229.197:3128
 23.254.231.55:80
 23.27.201.59:1080
@@ -25266,6 +25261,7 @@
 24.152.50.73:999
 24.152.50.85:999
 24.152.58.18:999
+24.152.58.22:999
 24.156.135.87:9090
 24.16.44.242:80
 24.161.131.67:9090
@@ -25366,7 +25362,6 @@
 24.95.66.210:25997
 24.98.81.111:9090
 24.99.196.253:21143
-253.167.198.31:8080
 26.42.247.184:2049
 2603720.219.178.121:3129
 27.105.130.93:8080
@@ -25461,12 +25456,13 @@
 27.157.230.56:8089
 27.157.230.98:8089
 27.157.247.234:8089
+27.157.60.220:8089
+27.158.1.10:8089
 27.158.54.94:8089
 27.184.136.182:21212
 27.191.60.153:3256
 27.254.104.130:8080
 27.254.123.203:8443
-27.254.162.101:80
 27.254.46.194:80
 27.254.99.183:8118
 27.255.58.74:8080
@@ -25485,6 +25481,7 @@
 27.65.240.155:1080
 27.66.24.149:4003
 27.66.24.152:4001
+27.66.24.9:1080
 27.68.106.189:4007
 27.69.160.173:4002
 27.69.163.104:4003
@@ -25646,7 +25643,6 @@
 31.146.216.246:8080
 31.146.5.178:8080
 31.146.84.142:61669
-31.146.97.254:5678
 31.148.207.153:80
 31.148.7.130:3128
 31.161.38.233:8090
@@ -25658,7 +25654,6 @@
 31.170.19.5:4153
 31.170.22.127:1080
 31.170.53.14:80
-31.170.53.157:80
 31.171.104.39:8080
 31.171.154.199:8118
 31.172.133.253:4153
@@ -25684,7 +25679,6 @@
 31.220.183.217:53281
 31.220.78.244:80
 31.220.82.53:80
-31.220.97.51:3128
 31.220.97.75:3128
 31.223.6.135:9090
 31.223.6.197:9090
@@ -25739,16 +25733,18 @@
 34.135.166.24:80
 34.135.203.172:3128
 34.138.225.120:8888
-34.140.73.25:3128
 34.154.161.152:80
 34.159.44.143:3128
 34.165.22.141:3128
+34.172.92.211:3128
+34.175.101.255:80
 34.200.212.178:9999
 34.201.126.212:9999
 34.201.174.34:9999
 34.205.247.32:9999
 34.207.96.203:8118
 34.214.216.109:8080
+34.215.74.117:3128
 34.215.74.117:80
 34.22.84.17:3128
 34.228.116.189:9999
@@ -25807,6 +25803,7 @@
 35.209.170.153:8118
 35.210.106.5:80
 35.210.127.110:8181
+35.211.38.54:80
 35.214.170.66:3128
 35.223.150.250:3128
 35.224.158.70:80
@@ -25877,17 +25874,15 @@
 36.6.141.24:8089
 36.6.141.33:8089
 36.6.141.80:8089
-36.6.144.124:8089
 36.6.144.150:8089
+36.6.144.184:8089
 36.6.144.186:8089
 36.6.144.188:8089
 36.6.144.211:8089
 36.6.144.227:8089
 36.6.144.22:8089
-36.6.144.48:8089
 36.6.144.6:8089
-36.6.145.11:8089
-36.6.145.120:8089
+36.6.144.70:8089
 36.6.145.147:8089
 36.6.145.15:8089
 36.6.145.176:8089
@@ -25897,6 +25892,7 @@
 36.6.145.19:8089
 36.6.145.1:8089
 36.6.145.202:8089
+36.6.145.217:8089
 36.6.145.218:8089
 36.6.145.232:8089
 36.6.145.235:8089
@@ -25904,6 +25900,7 @@
 36.6.145.250:8089
 36.6.145.251:8089
 36.6.145.29:8089
+36.6.145.42:8089
 36.6.145.54:8089
 36.6.145.73:8089
 36.6.145.88:8089
@@ -25921,6 +25918,7 @@
 36.64.195.242:8080
 36.64.22.18:8199
 36.64.238.82:1080
+36.64.52.226:8080
 36.66.103.75:8080
 36.66.107.42:8080
 36.66.110.210:8080
@@ -26319,6 +26317,7 @@
 37.32.112.133:8080
 37.32.126.14:3128
 37.32.15.125:6888
+37.32.22.236:8080
 37.32.23.217:3128
 37.32.23.238:7890
 37.32.40.178:8080
@@ -26340,7 +26339,6 @@
 37.54.13.78:8081
 37.57.15.43:33761
 37.58.4.38:8080
-37.58.58.206:80
 37.59.49.134:8080
 37.60.238.249:3128
 37.75.246.142:8080
@@ -26366,13 +26364,11 @@
 38.10.69.109:9090
 38.10.69.110:9090
 38.10.69.99:9090
-38.10.90.246:8080
 38.103.164.174:9090
 38.104.176.34:999
 38.113.171.1:31596
 38.113.171.88:57775
 38.123.207.247:999
-38.123.220.16:8080
 38.123.220.83:8080
 38.123.220.86:8080
 38.127.172.137:47421
@@ -26396,15 +26392,13 @@
 38.156.13.107:999
 38.156.13.74:999
 38.156.15.160:999
-38.156.233.74:999
+38.156.233.137:999
 38.156.233.75:999
 38.156.233.76:999
 38.156.233.77:999
 38.156.233.78:999
 38.156.235.113:999
-38.156.235.227:999
 38.156.235.232:999
-38.156.235.35:999
 38.156.235.36:999
 38.156.72.166:8080
 38.156.72.179:8080
@@ -26423,7 +26417,6 @@
 38.158.202.121:999
 38.158.202.162:999
 38.158.202.82:999
-38.158.81.226:999
 38.158.92.10:8080
 38.158.92.120:8080
 38.158.92.141:8080
@@ -26840,7 +26833,6 @@
 38.180.36.19:80
 38.183.144.117:8080
 38.183.152.250:999
-38.183.152.34:8090
 38.183.175.90:999
 38.183.175.9:999
 38.188.127.115:8080
@@ -26851,7 +26843,6 @@
 38.188.203.9:8080
 38.188.251.10:8080
 38.201.182.222:8089
-38.201.21.232:52039
 38.22.174.129:999
 38.242.240.167:56545
 38.242.240.82:51337
@@ -26867,7 +26858,6 @@
 38.253.88.242:999
 38.253.95.96:999
 38.41.0.193:8080
-38.41.0.60:11201
 38.41.0.62:11201
 38.41.0.88:999
 38.41.0.89:999
@@ -26887,11 +26877,11 @@
 38.41.5.75:999
 38.41.53.144:9090
 38.41.53.145:9090
+38.43.150.169:999
 38.44.108.42:999
 38.44.241.37:999
 38.45.242.37:999
 38.45.246.210:999
-38.45.247.98:999
 38.45.36.196:999
 38.45.37.193:999
 38.45.42.200:999
@@ -26955,7 +26945,6 @@
 38.51.48.189:999
 38.51.48.18:999
 38.51.48.190:999
-38.51.48.86:999
 38.51.48.90:999
 38.51.48.92:999
 38.51.48.93:999
@@ -27035,7 +27024,6 @@
 38.57.3.39:42997
 38.57.3.39:61820
 38.57.3.52:40184
-38.57.3.58:31017
 38.65.172.10:999
 38.65.172.4:999
 38.65.172.97:999
@@ -27062,10 +27050,11 @@
 38.7.197.192:999
 38.7.197.4:999
 38.7.20.137:999
+38.7.204.129:999
 38.7.206.35:999
 38.7.24.17:8080
+38.7.3.13:999
 38.7.3.4:999
-38.7.31.229:999
 38.7.31.230:999
 38.7.6.2:999
 38.7.6.4:999
@@ -27152,13 +27141,11 @@
 39.106.21.240:8118
 39.106.223.134:80
 39.106.223.207:80
-39.106.60.216:3128
 39.106.71.115:7890
 39.106.71.115:7891
 39.107.118.178:3128
 39.107.118.84:7890
 39.107.120.65:6666
-39.107.230.100:3128
 39.107.33.254:8090
 39.107.59.9:808
 39.107.89.178:80
@@ -27172,7 +27159,6 @@
 39.108.8.25:8888
 39.108.8.27:8888
 39.108.82.243:808
-39.108.88.42:80
 39.109.113.97:3128
 39.109.124.65:8080
 39.137.107.98:8080
@@ -27208,7 +27194,6 @@
 41.128.148.78:1981
 41.128.148.82:1976
 41.128.90.54:1981
-41.128.91.186:1981
 41.138.168.2:8080
 41.139.169.99:8083
 41.139.197.163:8080
@@ -27255,9 +27240,9 @@
 41.206.36.90:8080
 41.207.187.178:80
 41.207.187.178:8052
-41.207.249.166:8080
 41.209.10.148:8080
 41.209.10.204:8080
+41.209.10.211:8080
 41.215.33.186:15808
 41.215.4.242:8080
 41.215.85.74:8080
@@ -27298,6 +27283,7 @@
 41.234.66.33:3128
 41.240.178.30:80
 41.242.116.150:50000
+41.242.116.150:50002
 41.242.116.150:50003
 41.242.116.235:50000
 41.242.150.184:3128
@@ -27321,6 +27307,7 @@
 41.33.145.219:1981
 41.33.203.115:1974
 41.33.203.234:1975
+41.33.203.235:1976
 41.33.219.130:1981
 41.33.219.132:8080
 41.33.219.141:8080
@@ -27351,6 +27338,7 @@
 41.57.156.1:6060
 41.57.16.1:8080
 41.57.182.16:6060
+41.57.21.119:6060
 41.57.25.33:8080
 41.57.32.126:6060
 41.57.32.130:6060
@@ -27436,7 +27424,6 @@
 41.65.227.115:1976
 41.65.227.118:1976
 41.65.227.118:1981
-41.65.227.119:1976
 41.65.227.98:1981
 41.65.227.99:1976
 41.65.227.99:1981
@@ -27447,7 +27434,6 @@
 41.65.236.39:1981
 41.65.236.43:1976
 41.65.236.43:1981
-41.65.236.53:1976
 41.65.236.53:1981
 41.65.236.56:1976
 41.65.236.56:1981
@@ -27460,7 +27446,6 @@
 41.65.251.90:1976
 41.65.251.90:1981
 41.65.46.178:1981
-41.65.46.181:1976
 41.65.46.181:1981
 41.65.55.10:1976
 41.65.55.10:1981
@@ -27511,6 +27496,7 @@
 41.86.252.91:443
 41.86.42.41:8080
 41.86.46.112:8080
+41.87.77.34:32650
 41.89.16.6:80
 41.90.245.23:8080
 41.90.9.45:8102
@@ -27527,10 +27513,12 @@
 42.159.10.142:8081
 42.190.185.205:8080
 42.192.22.233:8118
+42.193.179.113:8118
 42.193.183.61:2080
 42.194.130.58:10808
 42.200.196.208:8080
 42.49.148.167:9001
+42.96.10.104:3128
 43.128.133.158:15673
 43.129.195.235:443
 43.129.195.235:80
@@ -27714,7 +27702,6 @@
 43.252.10.212:2222
 43.252.105.140:8080
 43.252.11.194:8080
-43.252.11.68:8484
 43.252.144.72:8080
 43.252.158.41:8080
 43.252.236.157:8080
@@ -27725,7 +27712,6 @@
 43.254.126.41:8080
 43.254.132.123:8118
 43.255.113.232:80
-43.255.113.232:8080
 43.255.113.232:8081
 43.255.113.232:8082
 43.255.113.232:8083
@@ -27733,7 +27719,6 @@
 43.255.113.232:8085
 43.255.113.232:8086
 43.255.113.232:81
-43.255.113.232:82
 43.255.113.232:83
 43.255.113.232:84
 43.255.113.232:85
@@ -27759,7 +27744,6 @@
 44.226.167.102:3128
 44.226.167.102:80
 44.56.0.1:8118
-45.10.53.62:81
 45.11.94.161:3128
 45.11.95.165:5001
 45.11.95.165:5002
@@ -27857,7 +27841,6 @@
 45.127.222.83:32650
 45.127.222.93:32650
 45.127.245.42:8080
-45.127.56.194:82
 45.127.56.194:83
 45.127.56.194:84
 45.128.133.193:1080
@@ -27872,7 +27855,7 @@
 45.133.107.246:81
 45.133.107.64:81
 45.133.168.120:8080
-45.133.168.181:8080
+45.133.168.18:8080
 45.133.168.29:8080
 45.133.168.59:8080
 45.133.245.159:3128
@@ -27891,6 +27874,8 @@
 45.140.189.95:29003
 45.142.104.203:3128
 45.142.182.99:1080
+45.143.108.10:8080
+45.143.108.13:8080
 45.143.220.99:8118
 45.144.164.102:8080
 45.144.164.104:8080
@@ -27913,6 +27898,7 @@
 45.149.40.31:41890
 45.149.43.56:53281
 45.149.79.229:555
+45.149.93.213:8080
 45.15.16.194:8118
 45.15.16.203:8118
 45.15.16.242:8118
@@ -28028,7 +28014,6 @@
 45.163.54.2:3128
 45.164.150.122:999
 45.164.150.123:999
-45.164.174.30:999
 45.164.247.192:4153
 45.164.249.244:5566
 45.164.60.138:53281
@@ -28068,6 +28053,7 @@
 45.169.16.1:8080
 45.169.170.1:3128
 45.169.98.73:8080
+45.17.114.107:8080
 45.17.249.223:8080
 45.170.10.237:999
 45.170.100.10:999
@@ -28082,6 +28068,7 @@
 45.170.102.89:999
 45.170.125.67:999
 45.171.108.253:999
+45.171.109.1:999
 45.171.110.1:999
 45.171.144.221:8080
 45.171.144.243:8083
@@ -28166,7 +28153,6 @@
 45.173.44.8:999
 45.173.44.9:999
 45.173.6.102:8080
-45.173.6.201:999
 45.173.6.49:999
 45.173.6.5:999
 45.173.6.98:999
@@ -28199,7 +28185,6 @@
 45.174.77.241:999
 45.174.77.243:999
 45.174.78.1:999
-45.174.78.253:999
 45.174.78.41:999
 45.174.78.64:999
 45.174.79.101:999
@@ -28231,6 +28216,7 @@
 45.175.237.184:999
 45.175.237.194:999
 45.175.237.20:999
+45.175.239.16:999
 45.175.239.6:999
 45.175.24.179:41890
 45.175.252.18:999
@@ -28260,6 +28246,7 @@
 45.178.133.77:999
 45.178.133.78:999
 45.178.52.25:999
+45.178.54.65:999
 45.178.55.1:999
 45.179.170.238:80
 45.179.184.121:8083
@@ -28304,7 +28291,6 @@
 45.181.123.89:999
 45.181.123.97:999
 45.181.188.43:8080
-45.181.205.138:999
 45.181.205.222:999
 45.181.207.129:999
 45.181.226.152:999
@@ -28316,12 +28302,10 @@
 45.183.13.225:8080
 45.183.142.123:999
 45.183.142.126:999
-45.183.40.23:8080
 45.184.103.113:999
 45.184.103.67:999
 45.184.109.199:8080
 45.184.124.33:1985
-45.184.124.9:1985
 45.184.128.100:8181
 45.184.128.95:8181
 45.184.129.165:8181
@@ -28386,8 +28370,6 @@
 45.188.166.52:1994
 45.188.166.53:1994
 45.188.167.25:999
-45.188.76.107:999
-45.188.76.236:999
 45.188.76.238:999
 45.188.76.98:999
 45.188.77.197:999
@@ -28470,6 +28452,8 @@
 45.190.187.123:999
 45.190.249.100:8080
 45.190.52.24:8080
+45.190.76.105:999
+45.190.76.110:999
 45.190.77.214:999
 45.190.77.215:999
 45.190.77.218:999
@@ -28507,6 +28491,7 @@
 45.191.130.61:45005
 45.191.196.253:999
 45.191.196.254:999
+45.191.46.210:999
 45.191.47.1:999
 45.191.75.171:999
 45.191.75.176:999
@@ -28588,6 +28573,7 @@
 45.225.19.13:8080
 45.225.204.8:999
 45.225.207.162:999
+45.225.207.165:999
 45.225.207.166:999
 45.225.207.179:999
 45.225.207.181:999
@@ -28806,7 +28792,6 @@
 45.235.123.45:999
 45.235.14.18:999
 45.235.14.7:999
-45.235.14.8:999
 45.235.15.15:999
 45.235.16.121:27234
 45.235.200.32:4000
@@ -28818,7 +28803,6 @@
 45.236.106.243:999
 45.236.106.245:999
 45.236.107.122:999
-45.236.107.123:999
 45.236.152.45:6666
 45.236.162.240:3128
 45.236.168.133:999
@@ -28846,9 +28830,12 @@
 45.239.175.19:8080
 45.239.28.1:999
 45.239.30.1:999
+45.239.50.58:999
+45.240.182.116:1975
 45.240.182.116:1981
 45.240.182.119:1976
 45.240.182.119:1981
+45.240.182.120:1975
 45.240.182.121:1981
 45.241.19.125:8080
 45.248.138.150:8080
@@ -28857,7 +28844,6 @@
 45.248.41.216:9812
 45.249.216.77:8081
 45.249.50.137:4153
-45.249.77.113:83
 45.249.78.17:82
 45.249.78.25:83
 45.249.79.190:3629
@@ -28893,8 +28879,6 @@
 45.5.118.43:999
 45.5.119.146:999
 45.5.136.42:8080
-45.5.136.6:8080
-45.5.139.241:8080
 45.5.145.164:8090
 45.5.145.165:8090
 45.5.147.20:8090
@@ -28925,13 +28909,13 @@
 45.56.89.159:32470
 45.58.52.5:80
 45.6.101.97:4153
-45.6.102.10:8080
 45.6.108.158:8080
 45.6.200.17:8080
 45.6.200.2:8080
 45.6.201.224:8080
 45.6.201.255:8080
 45.6.224.254:999
+45.6.224.76:999
 45.6.38.24:8080
 45.6.4.58:8080
 45.6.4.60:8080
@@ -29003,7 +28987,6 @@
 45.7.178.102:34234
 45.7.210.199:4153
 45.7.24.102:3128
-45.7.64.100:999
 45.7.64.4:999
 45.7.64.56:999
 45.7.66.253:999
@@ -29084,11 +29067,11 @@
 45.71.185.242:999
 45.71.185.243:999
 45.71.185.244:999
-45.71.185.245:999
 45.71.186.92:6969
 45.71.186.93:6969
 45.71.186.94:6969
 45.71.202.147:1993
+45.71.202.148:1993
 45.71.202.201:999
 45.71.202.202:999
 45.71.253.111:999
@@ -29117,6 +29100,7 @@
 45.79.223.53:18888
 45.79.230.234:443
 45.79.34.127:3128
+45.8.105.188:80
 45.8.144.44:3128
 45.8.179.241:1337
 45.8.179.242:1337
@@ -29229,8 +29213,6 @@
 46.0.203.186:8080
 46.1.103.186:10001
 46.10.209.230:8080
-46.10.229.243:7777
-46.100.106.242:6030
 46.101.102.134:3128
 46.101.126.180:32995
 46.101.126.180:33683
@@ -29248,7 +29230,6 @@
 46.101.179.133:38189
 46.101.179.49:3129
 46.101.19.131:80
-46.101.223.220:3124
 46.101.252.12:3128
 46.101.51.185:3128
 46.101.97.173:8080
@@ -29277,7 +29258,6 @@
 46.160.90.81:5678
 46.161.194.136:8085
 46.161.194.71:8080
-46.161.194.72:3128
 46.161.194.91:8085
 46.161.195.101:1976
 46.161.195.101:1981
@@ -29288,6 +29268,7 @@
 46.161.195.105:1976
 46.161.195.105:1981
 46.161.196.174:4145
+46.161.196.222:8080
 46.161.196.225:8080
 46.161.196.225:9812
 46.161.230.252:8080
@@ -29340,7 +29321,6 @@
 46.209.22.250:3629
 46.209.24.54:80
 46.209.49.226:3698
-46.209.49.227:3698
 46.209.54.102:8080
 46.21.153.16:3128
 46.21.240.185:1080
@@ -29356,9 +29336,7 @@
 46.23.53.164:3629
 46.231.72.244:8080
 46.231.72.35:5678
-46.232.248.164:80
 46.233.57.244:9184
-46.243.171.6:443
 46.243.220.197:3128
 46.243.220.226:8118
 46.243.220.227:8118
@@ -29369,7 +29347,6 @@
 46.245.77.53:3128
 46.246.12.7:8888
 46.246.14.10:8118
-46.246.28.106:3128
 46.246.28.106:80
 46.246.4.17:8118
 46.246.6.5:8118
@@ -29389,7 +29366,6 @@
 46.250.233.121:3128
 46.250.239.52:3128
 46.250.240.209:3128
-46.250.242.57:3128
 46.250.248.92:3128
 46.250.254.74:3128
 46.252.242.232:8080
@@ -29426,6 +29402,7 @@
 46.51.249.135:3128
 46.52.130.52:8080
 46.52.162.45:8080
+46.52.192.171:3128
 46.54.247.142:62311
 46.63.69.104:80
 46.63.71.13:8080
@@ -29528,6 +29505,7 @@
 47.109.57.93:8090
 47.109.57.93:9443
 47.109.57.93:999
+47.109.88.49:1080
 47.110.9.152:8118
 47.112.224.70:8060
 47.113.121.137:7890
@@ -29594,7 +29572,6 @@
 47.242.254.136:8119
 47.242.3.214:8081
 47.242.47.64:8888
-47.242.58.120:3128
 47.243.101.11:8118
 47.243.114.192:8180
 47.243.119.60:8080
@@ -29892,7 +29869,6 @@
 47.92.248.86:8080
 47.92.250.210:30001
 47.93.114.68:88
-47.93.121.200:80
 47.93.173.223:3128
 47.93.52.36:3129
 47.93.56.90:8888
@@ -29912,7 +29888,6 @@
 47.96.70.163:8118
 47.96.70.163:82
 47.96.70.163:8888
-47.97.191.179:8018
 47.97.21.151:1024
 47.97.213.76:8899
 47.97.36.220:8877
@@ -29929,7 +29904,6 @@
 47.98.144.111:9000
 47.98.151.6:16144
 47.98.159.9:3128
-47.98.167.139:8089
 47.98.185.171:7890
 47.98.230.152:8118
 47.98.46.112:80
@@ -29975,7 +29949,6 @@
 49.0.253.51:8080
 49.0.253.51:9093
 49.0.34.194:80
-49.0.34.194:8080
 49.0.39.10:8080
 49.0.39.186:8080
 49.0.82.190:8080
@@ -30151,11 +30124,9 @@
 5.161.115.54:8080
 5.161.180.82:50001
 5.161.215.214:4228
-5.161.219.250:3128
 5.161.50.72:5662
 5.161.74.235:1301
 5.161.74.235:13012
-5.161.74.235:6902
 5.161.75.111:3128
 5.163.121.114:8080
 5.164.170.38:8080
@@ -30167,7 +30138,6 @@
 5.180.130.90:8080
 5.180.130.91:80
 5.180.130.91:8080
-5.180.19.163:1080
 5.180.33.23:1337
 5.181.93.127:4153
 5.183.207.110:3128
@@ -30180,6 +30150,7 @@
 5.188.136.52:8080
 5.188.168.19:8443
 5.188.232.34:8213
+5.188.29.124:3128
 5.188.34.149:8443
 5.188.4.100:80
 5.189.117.199:999
@@ -30187,7 +30158,6 @@
 5.189.140.113:8118
 5.189.146.57:80
 5.189.158.162:3128
-5.189.161.23:3128
 5.189.170.180:5566
 5.189.179.28:3128
 5.189.184.6:80
@@ -30440,7 +30410,6 @@
 5.8.240.92:4153
 5.8.53.7:18081
 5.83.244.1:8080
-5.83.248.1:8080
 5.9.112.247:3128
 5.9.118.41:8889
 5.9.141.151:30000
@@ -30732,7 +30701,6 @@
 51.15.234.89:16379
 51.15.241.5:16379
 51.15.242.202:8888
-51.15.247.93:16379
 51.15.249.101:16379
 51.15.252.246:16379
 51.15.254.129:16379
@@ -30770,7 +30738,6 @@
 51.159.134.210:3128
 51.159.21.239:29483
 51.159.36.88:29652
-51.159.66.158:3128
 51.159.79.147:8088
 51.161.131.84:12345
 51.161.131.84:3934
@@ -30848,10 +30815,10 @@
 51.75.122.80:80
 51.75.126.150:1250
 51.75.126.150:18856
-51.75.126.150:21090
 51.75.126.150:28381
 51.75.126.150:34737
 51.75.126.150:46545
+51.75.126.150:48491
 51.75.126.150:50431
 51.75.126.150:51468
 51.75.126.150:5280
@@ -30893,6 +30860,7 @@
 51.79.101.5:3128
 51.79.142.230:38414
 51.79.207.21:8080
+51.79.207.228:3128
 51.79.248.215:25693
 51.79.249.186:3128
 51.79.50.22:9300
@@ -30938,9 +30906,7 @@
 51.89.0.56:21234
 51.89.135.169:8080
 51.89.135.171:8080
-51.89.135.172:8080
 51.89.135.173:8080
-51.89.135.175:8080
 51.89.14.70:80
 51.89.14.70:8016
 51.89.14.70:8079
@@ -30953,6 +30919,7 @@
 51.89.173.40:23854
 51.89.173.40:25500
 51.89.173.40:27430
+51.89.173.40:27887
 51.89.173.40:30199
 51.89.173.40:3100
 51.89.173.40:31724
@@ -30983,12 +30950,15 @@
 52.16.232.164:3128
 52.172.1.186:3128
 52.172.1.186:80
+52.173.28.127:8080
 52.191.208.232:80
 52.196.1.182:80
 52.201.240.191:9999
+52.226.135.84:80
 52.226.3.123:3128
 52.23.251.94:8118
 52.233.192.133:443
+52.233.192.133:80
 52.236.90.60:3128
 52.24.80.166:80
 52.26.114.229:3128
@@ -31056,6 +31026,7 @@
 54.248.238.110:80
 54.248.238.11:80
 54.248.94.12:3128
+54.36.108.149:14441
 54.36.108.149:9625
 54.36.122.24:37842
 54.36.81.217:8080
@@ -31202,6 +31173,7 @@
 58.147.186.226:80
 58.147.186.226:8080
 58.147.186.228:3125
+58.147.186.31:3125
 58.147.187.46:3125
 58.147.187.50:3125
 58.147.189.106:8080
@@ -31253,6 +31225,7 @@
 58.69.201.117:8082
 58.69.201.220:8080
 58.69.228.109:8080
+58.69.247.70:8083
 58.69.65.19:8082
 58.8.143.98:80
 58.8.255.159:8080
@@ -31270,7 +31243,6 @@
 59.124.71.14:80
 59.126.92.130:33333
 59.144.175.48:8080
-59.15.28.114:3128
 59.15.28.76:3128
 59.152.63.68:9000
 59.18.13.75:80
@@ -31315,13 +31287,12 @@
 60.170.105.134:7001
 60.170.204.30:8060
 60.174.0.111:8089
-60.174.0.238:8089
+60.174.0.136:8089
 60.174.0.242:8089
-60.174.0.245:8089
+60.174.0.75:8089
 60.174.0.96:8089
 60.174.1.138:8089
-60.174.1.173:8089
-60.174.1.189:8089
+60.174.1.193:8089
 60.174.1.232:8089
 60.176.45.103:4780
 60.177.244.252:1080
@@ -31387,6 +31358,7 @@
 61.177.248.202:1080
 61.178.141.146:80
 61.178.152.31:7302
+61.178.94.23:7302
 61.178.99.43:7302
 61.183.234.226:9091
 61.186.243.6:9002
@@ -31443,6 +31415,7 @@
 61.85.31.122:8001
 61.9.32.58:1
 61.9.32.62:65535
+61.9.32.70:1
 61.9.33.102:1337
 61.9.33.118:1337
 61.9.34.118:1
@@ -31565,6 +31538,7 @@
 63.250.52.82:8118
 63.76.255.180:5678
 64.105.51.186:5328
+64.110.83.145:3128
 64.111.32.54:9090
 64.119.29.22:8080
 64.136.197.96:9090
@@ -31638,11 +31612,6 @@
 64.225.8.132:10008
 64.225.8.132:10009
 64.225.8.132:10010
-64.225.8.132:10011
-64.225.8.132:10012
-64.225.8.132:10014
-64.225.8.132:10017
-64.225.8.132:10018
 64.225.8.132:9999
 64.225.8.135:9999
 64.225.8.142:10005
@@ -31651,15 +31620,12 @@
 64.225.8.203:9998
 64.226.72.48:8080
 64.226.73.44:8118
-64.226.74.138:3128
 64.227.106.157:80
 64.227.108.182:38867
 64.227.108.182:58024
 64.227.108.25:31908
 64.227.23.88:8118
-64.227.4.90:8000
 64.227.6.0:4003
-64.227.64.117:3128
 64.227.7.192:3128
 64.247.11.128:3307
 64.247.11.130:3307
@@ -31670,14 +31636,10 @@
 64.30.123.252:9090
 64.56.150.102:3128
 64.58.194.130:4125
-64.62.200.198:3128
-64.64.225.119:3128
 64.66.192.61:80
 64.66.192.62:32080
 64.66.192.62:80
 64.71.145.122:3128
-64.76.211.58:999
-64.76.211.59:999
 64.76.43.115:999
 64.83.209.110:9090
 64.85.160.216:1080
@@ -31701,7 +31663,6 @@
 65.108.69.40:10052
 65.108.69.40:10053
 65.108.9.181:80
-65.109.13.125:8090
 65.109.140.254:8080
 65.109.152.88:8888
 65.109.161.106:8080
@@ -31709,7 +31670,6 @@
 65.109.173.114:8080
 65.109.175.213:8080
 65.109.199.184:80
-65.109.203.176:80
 65.109.228.231:8080
 65.109.229.139:8080
 65.109.239.232:8080
@@ -31724,8 +31684,6 @@
 65.190.207.153:9090
 65.199.160.6:80
 65.20.147.153:80
-65.20.147.153:8080
-65.20.154.62:28080
 65.20.171.253:8080
 65.20.183.187:8080
 65.20.189.144:8080
@@ -31761,7 +31719,6 @@
 65.30.92.48:9090
 65.31.98.112:9090
 65.48.236.89:8111
-65.49.38.202:3128
 65.50.35.144:9090
 65.50.35.157:9090
 65.57.240.117:80
@@ -31780,7 +31737,6 @@
 65.64.246.51:9169
 65.75.189.33:9090
 66.104.77.20:3128
-66.113.238.198:80
 66.128.123.114:8080
 66.133.217.190:3751
 66.135.227.181:4145
@@ -31810,12 +31766,12 @@
 66.203.232.67:60947
 66.207.184.73:5432
 66.209.47.102:5328
-66.210.33.34:8080
 66.211.127.78:9090
 66.211.155.34:8080
 66.214.103.11:3128
 66.214.17.189:9090
 66.219.254.4:5035
+66.223.176.201:8080
 66.225.246.238:8080
 66.229.205.251:9090
 66.23.233.210:37421
@@ -31826,12 +31782,9 @@
 66.253.232.57:9090
 66.26.117.254:9090
 66.27.58.70:8080
-66.29.128.241:49635
 66.29.128.241:53268
 66.29.128.244:16120
-66.29.128.244:28622
 66.29.129.54:43079
-66.29.129.56:55050
 66.30.83.96:5991
 66.33.221.124:46533
 66.33.222.36:63352
@@ -31843,7 +31796,6 @@
 66.42.63.207:13802
 66.42.67.65:38080
 66.42.73.120:38080
-66.54.106.56:8080
 66.56.6.98:17941
 66.57.1.142:9090
 66.57.230.14:9090
@@ -31856,7 +31808,6 @@
 66.70.197.194:8050
 66.70.197.196:8050
 66.70.225.202:8050
-66.70.235.23:5454
 66.70.235.23:8080
 66.76.140.239:39593
 66.77.122.132:80
@@ -31871,7 +31822,6 @@
 66.96.238.165:22
 66.96.238.40:8080
 66.98.115.121:1091
-66.98.24.237:8080
 66.99.71.247:9090
 67.149.165.201:9090
 67.149.215.109:9090
@@ -31910,138 +31860,100 @@
 67.205.162.56:10605
 67.205.177.122:58502
 67.205.179.247:8118
-67.205.189.239:154
 67.205.190.164:8080
 67.206.206.2:999
-67.206.206.74:8888
 67.206.213.202:3120
 67.208.3.220:8080
 67.210.146.50:11080
 67.213.210.115:54723
 67.213.210.167:13411
 67.213.210.167:46742
-67.213.210.168:25287
 67.213.210.168:43915
-67.213.210.62:54692
-67.213.212.38:63966
 67.213.212.39:56179
 67.213.212.40:12731
+67.213.212.40:24585
 67.213.212.47:45339
-67.213.212.49:55464
 67.213.212.49:56211
-67.213.212.51:33869
-67.213.212.55:16659
 67.213.212.55:26827
-67.213.212.57:17884
 67.213.212.57:34772
+67.213.212.57:54957
 67.217.17.182:9090
 67.217.58.239:3128
 67.22.28.62:8080
 67.223.119.154:80
-67.223.119.155:80
 67.227.158.154:80
 67.228.42.208:80
 67.23.64.98:5328
 67.43.119.143:4809
 67.43.175.139:1080
-67.43.227.226:11395
-67.43.227.226:14999
-67.43.227.226:15105
-67.43.227.226:15143
-67.43.227.226:16423
-67.43.227.226:19895
-67.43.227.226:20989
-67.43.227.226:2101
-67.43.227.226:23351
-67.43.227.226:24135
-67.43.227.226:25639
-67.43.227.226:25793
-67.43.227.226:31659
-67.43.227.226:5207
-67.43.227.226:5471
-67.43.227.226:5529
-67.43.227.226:6755
-67.43.227.226:6931
+67.43.227.226:15593
+67.43.227.226:25997
+67.43.227.226:31155
+67.43.227.226:31767
+67.43.227.226:32793
 67.43.227.226:8943
-67.43.227.226:9121
-67.43.227.227:10007
-67.43.227.227:10259
-67.43.227.227:10287
-67.43.227.227:1043
-67.43.227.227:10439
-67.43.227.227:10849
 67.43.227.227:1088
-67.43.227.227:1115
-67.43.227.227:11509
-67.43.227.227:11605
-67.43.227.227:11771
+67.43.227.227:13401
 67.43.227.227:15643
 67.43.227.227:1581
-67.43.227.227:16681
+67.43.227.227:17169
+67.43.227.227:17227
 67.43.227.227:17629
 67.43.227.227:1789
 67.43.227.227:20353
 67.43.227.227:20803
 67.43.227.227:2229
 67.43.227.227:22621
-67.43.227.227:23961
-67.43.227.227:25409
-67.43.227.227:2765
-67.43.227.227:28083
-67.43.227.227:3883
-67.43.227.227:6483
-67.43.227.227:6497
+67.43.227.227:25571
+67.43.227.227:25871
+67.43.227.227:28271
+67.43.227.227:3373
+67.43.227.227:4363
+67.43.227.227:6347
+67.43.227.227:7963
+67.43.227.227:8917
+67.43.227.227:9081
 67.43.227.227:9857
-67.43.227.228:11049
-67.43.227.228:1983
+67.43.227.228:16743
 67.43.227.228:3155
-67.43.227.228:4913
-67.43.227.229:30781
-67.43.227.230:22199
 67.43.228.250:19663
+67.43.228.250:28119
 67.43.228.251:1865
 67.43.228.251:1927
-67.43.228.251:31845
-67.43.228.253:10517
-67.43.228.253:11073
+67.43.228.251:31613
 67.43.228.253:12081
-67.43.228.253:14803
 67.43.228.253:1491
+67.43.228.253:1963
+67.43.228.253:19877
 67.43.228.253:2005
 67.43.228.253:2087
 67.43.228.253:23133
-67.43.228.253:24069
 67.43.228.253:24323
 67.43.228.253:2595
 67.43.228.253:3237
+67.43.228.253:3717
 67.43.228.253:5187
 67.43.228.254:11619
 67.43.236.18:12871
-67.43.236.18:24299
-67.43.236.19:13087
+67.43.236.18:25823
 67.43.236.19:18201
 67.43.236.19:6401
-67.43.236.20:10877
 67.43.236.20:12183
+67.43.236.20:13237
 67.43.236.20:14609
-67.43.236.20:15281
 67.43.236.20:21459
 67.43.236.20:22593
-67.43.236.20:23097
 67.43.236.20:24805
-67.43.236.20:25695
-67.43.236.20:26033
-67.43.236.20:26957
-67.43.236.20:26959
-67.43.236.20:27377
-67.43.236.20:30017
+67.43.236.20:26947
 67.43.236.20:3087
 67.43.236.20:31505
 67.43.236.20:32471
-67.43.236.20:4035
-67.43.236.20:4999
+67.43.236.20:3895
 67.43.236.20:5833
 67.43.236.20:6471
+67.43.236.20:7305
+67.43.236.21:4387
+67.43.236.21:8763
 67.43.236.22:5875
 67.48.22.73:9090
 67.52.175.140:8080
@@ -32192,6 +32104,7 @@
 69.116.194.146:3073
 69.116.42.119:9090
 69.119.243.192:9090
+69.12.93.221:3128
 69.120.173.183:9090
 69.120.62.83:62419
 69.122.222.90:9090
@@ -32357,6 +32270,7 @@
 71.237.98.13:9090
 71.25.47.187:8080
 71.42.125.218:4444
+71.42.125.219:4444
 71.43.239.210:3806
 71.57.210.123:9090
 71.58.225.132:16935
@@ -32375,47 +32289,44 @@
 71.89.7.99:28848
 71.90.109.248:15099
 71.90.230.116:9090
-72.10.160.170:15565
+72.10.160.170:12651
 72.10.160.170:17187
 72.10.160.170:1759
 72.10.160.170:19543
+72.10.160.170:30599
 72.10.160.170:30821
-72.10.160.170:6085
-72.10.160.171:21463
-72.10.160.173:16659
-72.10.160.173:16755
-72.10.160.173:6093
+72.10.160.172:27343
+72.10.160.173:1383
 72.10.160.174:2603
-72.10.160.174:27897
-72.10.160.90:10215
+72.10.160.174:3421
 72.10.160.90:10763
+72.10.160.90:11097
 72.10.160.90:11189
 72.10.160.90:16143
+72.10.160.90:18535
 72.10.160.90:19357
+72.10.160.90:19609
 72.10.160.90:2093
 72.10.160.90:20931
-72.10.160.90:24341
 72.10.160.90:27467
+72.10.160.90:28645
 72.10.160.90:29405
-72.10.160.90:31171
+72.10.160.90:7249
 72.10.160.90:7981
 72.10.160.91:21739
 72.10.160.91:22119
 72.10.160.91:28383
-72.10.160.92:12683
 72.10.160.93:4961
-72.10.164.178:10121
-72.10.164.178:10347
+72.10.164.178:10325
 72.10.164.178:10587
-72.10.164.178:11735
+72.10.164.178:12451
 72.10.164.178:13105
-72.10.164.178:1311
-72.10.164.178:13159
+72.10.164.178:13199
 72.10.164.178:13303
-72.10.164.178:1369
-72.10.164.178:14449
+72.10.164.178:13775
 72.10.164.178:15079
-72.10.164.178:15697
+72.10.164.178:15529
+72.10.164.178:1581
 72.10.164.178:16727
 72.10.164.178:17541
 72.10.164.178:18011
@@ -32423,27 +32334,24 @@
 72.10.164.178:2022
 72.10.164.178:20807
 72.10.164.178:21403
-72.10.164.178:22819
-72.10.164.178:23559
+72.10.164.178:21591
+72.10.164.178:22521
 72.10.164.178:24783
-72.10.164.178:26289
-72.10.164.178:26623
-72.10.164.178:27305
-72.10.164.178:27579
+72.10.164.178:26627
+72.10.164.178:27703
+72.10.164.178:28307
 72.10.164.178:28363
+72.10.164.178:2869
 72.10.164.178:28709
-72.10.164.178:30759
-72.10.164.178:31163
+72.10.164.178:29047
+72.10.164.178:29211
 72.10.164.178:3847
-72.10.164.178:7273
-72.10.164.178:7531
-72.10.164.178:7873
-72.10.164.178:7963
-72.10.164.178:8181
-72.10.164.178:8763
+72.10.164.178:6539
+72.10.164.178:7667
+72.10.164.178:7833
 72.10.164.178:8897
 72.10.164.178:8965
-72.10.164.178:9113
+72.10.164.178:9033
 72.11.85.77:3661
 72.128.133.154:16099
 72.128.40.214:9090
@@ -32463,11 +32371,9 @@
 72.167.221.157:29798
 72.167.221.157:40275
 72.167.221.157:46835
-72.167.221.157:4915
 72.167.221.157:50824
 72.167.221.157:5289
 72.167.221.157:52890
-72.167.221.157:56520
 72.167.222.102:9493
 72.167.222.113:39574
 72.167.222.113:41629
@@ -32740,6 +32646,7 @@
 77.236.249.73:8080
 77.236.252.187:1256
 77.236.252.220:8080
+77.237.222.251:8080
 77.237.28.191:8080
 77.237.89.1:8080
 77.237.91.214:3128
@@ -32756,7 +32663,6 @@
 77.242.19.9:1080
 77.242.21.133:8080
 77.242.21.186:8081
-77.242.22.225:8080
 77.247.95.69:8989
 77.28.97.34:48458
 77.31.166.5:8080
@@ -32972,7 +32878,7 @@
 8.130.34.44:1234
 8.130.34.44:3127
 8.130.34.44:3129
-8.130.34.44:5566
+8.130.34.44:5555
 8.130.34.44:7777
 8.130.34.44:8000
 8.130.34.44:8060
@@ -32994,6 +32900,7 @@
 8.130.36.245:443
 8.130.36.245:6000
 8.130.36.245:6666
+8.130.36.245:7777
 8.130.36.245:7788
 8.130.36.245:8002
 8.130.36.245:8060
@@ -33016,6 +32923,7 @@
 8.130.39.117:20000
 8.130.39.117:21025
 8.130.39.117:311
+8.130.39.117:3128
 8.130.39.117:3129
 8.130.39.117:3389
 8.130.39.117:4000
@@ -33086,7 +32994,6 @@
 8.134.140.97:8888
 8.135.48.42:8080
 8.137.34.229:80
-8.137.92.88:8080
 8.140.3.10:8083
 8.142.124.206:3128
 8.142.3.145:3306
@@ -33094,7 +33001,6 @@
 8.201.182.222:8011
 8.208.100.155:80
 8.208.26.210:80
-8.208.53.236:3110
 8.208.84.236:2020
 8.208.84.236:8081
 8.208.84.236:8888
@@ -33197,11 +33103,8 @@
 8.213.128.6:1337
 8.213.128.6:18081
 8.213.128.6:19
-8.213.128.6:20
 8.213.128.6:20000
 8.213.128.6:20002
-8.213.128.6:2020
-8.213.128.6:2080
 8.213.128.6:3128
 8.213.128.6:3129
 8.213.128.6:3132
@@ -33223,13 +33126,11 @@
 8.213.128.6:6000
 8.213.128.6:6666
 8.213.128.6:6789
-8.213.128.6:6969
 8.213.128.6:7657
 8.213.128.6:7777
 8.213.128.6:80
 8.213.128.6:8001
 8.213.128.6:8002
-8.213.128.6:8009
 8.213.128.6:8014
 8.213.128.6:8019
 8.213.128.6:8024
@@ -33271,173 +33172,223 @@
 8.213.128.6:999
 8.213.128.6:9991
 8.213.128.6:9992
+8.213.128.90:03
+8.213.128.90:10
+8.213.128.90:1000
+8.213.128.90:10000
 8.213.128.90:10022
+8.213.128.90:1080
+8.213.128.90:1081
 8.213.128.90:11
+8.213.128.90:1100
+8.213.128.90:11000
+8.213.128.90:111
+8.213.128.90:1111
+8.213.128.90:123
 8.213.128.90:1234
+8.213.128.90:13
 8.213.128.90:1337
+8.213.128.90:15
+8.213.128.90:17
 8.213.128.90:18081
 8.213.128.90:19
+8.213.128.90:20
+8.213.128.90:20000
 8.213.128.90:20002
+8.213.128.90:2019
+8.213.128.90:2020
 8.213.128.90:21025
+8.213.128.90:3
 8.213.128.90:312
+8.213.128.90:3128
 8.213.128.90:3129
 8.213.128.90:3132
-8.213.128.90:41
+8.213.128.90:4000
+8.213.128.90:4006
 8.213.128.90:4145
 8.213.128.90:4153
+8.213.128.90:443
+8.213.128.90:444
 8.213.128.90:4444
 8.213.128.90:4506
 8.213.128.90:5000
 8.213.128.90:50001
+8.213.128.90:5001
 8.213.128.90:5004
 8.213.128.90:55443
+8.213.128.90:5555
+8.213.128.90:5566
+8.213.128.90:5678
 8.213.128.90:6000
+8.213.128.90:6666
 8.213.128.90:6789
 8.213.128.90:69
 8.213.128.90:6969
+8.213.128.90:77
 8.213.128.90:7777
+8.213.128.90:7779
 8.213.128.90:80
 8.213.128.90:8001
+8.213.128.90:8002
 8.213.128.90:8009
+8.213.128.90:8024
 8.213.128.90:8058
 8.213.128.90:8060
 8.213.128.90:808
+8.213.128.90:8080
 8.213.128.90:8081
+8.213.128.90:8082
+8.213.128.90:8083
+8.213.128.90:8084
 8.213.128.90:8085
 8.213.128.90:8089
+8.213.128.90:8090
+8.213.128.90:8093
 8.213.128.90:81
 8.213.128.90:8118
+8.213.128.90:8123
+8.213.128.90:8181
+8.213.128.90:8192
+8.213.128.90:82
 8.213.128.90:83
 8.213.128.90:84
+8.213.128.90:8499
+8.213.128.90:86
 8.213.128.90:8808
 8.213.128.90:8888
 8.213.128.90:8989
+8.213.128.90:8999
+8.213.128.90:90
 8.213.128.90:9000
 8.213.128.90:9002
 8.213.128.90:9080
+8.213.128.90:9090
 8.213.128.90:9091
 8.213.128.90:999
 8.213.128.90:9999
 8.213.129.15:10
-8.213.129.15:100
 8.213.129.15:10000
-8.213.129.15:1080
-8.213.129.15:1111
-8.213.129.15:1234
-8.213.129.15:1337
-8.213.129.15:18081
-8.213.129.15:20000
+8.213.129.15:10001
 8.213.129.15:3129
 8.213.129.15:3132
 8.213.129.15:4000
-8.213.129.15:4153
-8.213.129.15:4444
-8.213.129.15:50
 8.213.129.15:50001
-8.213.129.15:5001
 8.213.129.15:55443
 8.213.129.15:5555
 8.213.129.15:80
-8.213.129.15:8000
 8.213.129.15:8002
-8.213.129.15:8009
 8.213.129.15:8024
 8.213.129.15:808
 8.213.129.15:8080
 8.213.129.15:8081
-8.213.129.15:8082
-8.213.129.15:8085
-8.213.129.15:8090
-8.213.129.15:8091
 8.213.129.15:8118
-8.213.129.15:82
-8.213.129.15:83
-8.213.129.15:8888
+8.213.129.15:8192
 8.213.129.15:89
 8.213.129.15:8989
 8.213.129.15:9090
-8.213.129.15:9091
 8.213.129.15:9992
-8.213.129.15:9999
 8.213.129.20:06
+8.213.129.20:10
+8.213.129.20:1000
+8.213.129.20:10000
+8.213.129.20:1001
+8.213.129.20:1080
+8.213.129.20:1081
 8.213.129.20:1099
+8.213.129.20:111
+8.213.129.20:1111
+8.213.129.20:11666
 8.213.129.20:1234
+8.213.129.20:13
+8.213.129.20:1337
+8.213.129.20:18081
+8.213.129.20:19
+8.213.129.20:20
 8.213.129.20:20000
+8.213.129.20:20002
+8.213.129.20:2001
+8.213.129.20:2019
+8.213.129.20:2020
 8.213.129.20:20201
+8.213.129.20:2079
 8.213.129.20:3080
+8.213.129.20:312
+8.213.129.20:3127
+8.213.129.20:3128
+8.213.129.20:3129
+8.213.129.20:3132
+8.213.129.20:40
 8.213.129.20:4000
+8.213.129.20:4006
+8.213.129.20:41
 8.213.129.20:4145
+8.213.129.20:4153
 8.213.129.20:443
+8.213.129.20:500
+8.213.129.20:5000
+8.213.129.20:50001
+8.213.129.20:5001
+8.213.129.20:554
+8.213.129.20:55443
+8.213.129.20:5555
+8.213.129.20:5566
+8.213.129.20:5678
+8.213.129.20:6
+8.213.129.20:6666
+8.213.129.20:6789
+8.213.129.20:6969
+8.213.129.20:7777
+8.213.129.20:7890
 8.213.129.20:80
+8.213.129.20:8001
+8.213.129.20:8002
+8.213.129.20:8009
+8.213.129.20:8024
+8.213.129.20:8058
+8.213.129.20:8060
+8.213.129.20:808
+8.213.129.20:8080
 8.213.129.20:8081
+8.213.129.20:8082
+8.213.129.20:8083
+8.213.129.20:8085
+8.213.129.20:8089
+8.213.129.20:8090
+8.213.129.20:81
+8.213.129.20:8118
+8.213.129.20:8123
+8.213.129.20:8181
+8.213.129.20:8192
+8.213.129.20:82
+8.213.129.20:8282
+8.213.129.20:83
 8.213.129.20:84
 8.213.129.20:8499
+8.213.129.20:88
+8.213.129.20:888
+8.213.129.20:8888
+8.213.129.20:8989
+8.213.129.20:8999
+8.213.129.20:90
+8.213.129.20:9000
+8.213.129.20:9002
+8.213.129.20:9080
+8.213.129.20:9090
+8.213.129.20:9091
+8.213.129.20:999
+8.213.129.20:9992
 8.213.129.20:9999
-8.213.137.155:10091
-8.213.137.155:104
 8.213.137.155:11
-8.213.137.155:111
-8.213.137.155:118
-8.213.137.155:119
 8.213.137.155:1234
-8.213.137.155:138
-8.213.137.155:14265
-8.213.137.155:17
-8.213.137.155:1720
-8.213.137.155:176
-8.213.137.155:20002
-8.213.137.155:202
-8.213.137.155:21025
-8.213.137.155:222
-8.213.137.155:258
-8.213.137.155:28
-8.213.137.155:3129
-8.213.137.155:3132
-8.213.137.155:35
-8.213.137.155:37
-8.213.137.155:4000
-8.213.137.155:4153
-8.213.137.155:42
-8.213.137.155:443
-8.213.137.155:449
-8.213.137.155:45
-8.213.137.155:500
-8.213.137.155:512
-8.213.137.155:515
-8.213.137.155:548
-8.213.137.155:554
-8.213.137.155:55443
-8.213.137.155:5678
-8.213.137.155:636
-8.213.137.155:6789
-8.213.137.155:69
-8.213.137.155:7657
-8.213.137.155:771
-8.213.137.155:79
+8.213.137.155:4006
 8.213.137.155:80
 8.213.137.155:8001
-8.213.137.155:8015
 8.213.137.155:8024
 8.213.137.155:8037
-8.213.137.155:8047
 8.213.137.155:8080
-8.213.137.155:8083
 8.213.137.155:8084
 8.213.137.155:8088
 8.213.137.155:8090
-8.213.137.155:8118
-8.213.137.155:8282
-8.213.137.155:84
-8.213.137.155:8499
-8.213.137.155:85
-8.213.137.155:86
-8.213.137.155:88
-8.213.137.155:89
-8.213.137.155:90
-8.213.137.155:9080
-8.213.137.155:9091
-8.213.137.155:91
-8.213.137.155:95
 8.213.151.128:3128
 8.215.27.71:3128
 8.218.100.213:8899
@@ -33511,7 +33462,6 @@
 8.242.178.3:999
 8.242.178.4:999
 8.242.178.5:999
-8.242.184.54:8080
 8.242.189.124:999
 8.242.190.115:999
 8.242.190.116:999
@@ -33524,6 +33474,7 @@
 8.242.207.164:999
 8.242.207.202:8080
 8.242.212.170:999
+8.243.126.230:999
 8.243.162.242:999
 8.243.169.14:8080
 8.42.68.109:39593
@@ -33641,6 +33592,7 @@
 80.82.55.71:80
 80.84.176.110:8080
 80.85.58.55:8080
+80.87.178.175:8080
 80.87.197.32:33333
 80.87.213.111:8080
 80.87.213.45:8080
@@ -33908,6 +33860,7 @@
 82.174.245.114:8118
 82.192.83.7:3128
 82.193.103.54:5678
+82.194.45.218:3128
 82.196.11.105:1080
 82.2.234.184:9090
 82.200.150.194:443
@@ -34006,6 +33959,7 @@
 83.217.16.172:8080
 83.219.136.243:6344
 83.219.145.106:3128
+83.219.145.108:3128
 83.219.149.60:37053
 83.220.195.232:9090
 83.220.47.146:8080
@@ -34106,6 +34060,7 @@
 85.117.56.94:8080
 85.117.60.131:8080
 85.117.60.133:8080
+85.117.60.162:8080
 85.117.63.200:4145
 85.117.63.38:8080
 85.118.105.20:41128
@@ -34237,6 +34192,7 @@
 86.48.17.228:3128
 86.48.17.228:8080
 86.51.157.252:8080
+86.52.40.119:8081
 86.57.134.64:41890
 86.57.181.122:35709
 86.6.122.30:9090
@@ -34277,6 +34233,7 @@
 87.232.56.70:9090
 87.237.228.18:8080
 87.237.234.187:3128
+87.237.239.57:3128
 87.241.220.104:8080
 87.244.211.184:1080
 87.245.155.179:80
@@ -34328,7 +34285,6 @@
 88.199.164.141:8081
 88.2.102.209:3128
 88.201.217.203:80
-88.202.230.103:54374
 88.202.230.103:5702
 88.202.230.103:57024
 88.204.167.186:8080
@@ -34340,7 +34296,6 @@
 88.245.138.87:1080
 88.247.138.7:56387
 88.250.210.100:38271
-88.250.60.33:8080
 88.255.101.227:8080
 88.255.101.228:8080
 88.255.101.229:8080
@@ -34391,11 +34346,12 @@
 88.99.10.252:1080
 88.99.121.68:80
 88.99.138.21:5020
+88.99.138.21:5170
 88.99.138.21:5657
 88.99.138.21:6439
 88.99.138.21:6471
-88.99.138.21:6825
 88.99.148.60:8111
+88.99.164.36:80
 88.99.191.127:3128
 88.99.21.177:81
 88.99.249.96:8192
@@ -34659,10 +34615,12 @@
 91.203.242.66:222
 91.203.25.28:4153
 91.203.68.222:80
+91.204.239.189:8080
 91.205.129.154:54013
 91.205.174.26:80
 91.205.197.226:8080
 91.205.49.71:8080
+91.205.82.12:49910
 91.207.173.99:443
 91.207.238.107:56288
 91.209.114.126:6789
@@ -34721,7 +34679,6 @@
 91.235.75.57:8282
 91.236.156.30:8282
 91.236.72.16:65472
-91.236.74.5:8080
 91.240.208.142:3128
 91.241.131.179:9834
 91.241.21.17:9812
@@ -34788,7 +34745,6 @@
 92.204.134.38:42674
 92.204.134.38:50883
 92.204.134.38:56177
-92.204.134.38:6648
 92.204.135.37:38016
 92.204.136.149:4147
 92.204.136.149:45445
@@ -34984,7 +34940,6 @@
 94.153.163.226:81
 94.153.169.22:5917
 94.153.252.170:8080
-94.154.152.104:8079
 94.154.152.116:8079
 94.154.152.45:8079
 94.154.152.4:8079
@@ -35075,11 +35030,11 @@
 94.28.32.117:8080
 94.28.8.61:8080
 94.30.152.172:80
-94.43.164.242:8080
 94.43.64.47:5678
 94.45.223.222:8080
 94.45.74.60:8080
 94.49.175.217:8080
+94.70.195.145:8080
 94.71.233.29:8080
 94.72.158.129:4153
 94.72.9.182:80
@@ -35276,7 +35231,6 @@
 96.95.233.133:3955
 97.102.248.16:8118
 97.73.169.238:87
-97.74.229.3:45644
 97.74.237.222:45219
 97.76.251.138:8080
 97.82.166.34:7849
@@ -35397,7 +35351,7 @@
 </main>
 </noscript>
 </ol>
-</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="21c537a89e" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="108" /><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form> </div>
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="3c1f342340" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="99" /><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form> </div>
 </script>
 </section>
 </select>
@@ -35791,13 +35745,14 @@
 <li id="menu-item-476981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476981"><a href="https://fineproxy.org/join-our-team/">JOIN OUR TEAM</a></li>
 <li id="menu-item-476982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-476982"><a href="https://fineproxy.org/join-our-team/">JOIN OUR TEAM</a></li>
 <li>
-<li><a href="/cdn-cgi/l/email-protection#254441484c4b65434c4b4055574a5d5c0b4a5742"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="b1d0d5dcd8dff1d7d8dfd4c1c3dec9c89fdec3d6">[email&#160;protected]</span></a></li>
-<li><a href="/cdn-cgi/l/email-protection#760503060619040236101f18130604190e0f58190411"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="f1828481819e8385b197989f9481839e8988df9e8396">[email&#160;protected]</span></a></li>
+<li><a href="/cdn-cgi/l/email-protection#dcbdb8b1b5b29cbab5b2b9acaeb3a4a5f2b3aebb"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="0b6a6f6662654b6d62656e7b796473722564796c">[email&#160;protected]</span></a></li>
+<li><a href="/cdn-cgi/l/email-protection#ed9e989d9d829f99ad8b8483889d9f829594c3829f8a"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="54272124243b262014323d3a3124263b2c2d7a3b2633">[email&#160;protected]</span></a></li>
 <li><a onclick="yaCounter24131110.reachGoal ('klik-po-telefonu'); return true;" href="tel:+16463285065"><i class="fas fa-phone"></i> <span class="flag-icon flag-icon-us"></span> USA + 1 646 328-50-65
-<li><a target="_blank" href="https://github.com/fnprx/" rel="nofollow noopener"><i class="fab fa-github"></i> GitHub</a></li></ul></div></section> </div>
+<li><a target="_blank" href="https://github.com/fnprx/" rel="nofollow noopener"><i class="fab fa-github"></i> GitHub</a></li>
 <li><a target="_blank" href="https://telegram.me/fineproxy" rel="nofollow noopener"><i class="fab fa-telegram"></i> Telegram</a></li>
 <li><a target="_blank" href="https://vk.com/fineproxy" rel="nofollow noopener"><i class="fab fa-vk"></i> Vkontakte</a></li>
 <li><a target="_blank" href="https://www.facebook.com/fineproxy/" rel="nofollow noopener"><i class="fab fa-facebook"></i> Facebook</a></li>
+<li><a target="_blank" href="https://www.quora.com/profile/FineProxy-1" rel="nofollow noopener"><i class="fab fa-quora"></i> Quora</a></li></ul></div></section> </div>
 <li><a target="_blank" href="https://www.youtube.com/@fineproxy-.8632" rel="nofollow noopener"><i class="fab fa-youtube"></i> YouTube</a></li>
 <li><strong>Content Accessibility:</strong> Free proxies often struggle with accessing geo-restricted or region-specific content. Websites and services can easily detect and block these proxies, limiting their usefulness. In contrast, paid shared and private proxies grant access to a wide range of locations, enabling users to bypass geographical restrictions and unlock otherwise inaccessible content. This proves invaluable for individuals requiring access to specific websites or conducting market research in different regions.</li>
 <li><strong>Customer Support:</strong> When encountering issues or requiring assistance, free proxy users are often left to navigate the problems alone. On the other hand, paid proxy providers offer reliable customer support to address concerns promptly. Whether it&#8217;s technical difficulties or guidance on optimizing settings, paid proxy services ensure that users have access to professional assistance when needed.</li>
@@ -35857,7 +35812,7 @@
 <link rel="stylesheet" id="dashicons-css" href="https://fineproxy.org/wp-content/cache/flying-press/63ac90a68ab6.dashicons.min.css" media="print" onload="this.onload=null;this.rel='stylesheet';this.media='all';" />
 <link rel="stylesheet" id="fineproxyorg-bootstrap-css-css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css?ver=6.5.2" media="all" />
 <link rel="stylesheet" id="fineproxyorg-flags-css" href="https://fineproxy.org/wp-content/cache/flying-press/435abccad770.flag-icon.min.css" media="print" onload="this.onload=null;this.rel='stylesheet';this.media='all';" />
-<link rel="stylesheet" id="fineproxyorg-style-css" href="https://fineproxy.org/wp-content/cache/flying-press/1986d6f18a97.style.css" media="print" onload="this.onload=null;this.rel='stylesheet';this.media='all';" />
+<link rel="stylesheet" id="fineproxyorg-style-css" href="https://fineproxy.org/wp-content/cache/flying-press/f218481f4169.style.css" media="print" onload="this.onload=null;this.rel='stylesheet';this.media='all';" />
 <link rel="stylesheet" id="fontawesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css?ver=6.5.2" media="all" />
 <link rel="stylesheet" id="rank-math-review-pro-snippet-css" href="https://fineproxy.org/wp-content/cache/flying-press/c9986610f4e6.rank-math-snippet.css" media="print" onload="this.onload=null;this.rel='stylesheet';this.media='all';" />
 <link rel="stylesheet" id="rank-math-review-snippet-css" href="https://fineproxy.org/wp-content/cache/flying-press/1c4d10cafc57.rank-math-snippet.css" media="print" onload="this.onload=null;this.rel='stylesheet';this.media='all';" />
@@ -35906,7 +35861,7 @@
 <option value="0">Term of access</option>
 <p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required /></p>
 <p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value size="30" maxlength="200" autocomplete="url" /></p>
-<p class="form-submit"><span id="cf-turnstile-c-2381404885" class="cf-turnstile cf-turnstile-comments" data-action="wordpress-comment" data-callback data-sitekey="0x4AAAAAAASUcK7sYjTs4UIQ" data-theme="light" data-language="auto" data-appearance="always" data-retry="auto" data-retry-interval="1000"></span><br class="cf-turnstile-br cf-turnstile-br-comments"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /><script type="text/javascript">document.addEventListener("DOMContentLoaded", function() { document.body.addEventListener("click", function(event) { if (event.target.matches(".comment-reply-link, #cancel-comment-reply-link")) { turnstile.reset(".comment-form .cf-turnstile"); } }); });</script> <input type="hidden" name="comment_post_ID" value="455912" id="comment_post_ID" />
+<p class="form-submit"><span id="cf-turnstile-c-4189950160" class="cf-turnstile cf-turnstile-comments" data-action="wordpress-comment" data-callback data-sitekey="0x4AAAAAAASUcK7sYjTs4UIQ" data-theme="light" data-language="auto" data-appearance="always" data-retry="auto" data-retry-interval="1000"></span><br class="cf-turnstile-br cf-turnstile-br-comments"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /><script type="text/javascript">document.addEventListener("DOMContentLoaded", function() { document.body.addEventListener("click", function(event) { if (event.target.matches(".comment-reply-link, #cancel-comment-reply-link")) { turnstile.reset(".comment-form .cf-turnstile"); } }); });</script> <input type="hidden" name="comment_post_ID" value="455912" id="comment_post_ID" />
 <p class="rank-math-question ">Are free proxy lists safe to use?</p>
 <p class="rank-math-question ">Can I access geo-restricted content with free proxies?</p>
 <p class="rank-math-question ">Can I trust the anonymity of free proxy lists?</p>
@@ -35916,7 +35871,7 @@
 <p class="rank-math-question ">What is the risk of using a shared IP address from a free proxy list?</p>
 <p>
 <p>2011-2024 © <a href="/">FineProxy</a><br/>
-<p><a class="email" href="/cdn-cgi/l/email-protection#e99a9c9999869b9da98f80878c999b869190c7869b8e"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="4f3c3a3f3f203d3b0f2926212a3f3d20373661203d28">[email&#160;protected]</span></a> </p>
+<p><a class="email" href="/cdn-cgi/l/email-protection#a8dbddd8d8c7dadce8cec1c6cdd8dac7d0d186c7dacf"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="1d6e686d6d726f695d7b7473786d6f72656433726f7a">[email&#160;protected]</span></a> </p>
 <p><a href="https://fineproxy.org/finance/" rel="nofollow">Financial information</a></p></div></section> </div>
 <p>A free proxy service is a platform that allows you to connect to the internet via its server, effectively hiding your IP address. You can use it to unblock websites by entering the website’s URL on the proxy’s webpage.</p>
 <p>Free proxy lists cannot guarantee reliable anonymity. Many of these proxies are easily detectable by websites and services, compromising your anonymity. Paid shared and private proxies provide stronger anonymity measures, ensuring a more secure browsing experience.</p>
@@ -35937,8 +35892,8 @@
 <script id="trp-language-cookie-js-extra">
 <script id="wd-asl-ajaxsearchlite-js-before">
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit" id="cfturnstile-js" defer data-wp-strategy="defer"></script>
+<script src="https://fineproxy.org/wp-content/cache/flying-press/29db75151817.proxy-list.js" id="fineproxyorg-proxy-list-js" defer></script>
 <script src="https://fineproxy.org/wp-content/cache/flying-press/546935f431ad.selector.js" id="fineproxyorg-selector-js" defer></script>
-<script src="https://fineproxy.org/wp-content/cache/flying-press/978b377776a1.proxy-list.js" id="fineproxyorg-proxy-list-js" defer></script>
 <script src="https://fineproxy.org/wp-content/cache/flying-press/b213c523f289.trp-language-cookie.js" id="trp-language-cookie-js" defer></script>
 <script src="https://fineproxy.org/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-autocomplete.js?ver=a1c36aeb7a1e" id="wd-asl-ajaxsearchlite-autocomplete-js" defer></script>
 <script src="https://fineproxy.org/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-core.js?ver=69b2f78354cb" id="wd-asl-ajaxsearchlite-core-js" defer></script>
@@ -35960,13 +35915,13 @@
 <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async defer></script>
 <script>
 <script>!function(t){"function"==typeof define&&define.amd?define(t):t()}(function(){var t,e;!function(){var t=[],e=["click","mouseover","keydown","touchstart","touchmove","wheel"],n=document.querySelectorAll("script[data-src]"),r=document.querySelectorAll("link[data-href]");if(n.length||r.length){var i=function(e){return t.push(e)};document.addEventListener("click",i,{passive:!0});var a=setTimeout(c,10000);e.forEach(function(t){window.addEventListener(t,c,{passive:!0})})}function o(e){var r=n[e];r.onload=function(){if(e>=n.length-1)return window.dispatchEvent(new Event("DOMContentLoaded")),window.dispatchEvent(new Event("load")),document.removeEventListener("click",i),void t.forEach(function(t){var e=new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0});t.target.dispatchEvent(e)});o(e+1)},r.src=r.getAttribute("data-src")}function c(){clearTimeout(a),e.forEach(function(t){window.removeEventListener(t,c,{passive:!0})}),n.forEach(function(t){var e=t.getAttribute("data-src");if(!e.startsWith("data:")){var n=document.createElement("link");n.rel="preload",n.as="script",n.href=e,document.head.appendChild(n)}}),n.length&&o(0),r.forEach(function(t){t.href=t.getAttribute("data-href")})}}(),t=window.devicePixelRatio>1?2:1,document.querySelectorAll("img[data-origin-src]").forEach(function(e){var n=100*Math.ceil(e.offsetWidth*t/100),r=e.getAttribute("data-origin-src");e.src=r+"?width="+n}),e=new IntersectionObserver(function(t){t.forEach(function(t){t.isIntersecting&&(e.unobserve(t.target),t.target.getAttribute("data-lazy-attributes").split(",").forEach(function(e){var n=t.target.getAttribute("data-lazy-".concat(e));t.target.setAttribute(e,n)}))})},{rootMargin:"300px"}),document.querySelectorAll("[data-lazy-method='viewport']").forEach(function(t){e.observe(t)})});
-<script>document.addEventListener("DOMContentLoaded",(function(){var e=document.getElementById("cf-turnstile-c-2381404885");e&&turnstile.render("#cf-turnstile-c-2381404885",{sitekey:"0x4AAAAAAASUcK7sYjTs4UIQ"})}));</script>
+<script>document.addEventListener("DOMContentLoaded",(function(){var e=document.getElementById("cf-turnstile-c-4189950160");e&&turnstile.render("#cf-turnstile-c-4189950160",{sitekey:"0x4AAAAAAASUcK7sYjTs4UIQ"})}));</script>
 <section id="action" class="orange-section py-60">
 <section id="calc" class="green-section py-80">
 <section id="content" class="white-section py-80">
 <section id="custom_html-2" class="widget_text widget widget_custom_html"><h3 class="widget-title">Contacts</h3><div class="textwidget custom-html-widget"><ul>
 <section id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><img src="/wp-content/themes/fineproxyorg/images/icons/payments/visa.png" alt="Visa" width="50" height="30" loading="lazy" fetchpriority="low" /> <img src="/wp-content/themes/fineproxyorg/images/icons/payments/mastercard.png" alt="Mastercard" width="50" height="30" loading="lazy" fetchpriority="low" />
-<section id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a class="link" href="https://fineproxy.org/prices/"><i class="fas fa-thumbs-up"></i>Pricing</a><a class="email" href="/cdn-cgi/l/email-protection#473432373728353307212e29223735283f3e69283520"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="13606663637c616753757a7d7663617c6b6a3d7c6174">[email&#160;protected]</span></a><a href="https://fineproxy.org/account/index.php?rp=/login&amp;language=english" rel="nofollow noopener" target="_blank"><i class="fas fa-lock"></i>User Login</a></div></section> </div>
+<section id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a class="link" href="https://fineproxy.org/prices/"><i class="fas fa-thumbs-up"></i>Pricing</a><a class="email" href="/cdn-cgi/l/email-protection#572422272738252317313e39322725382f2e79382530"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="63101613130c111723050a0d0613110c1b1a4d0c1104">[email&#160;protected]</span></a><a href="https://fineproxy.org/account/index.php?rp=/login&amp;language=english" rel="nofollow noopener" target="_blank"><i class="fas fa-lock"></i>User Login</a></div></section> </div>
 <section id="custom_html-7" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><p>Quality Network US LLC, 30 N Gould St STE R Sheridan, WY 82801. United States</p>
 <section id="header" class="green-section pb-80">
 <section id="nav_menu-3" class="widget widget_nav_menu"><h3 class="widget-title">For you</h3><div class="menu-footer-menu-tools-container"><ul id="menu-footer-menu-tools" class="menu"><li id="menu-item-460184" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-455912 current_page_item menu-item-460184"><a href="https://fineproxy.org/free-proxy/" aria-current="page">Free Proxy List</a></li>
@@ -35986,7 +35941,6 @@
 <span id="trp_ald_no_text_popup_text"></span>
 <strong>Editor&#039;s Rating:</strong><br/>
 <strong>Product Brand: </strong>
-<style class="flying-press-used-css" original-href="https://fineproxy.org/wp-content/cache/flying-press/1986d6f18a97.style.css">/*!
 <style class="flying-press-used-css" original-href="https://fineproxy.org/wp-content/cache/flying-press/435abccad770.flag-icon.min.css">.flag-icon{background-size:contain;background-position:50%;background-repeat:no-repeat;position:relative;display:inline-block;width:1.33333333em;line-height:1em}.flag-icon:before{content:'\00a0'}.flag-icon-ca{background-image:url(https://fineproxy.org/wp-content/themes/fineproxyorg/flags/4x3/ca.svg)}.flag-icon-us{background-image:url(https://fineproxy.org/wp-content/themes/fineproxyorg/flags/4x3/us.svg)}</style>
 <style class="flying-press-used-css" original-href="https://fineproxy.org/wp-content/cache/flying-press/49004d6b700f.style-curvy-blue.css"></style>
 <style class="flying-press-used-css" original-href="https://fineproxy.org/wp-content/cache/flying-press/609a5d57d65f.style.min.css">@charset "UTF-8";.wp-block-avatar{line-height:0}.wp-block-avatar,.wp-block-avatar img{box-sizing:border-box}.wp-block-button__link{box-sizing:border-box;cursor:pointer;display:inline-block;text-align:center;word-break:break-word}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-button .wp-block-button__link:where(.is-style-outline),.wp-block-button:where(.is-style-outline)>.wp-block-button__link{border:2px solid;padding:.667em 1.333em}.wp-block-button .wp-block-button__link:where(.is-style-outline):not(.has-text-color),.wp-block-button:where(.is-style-outline)>.wp-block-button__link:not(.has-text-color){color:currentColor}.wp-block-button .wp-block-button__link:where(.is-style-outline):not(.has-background),.wp-block-button:where(.is-style-outline)>.wp-block-button__link:not(.has-background){background-color:initial;background-image:none}.wp-block-button .wp-block-button__link:where(.has-border-color){border-width:initial}.wp-block-button .wp-block-button__link:where([style*=border-top-color]){border-top-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-right-color]){border-right-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-bottom-color]){border-bottom-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-left-color]){border-left-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-style]){border-width:initial}.wp-block-button .wp-block-button__link:where([style*=border-top-style]){border-top-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-right-style]){border-right-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-bottom-style]){border-bottom-width:medium}.wp-block-button .wp-block-button__link:where([style*=border-left-style]){border-left-width:medium}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-columns{align-items:normal!important;box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0%;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}:where(.wp-block-post-comments input[type=submit]){border:none}.wp-block-comment-template{box-sizing:border-box;list-style:none;margin-bottom:0;max-width:100%;padding:0}.wp-block-comment-template li{clear:both}.wp-block-comment-template ol{list-style:none;margin-bottom:0;max-width:100%;padding-left:2rem}@supports (position:sticky){.wp-block-cover-image:after,.wp-block-cover:after{content:none}}@supports (-webkit-touch-callout:inherit){.wp-block-cover-image.has-parallax,.wp-block-cover.has-parallax,.wp-block-cover__image-background.has-parallax,video.wp-block-cover__video-background.has-parallax{background-attachment:scroll}}@media (prefers-reduced-motion:reduce){.wp-block-cover-image.has-parallax,.wp-block-cover.has-parallax,.wp-block-cover__image-background.has-parallax,video.wp-block-cover__video-background.has-parallax{background-attachment:scroll}}:where(.wp-block-cover-image:not(.has-text-color)),:where(.wp-block-cover:not(.has-text-color)){color:#fff}:where(.wp-block-cover-image.is-light:not(.has-text-color)),:where(.wp-block-cover.is-light:not(.has-text-color)){color:#000}:where(.wp-block-file){margin-bottom:1.5em}:where(.wp-block-file__button){border-radius:2em;display:inline-block;padding:.5em 1em}:where(.wp-block-file__button):is(a):active,:where(.wp-block-file__button):is(a):focus,:where(.wp-block-file__button):is(a):hover,:where(.wp-block-file__button):is(a):visited{box-shadow:none;color:#fff;opacity:.85;text-decoration:none}@media (min-width:600px){.blocks-gallery-grid:not(.has-nested-images).columns-3 .blocks-gallery-image,.blocks-gallery-grid:not(.has-nested-images).columns-3 .blocks-gallery-item,.wp-block-gallery:not(.has-nested-images).columns-3 .blocks-gallery-image,.wp-block-gallery:not(.has-nested-images).columns-3 .blocks-gallery-item{margin-right:1em;width:calc(33.33333% - .66667em)}}@media (hover:none){.wp-block-gallery.has-nested-images figure.wp-block-image figcaption{scrollbar-color:#fffc #0000}}@media (min-width:600px){.wp-block-gallery.has-nested-images.columns-3 figure.wp-block-image:not(#individual-image){width:calc(33.33333% - var(--wp--style--unstable-gallery-gap, 16px)*.66667)}}.wp-block-group{box-sizing:border-box}h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-background,h6.has-background{padding:1.25em 2.375em}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}.wp-block-image :where(.has-border-color){border-style:solid}.wp-block-image :where([style*=border-top-color]){border-top-style:solid}.wp-block-image :where([style*=border-right-color]){border-right-style:solid}.wp-block-image :where([style*=border-bottom-color]){border-bottom-style:solid}.wp-block-image :where([style*=border-left-color]){border-left-style:solid}.wp-block-image :where([style*=border-width]){border-style:solid}.wp-block-image :where([style*=border-top-width]){border-top-style:solid}.wp-block-image :where([style*=border-right-width]){border-right-style:solid}.wp-block-image :where([style*=border-bottom-width]){border-bottom-style:solid}.wp-block-image :where([style*=border-left-width]){border-left-style:solid}.wp-block-image figure{margin:0}@media (prefers-reduced-motion:no-preference){.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}:where(.wp-block-latest-comments:not([style*=line-height] .wp-block-latest-comments__comment)){line-height:1.1}:where(.wp-block-latest-comments:not([style*=line-height] .wp-block-latest-comments__comment-excerpt p)){line-height:1.8}@media (min-width:600px){.wp-block-latest-posts.columns-2 li{width:calc(50% - .625em)}}ol,ul{box-sizing:border-box}ol.has-background,ul.has-background{padding:1.25em 2.375em}.wp-block-media-text{box-sizing:border-box;/*!rtl:begin:ignore*/direction:ltr;/*!rtl:end:ignore*/display:grid;grid-template-columns:50% 1fr;grid-template-rows:auto}.wp-block-media-text .wp-block-media-text__media{/*!rtl:begin:ignore*/grid-column:1;grid-row:1;/*!rtl:end:ignore*/margin:0}.wp-block-media-text .wp-block-media-text__content{direction:ltr;/*!rtl:begin:ignore*/grid-column:2;grid-row:1;/*!rtl:end:ignore*/padding:0 8%;word-break:break-word}.wp-block-media-text.has-media-on-the-right .wp-block-media-text__media{/*!rtl:begin:ignore*/grid-column:2;grid-row:1 /*!rtl:end:ignore*/}.wp-block-media-text.has-media-on-the-right .wp-block-media-text__content{/*!rtl:begin:ignore*/grid-column:1;grid-row:1 /*!rtl:end:ignore*/}@media (max-width:600px){.wp-block-media-text.is-stacked-on-mobile{grid-template-columns:100%!important}}@media (min-width:782px){.wp-block-navigation .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:100%;top:-1px}}@media (min-width:782px){.wp-block-navigation.has-background .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:100%;top:0}}:where(.wp-block-navigation.has-background .wp-block-navigation-item a:not(.wp-element-button)),:where(.wp-block-navigation.has-background .wp-block-navigation-submenu a:not(.wp-element-button)){padding:.5em 1em}:where(.wp-block-navigation .wp-block-navigation__submenu-container .wp-block-navigation-item a:not(.wp-element-button)),:where(.wp-block-navigation .wp-block-navigation__submenu-container .wp-block-navigation-submenu a:not(.wp-element-button)),:where(.wp-block-navigation .wp-block-navigation__submenu-container .wp-block-navigation-submenu button.wp-block-navigation-item__content),:where(.wp-block-navigation .wp-block-navigation__submenu-container .wp-block-pages-list__item button.wp-block-navigation-item__content){padding:.5em 1em}@media (min-width:782px){.wp-block-navigation.items-justified-right .wp-block-navigation__container .has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-right .wp-block-page-list>.has-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between .wp-block-page-list>.has-child:last-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container,.wp-block-navigation.items-justified-space-between>.wp-block-navigation__container>.has-child:last-child .wp-block-navigation__submenu-container .wp-block-navigation__submenu-container{left:auto;right:100%}}@keyframes overlay-menu__fade-in-animation{0%{opacity:0;transform:translateY(.5em)}to{opacity:1;transform:translateY(0)}}@media (prefers-reduced-motion:reduce){.wp-block-navigation__responsive-container.is-menu-open{animation-delay:0s;animation-duration:1ms}}@media (min-width:600px){.wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open){background-color:inherit;display:block;position:relative;width:100%;z-index:auto}}@media (min-width:600px){.wp-block-navigation__responsive-container-open:not(.always-shown){display:none}}@media (min-width:782px){.has-modal-open .admin-bar .is-menu-open .wp-block-navigation__responsive-dialog{margin-top:32px}}p.has-background{padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}.wp-block-post-comments-form{box-sizing:border-box}.wp-block-post-comments-form[style*=font-weight] :where(.comment-reply-title){font-weight:inherit}.wp-block-post-comments-form[style*=font-family] :where(.comment-reply-title){font-family:inherit}.wp-block-post-comments-form[class*=-font-size] :where(.comment-reply-title),.wp-block-post-comments-form[style*=font-size] :where(.comment-reply-title){font-size:inherit}.wp-block-post-comments-form[style*=line-height] :where(.comment-reply-title){line-height:inherit}.wp-block-post-comments-form[style*=font-style] :where(.comment-reply-title){font-style:inherit}.wp-block-post-comments-form[style*=letter-spacing] :where(.comment-reply-title){letter-spacing:inherit}.wp-block-post-comments-form input[type=submit]{box-shadow:none;cursor:pointer;display:inline-block;overflow-wrap:break-word;text-align:center}.wp-block-post-comments-form input:not([type=submit]),.wp-block-post-comments-form textarea{border:1px solid #949494;font-family:inherit;font-size:1em}.wp-block-post-comments-form input:not([type=submit]):not([type=checkbox]),.wp-block-post-comments-form textarea{padding:calc(.667em + 2px)}.wp-block-post-comments-form .comment-form input:not([type=submit]):not([type=checkbox]):not([type=hidden]),.wp-block-post-comments-form .comment-form textarea{box-sizing:border-box;display:block;width:100%}.wp-block-post-comments-form .comment-form-author label,.wp-block-post-comments-form .comment-form-email label,.wp-block-post-comments-form .comment-form-url label{display:block;margin-bottom:.25em}.wp-block-post-comments-form .comment-reply-title{margin-bottom:0}.wp-block-post-comments-form .comment-reply-title :where(small){font-size:var(--wp--preset--font-size--medium,smaller);margin-left:.5em}:where(.wp-block-post-excerpt){margin-bottom:var(--wp--style--block-gap);margin-top:var(--wp--style--block-gap)}:where(.wp-block-preformatted.has-background){padding:1.25em 2.375em}:where(.wp-block-pullquote){margin:0 0 1em}@media (min-width:600px){.wp-block-post-template.is-flex-container.is-flex-container.columns-2>li{width:calc(50% - .625em)}}@media (max-width:600px){.wp-block-post-template-is-layout-grid.wp-block-post-template-is-layout-grid.wp-block-post-template-is-layout-grid.wp-block-post-template-is-layout-grid{grid-template-columns:1fr}}@media (min-width:600px){ul.wp-block-rss.columns-2 li{width:calc(50% - 1em)}}:where(.wp-block-search__button){border:1px solid #ccc;padding:6px 10px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){border:1px solid #949494;box-sizing:border-box;padding:4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) :where(.wp-block-search__button){padding:4px 8px}@media (prefers-reduced-motion:reduce){.wp-block-social-link{transition-delay:0s;transition-duration:0s}}:where(.wp-block-term-description){margin-bottom:var(--wp--style--block-gap);margin-top:var(--wp--style--block-gap)}:where(pre.wp-block-verse){font-family:inherit}@supports (position:sticky){.wp-block-video [poster]{object-fit:cover}}.editor-styles-wrapper,.entry-content{counter-reset:footnotes}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}</style>
@@ -35998,6 +35952,7 @@
 <style class="flying-press-used-css" original-href="https://fineproxy.org/wp-content/cache/flying-press/a909d0a00bd7.2494a7883bea.google-font.css">@font-face{font-display:swap;font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fineproxy.org/wp-content/cache/flying-press/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQbjB_mQ.woff) format('woff');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-display:swap;font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fineproxy.org/wp-content/cache/flying-press/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQbjB_mQ.woff) format('woff');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-display:swap;font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fineproxy.org/wp-content/cache/flying-press/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQbjB_mQ.woff) format('woff');unicode-range:U+1F00-1FFF}@font-face{font-display:swap;font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fineproxy.org/wp-content/cache/flying-press/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQbjB_mQ.woff) format('woff');unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF}@font-face{font-display:swap;font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fineproxy.org/wp-content/cache/flying-press/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQbjB_mQ.woff) format('woff');unicode-range:U+0590-05FF,U+200C-2010,U+20AA,U+25CC,U+FB1D-FB4F}@font-face{font-display:swap;font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fineproxy.org/wp-content/cache/flying-press/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B5caVQUwaEQbjB_mQ.woff) format('woff');unicode-range:U+0302-0303,U+0305,U+0307-0308,U+0330,U+0391-03A1,U+03A3-03A9,U+03B1-03C9,U+03D1,U+03D5-03D6,U+03F0-03F1,U+03F4-03F5,U+2034-2037,U+2057,U+20D0-20DC,U+20E1,U+20E5-20EF,U+2102,U+210A-210E,U+2110-2112,U+2115,U+2119-211D,U+2124,U+2128,U+212C-212D,U+212F-2131,U+2133-2138,U+213C-2140,U+2145-2149,U+2190,U+2192,U+2194-21AE,U+21B0-21E5,U+21F1-21F2,U+21F4-2211,U+2213-2214,U+2216-22FF,U+2308-230B,U+2310,U+2319,U+231C-2321,U+2336-237A,U+237C,U+2395,U+239B-23B6,U+23D0,U+23DC-23E1,U+2474-2475,U+25AF,U+25B3,U+25B7,U+25BD,U+25C1,U+25CA,U+25CC,U+25FB,U+266D-266F,U+27C0-27FF,U+2900-2AFF,U+2B0E-2B11,U+2B30-2B4C,U+2BFE,U+FF5B,U+FF5D,U+1D400-1D7FF,U+1EE00-1EEFF}@font-face{font-display:swap;font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fineproxy.org/wp-content/cache/flying-press/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B5OaVQUwaEQbjB_mQ.woff) format('woff');unicode-range:U+0001-000C,U+000E-001F,U+007F-009F,U+20DD-20E0,U+20E2-20E4,U+2150-218F,U+2190,U+2192,U+2194-2199,U+21AF,U+21E6-21F0,U+21F3,U+2218-2219,U+2299,U+22C4-22C6,U+2300-243F,U+2440-244A,U+2460-24FF,U+25A0-27BF,U+2800-28FF,U+2921-2922,U+2981,U+29BF,U+29EB,U+2B00-2BFF,U+4DC0-4DFF,U+FFF9-FFFB,U+10140-1018E,U+10190-1019C,U+101A0,U+101D0-101FD,U+102E0-102FB,U+10E60-10E7E,U+1D2C0-1D2D3,U+1D2E0-1D37F,U+1F000-1F0FF,U+1F100-1F1AD,U+1F1E6-1F1FF,U+1F30D-1F30F,U+1F315,U+1F31C,U+1F31E,U+1F320-1F32C,U+1F336,U+1F378,U+1F37D,U+1F382,U+1F393-1F39F,U+1F3A7-1F3A8,U+1F3AC-1F3AF,U+1F3C2,U+1F3C4-1F3C6,U+1F3CA-1F3CE,U+1F3D4-1F3E0,U+1F3ED,U+1F3F1-1F3F3,U+1F3F5-1F3F7,U+1F408,U+1F415,U+1F41F,U+1F426,U+1F43F,U+1F441-1F442,U+1F444,U+1F446-1F449,U+1F44C-1F44E,U+1F453,U+1F46A,U+1F47D,U+1F4A3,U+1F4B0,U+1F4B3,U+1F4B9,U+1F4BB,U+1F4BF,U+1F4C8-1F4CB,U+1F4D6,U+1F4DA,U+1F4DF,U+1F4E3-1F4E6,U+1F4EA-1F4ED,U+1F4F7,U+1F4F9-1F4FB,U+1F4FD-1F4FE,U+1F503,U+1F507-1F50B,U+1F50D,U+1F512-1F513,U+1F53E-1F54A,U+1F54F-1F5FA,U+1F610,U+1F650-1F67F,U+1F687,U+1F68D,U+1F691,U+1F694,U+1F698,U+1F6AD,U+1F6B2,U+1F6B9-1F6BA,U+1F6BC,U+1F6C6-1F6CF,U+1F6D3-1F6D7,U+1F6E0-1F6EA,U+1F6F0-1F6F3,U+1F6F7-1F6FC,U+1F700-1F7FF,U+1F800-1F80B,U+1F810-1F847,U+1F850-1F859,U+1F860-1F887,U+1F890-1F8AD,U+1F8B0-1F8B1,U+1F900-1F90B,U+1F93B,U+1F946,U+1F984,U+1F996,U+1F9E9,U+1FA00-1FA6F,U+1FA70-1FA7C,U+1FA80-1FA88,U+1FA90-1FABD,U+1FABF-1FAC5,U+1FACE-1FADB,U+1FAE0-1FAE8,U+1FAF0-1FAF8,U+1FB00-1FBFF}@font-face{font-display:swap;font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fineproxy.org/wp-content/cache/flying-press/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQbjB_mQ.woff) format('woff');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB}@font-face{font-display:swap;font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fineproxy.org/wp-content/cache/flying-press/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQbjB_mQ.woff) format('woff');unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-display:swap;font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;src:url(https://fineproxy.org/wp-content/cache/flying-press/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQbjA.woff) format('woff');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}</style>
 <style class="flying-press-used-css" original-href="https://fineproxy.org/wp-content/cache/flying-press/b9e26a6bda74.trp-popup.css">@font-face{font-display:swap;font-family:dashicons;src:url(https://fineproxy.org/wp-includes/fonts/dashicons.woff),url(https://fineproxy.org/wp-includes/fonts/dashicons.ttf) format("truetype"),url(https://fineproxy.org/wp-includes/fonts/dashicons.svg#dashicons) format("svg"),url(https://fineproxy.org/wp-includes/fonts/dashicons.eot);font-weight:400;font-style:normal}#trp_ald_modal_container{background-color:rgb(0 0 0 / .2);top:50%;left:50%;transform:translate(-50%,-50%);width:100%;height:100%;position:fixed;z-index:2000000000000;pointer-events:none}#trp_ald_modal_popup{box-shadow:0 0 10px #6c7781;top:40px!important;position:relative}#trp_ald_modal_popup{background-color:#F0F0EE;width:570px;max-width:75%;border:1px solid #4c6066;padding:25px 40px;margin:auto;pointer-events:auto}#trp_ald_popup_text{text-align:left;font-size:17px}.trp_ald_select_and_button{display:flex;justify-content:space-between;margin-top:14px;font-size:17px}.trp_ald_button{margin-left:12px;width:287px}#trp_ald_popup_change_language{text-transform:none;width:100%;background:#2271b1;border-color:#2271b1;color:#fff;text-decoration:none;text-shadow:none;justify-content:center;align-items:center;display:inline-grid;font-weight:400;font-size:17px;height:50px;min-height:30px;margin:0;padding:0;cursor:pointer;border-width:1px;border-style:solid;-webkit-appearance:none;border-radius:3px;white-space:nowrap;box-sizing:border-box}#trp_ald_popup_change_language:hover{background:#135e96;border-color:#135e96;color:#fff}#trp_ald_x_button_and_textarea{text-decoration:none;display:flex;vertical-align:middle;align-items:center;cursor:pointer!important;color:#0085ba!important;font-size:14px;margin-top:15px;width:50%;height:100%;pointer-events:visibleFill}#trp_ald_x_button_textarea{text-decoration:underline;margin-bottom:3px;height:auto;width:auto;color:#0085ba!important;cursor:pointer!important;text-align:left}#trp_ald_x_button_textarea:hover{background-color:#fff0;pointer-events:auto;cursor:pointer!important;z-index:20000000000000}#trp_ald_modal_popup #trp_ald_x_button{display:inline-table;width:0;background:0 0;padding:0;border:none;text-decoration:none;color:#fff0;-webkit-backface-visibility:hidden;outline:none;z-index:1}#trp_ald_modal_popup #trp_ald_x_button::before{content:"\f153";font:normal 16px/20px dashicons;text-align:center;color:#0085ba!important;background:0 0!important;-webkit-font-smoothing:antialiased}#trp_ald_modal_popup #trp_ald_x_button::before:hover{background:0 0}.trp_ald_ls_container{height:50px;width:100%;color:#4c6066;font-size:19px}.trp_ald_ls_container .trp-language-switcher-container{width:100%;margin:0;user-select:none}.trp_ald_ls_container .trp-language-switcher-container>div{background-image:linear-gradient(60deg,transparent 50%,#C9C0BB 50%),linear-gradient(120deg,#C9C0BB 50%,transparent 50%);background-position:calc(100% - 18px) calc(1em),calc(100% - 12px) calc(1em);background-size:6px 12px,6px 12px;background-repeat:no-repeat}.trp_ald_ls_container .trp-ls-shortcode-current-language{width:100%;height:50px;justify-content:left;padding-bottom:12px;border:2px solid #C9C0BB;padding-top:8px;padding-right:33px;vertical-align:middle;color:#4c6066;font-size:18px;overflow:hidden}.trp_ald_ls_container .trp-ls-shortcode-language{width:100%;height:50px;justify-content:left;border:2px solid #C9C0BB;z-index:1000000000000000}.trp_ald_ls_container .trp-ls-shortcode-current-language:hover{cursor:pointer}.trp_ald_ls_container .trp-ls-shortcode-language>div:hover{cursor:pointer;background:#135e96;color:#fff}.trp_ald_ls_container .trp-ald-popup-select{padding-top:5px;padding-bottom:5px;padding-right:33px;font-size:18px;margin-right:-15px}.trp_ald_ls_container .trp-ls-shortcode-current-language{padding-bottom:12px;padding-top:6px;vertical-align:middle;color:#4c6066;font-size:18px}.trp_ald_ls_container .trp-ls-shortcode-language{padding-bottom:3px;padding-top:3px;vertical-align:middle;color:#4c6066;font-size:18px}.trp_ald_ls_container .trp-ls-shortcode-current-language img.trp-flag-image{display:inline-block;padding-top:9px;margin-left:8px;margin-right:8px;pointer-events:none}.trp_ald_ls_container .trp-ls-shortcode-language img.trp-flag-image{display:inline-block;padding-top:9px;margin-left:8px;margin-right:8px;pointer-events:none}#trp_ald_popup_select_container .trp-ls-shortcode-language{display:none}.trp_ald_ls_container .trp-language-switcher:hover div.trp-ls-shortcode-current-language{visibility:visible}.trp_ald_ls_container .trp-language-switcher:hover div.trp-ls-shortcode-language{visibility:hidden;height:1px}#trp_no_text_popup_wrap{width:100%;background-color:#F0F0EE;z-index:999999999999999999999999999999999;box-shadow:0 0 10px #6c7781}#trp_no_text_popup{align-items:center;padding:25px 30px;border:1px solid grey;justify-content:space-between;display:flex;vertical-align:middle}#trp_ald_not_text_popup_ls_and_button{display:flex;justify-content:center;width:100%;vertical-align:middle;align-items:center}#trp_ald_no_text_popup_div{text-align:left;font-size:17px;margin-right:10px;max-width:375px}#trp_ald_not_text_popup_ls_and_button .trp_ald_ls_container{max-width:240px;color:#4c6066;font-size:19px}#trp_ald_not_text_popup_ls_and_button .trp_ald_ls_container #trp_ald_popup_current_language{padding-top:8px;padding-right:33px;vertical-align:middle;color:#4c6066;font-size:18px;overflow:hidden}#trp_ald_not_text_popup_ls_and_button .trp_ald_ls_container .trp-ls-shortcode-language{padding-bottom:3px;padding-top:3px;vertical-align:middle}.trp_ald_change_language_div{min-width:173px;height:auto}#trp_ald_no_text_popup_change_language{text-transform:none;padding:4px 10px;height:50px;text-align:center;background:#2271b1;border-color:#2271b1;color:#fff;text-decoration:none;text-shadow:none;display:inline-block;font-weight:400;font-size:17px;line-height:2.15384615;min-height:30px;margin-left:10px;width:100%;cursor:pointer;border-width:1px;border-style:solid;-webkit-appearance:none;border-radius:3px;white-space:nowrap;box-sizing:border-box}#trp_ald_no_text_popup_change_language:hover{background:#135e96;border-color:#135e96;color:#fff}#trp_ald_no_text_popup_x{width:65px;padding-left:5px}#trp_no_text_popup #trp_close{width:0;background:0 0;padding:0;border:none;text-decoration:none;color:#fff0;-webkit-backface-visibility:hidden;outline:none}#trp_no_text_popup #trp_close::before{content:"\f153";font:normal 35px/40px dashicons;text-align:center;cursor:pointer;color:#0085ba!important;background:0 0!important;-webkit-font-smoothing:antialiased}#trp_ald_no_text_popup_x_button_and_textarea{display:none;cursor:pointer;vertical-align:middle}#trp_ald_no_text_popup_x_button_textarea{text-decoration:underline;margin-bottom:3px;color:#0085ba;font-size:15px;margin-top:15px}#trp_ald_no_text_popup_x_button{width:0;background:0 0;padding:0;border:none;text-decoration:none;color:#fff0;-webkit-backface-visibility:hidden;outline:none}#trp_ald_no_text_popup_x_button::before{content:"\f153";font:normal 16px/20px dashicons;text-align:center;color:#0085ba!important;background:0 0!important;-webkit-font-smoothing:antialiased}@media screen and (max-width:937px){#trp_ald_not_text_popup_ls_and_button{width:80%}}@media screen and (max-width:780px){#trp_ald_modal_popup{width:80%}.trp_ald_select_and_button{display:block;margin-top:32px}.trp_ald_button{width:100%;margin-left:0;margin-top:14px}#trp_ald_x_button_and_textarea{width:100%}#trp_no_text_popup{justify-content:center}#trp_ald_not_text_popup_ls_and_button{display:block;max-width:240px}#trp_ald_no_text_popup_x{display:none}#trp_ald_no_text_popup_x_button_and_textarea{display:block}#trp_ald_not_text_popup_ls_and_button .trp_ald_ls_container{max-width:100%;margin-top:32px}#trp_ald_no_text_popup_select_container{display:none}.trp_ald_change_language_div{width:100%;margin-top:14px;min-width:30px}#trp_ald_no_text_popup_change_language{margin-left:0;height:unset;white-space:pre-wrap}#trp_ald_no_text_popup_x_button_and_textarea{margin-top:15px}}</style>
 <style class="flying-press-used-css" original-href="https://fineproxy.org/wp-content/cache/flying-press/c9986610f4e6.rank-math-snippet.css">.rank-math-review-notes{margin-top:20px;margin-bottom:20px;float:left;width:100%}.rank-math-review-notes h4{margin-top:0;margin-bottom:20px}</style>
+<style class="flying-press-used-css" original-href="https://fineproxy.org/wp-content/cache/flying-press/f218481f4169.style.css">/*!
 <style class="flying-press-used-css" original-href="https://fineproxy.org/wp-content/cache/flying-press/f33d4a05c79f.trp-language-switcher.css">.trp-language-switcher{height:42px;position:relative;box-sizing:border-box;width:200px;text-overflow:ellipsis;white-space:nowrap}.trp-language-switcher>div{box-sizing:border-box;padding:4px 20px 3px 13px;border:1.5px solid #949494;border-radius:2px;background-image:url(https://fineproxy.org/wp-content/plugins/translatepress-multilingual/assets/images/arrow-down-3101.svg);background-repeat:no-repeat;background-position:calc(100% - 20px) calc(1em + 2px),calc(100% - 3px) calc(1em + 0px);background-size:8px 8px,8px 8px;background-repeat:no-repeat;background-color:#fff}.trp-language-switcher>div:hover{background-image:none}.trp-language-switcher>div>a{display:block;padding:7px 12px;border-radius:3px;text-decoration:none;color:#1E1E1E;font-style:normal;font-weight:400;font-size:16px}.trp-language-switcher>div>a:hover{background:#F0F0F0;border-radius:2px}.trp-language-switcher>div>a.trp-ls-shortcode-disabled-language{cursor:default}.trp-language-switcher>div>a.trp-ls-shortcode-disabled-language:hover{background:none}.trp-language-switcher>div>a>img{display:inline;margin:0 3px;width:18px;height:12px;border-radius:0}.trp-language-switcher .trp-ls-shortcode-current-language{display:inline-block}.trp-language-switcher:focus .trp-ls-shortcode-current-language,.trp-language-switcher:hover .trp-ls-shortcode-current-language{visibility:hidden}.trp-language-switcher .trp-ls-shortcode-language{display:inline-block;height:1px;overflow:hidden;visibility:hidden;z-index:1;max-height:250px;overflow-y:auto;left:0;top:0;min-height:auto}.trp-language-switcher:focus .trp-ls-shortcode-language,.trp-language-switcher:hover .trp-ls-shortcode-language{visibility:visible;max-height:250px;padding:4px 13px;height:auto;overflow-y:auto;position:absolute;left:0;top:0;display:inline-block!important;min-height:auto}@media screen and (max-width:782px){#wpadminbar #wp-admin-bar-trp_edit_translation>.ab-item{text-indent:0}}</style>
 <style id="classic-theme-styles-inline-css">/*! This file is auto-generated */
 <style id="core-block-supports-inline-css">.wp-container-core-buttons-is-layout-1.wp-container-core-buttons-is-layout-1{justify-content:center;}.wp-container-core-columns-is-layout-1.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-2.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-3.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-4.wp-container-core-columns-is-layout-4{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-5.wp-container-core-columns-is-layout-5{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-6.wp-container-core-columns-is-layout-6{flex-wrap:nowrap;}.wp-container-core-buttons-is-layout-2.wp-container-core-buttons-is-layout-2{justify-content:center;}</style>
