@@ -1197,6 +1197,7 @@
 103.116.203.244:43520
 103.116.203.245:43520
 103.116.218.178:8080
+103.116.82.135:8080
 103.117.101.99:8181
 103.117.108.53:4153
 103.117.235.241:4109
@@ -1791,6 +1792,7 @@
 103.146.196.24:8080
 103.146.196.33:8080
 103.146.196.96:32650
+103.146.197.43:4995
 103.146.197.93:8181
 103.146.222.2:82
 103.146.222.2:83
@@ -3402,6 +3404,7 @@
 103.216.50.11:8080
 103.216.50.130:55667
 103.216.50.156:32650
+103.216.50.224:8080
 103.216.50.225:8080
 103.216.50.55:32650
 103.216.50.88:32650
@@ -7782,7 +7785,7 @@
 117.69.232.165:8089
 117.69.232.184:8089
 117.69.232.225:8089
-117.69.232.225:8089103.174.236.52:8080
+117.69.232.225:8089186.250.29.225:8080
 117.69.232.234:8089
 117.69.232.239:8089
 117.69.232.248:8089
@@ -16488,7 +16491,6 @@
 177.234.212.191:999
 177.234.212.69:999
 177.234.212.71:999
-177.234.212.91:999
 177.234.217.234:999
 177.234.217.235:999
 177.234.217.236:999
@@ -24795,6 +24797,7 @@
 202.6.227.174:3888
 202.6.233.59:7878
 202.6.234.52:51234
+202.60.194.23:80
 202.61.204.51:80
 202.61.228.195:8089
 202.61.246.176:3128
@@ -27408,7 +27411,6 @@
 31.170.19.1:4153
 31.170.19.5:4153
 31.170.22.127:1080
-31.170.53.140:80
 31.170.53.157:80
 31.170.62.214:8080
 31.171.104.39:8080
@@ -27656,6 +27658,7 @@
 35.221.122.104:3128
 35.223.150.250:3128
 35.225.16.82:2387
+35.226.208.110:8888
 35.228.14.25:3128
 35.229.172.56:8899
 35.229.244.66:3129
@@ -28177,6 +28180,7 @@
 36.95.119.194:8080
 36.95.120.101:41890
 36.95.142.26:8080
+36.95.142.35:8080
 36.95.144.173:8080
 36.95.147.251:8080
 36.95.15.146:8080
@@ -28444,13 +28448,13 @@
 38.156.23.230:999
 38.156.233.132:999
 38.156.233.74:999
-38.156.233.75:999
 38.156.233.77:999
 38.156.233.78:999
 38.156.235.113:999
 38.156.235.232:999
 38.156.235.233:999
 38.156.235.36:999
+38.156.72.14:8080
 38.156.72.15:8080
 38.156.72.166:8080
 38.156.72.179:8080
@@ -28482,13 +28486,13 @@
 38.158.92.62:8080
 38.158.92.81:8080
 38.158.92.87:8080
+38.159.232.6:8080
 38.171.238.91:999
 38.188.127.115:8080
 38.188.127.123:8080
 38.188.166.4:999
 38.188.166.5:999
 38.188.203.9:8080
-38.188.249.32:8080
 38.188.249.40:8181
 38.22.171.103:999
 38.22.174.129:999
@@ -28620,6 +28624,7 @@
 38.49.152.133:999
 38.49.158.78:999
 38.49.159.74:999
+38.50.165.130:999
 38.50.165.50:999
 38.50.165.51:999
 38.50.165.54:999
@@ -28791,9 +28796,11 @@
 38.7.3.13:999
 38.7.3.4:999
 38.7.30.129:999
+38.7.31.229:999
 38.7.6.2:999
 38.7.6.4:999
 38.7.6.5:999
+38.9.113.164:8080
 38.9.141.27:80
 38.9.141.79:80
 38.9.141.79:8080
@@ -29186,6 +29193,7 @@
 41.254.54.63:8080
 41.254.56.34:1976
 41.254.56.34:1981
+41.254.56.6:1976
 41.33.137.11:1981
 41.33.142.179:1981
 41.33.142.182:1976
@@ -29252,6 +29260,7 @@
 41.57.7.17:6060
 41.58.144.126:9812
 41.59.112.250:3030
+41.59.210.2:8080
 41.59.227.49:3128
 41.59.82.154:3128
 41.60.216.119:23500
@@ -29829,7 +29838,6 @@
 45.133.107.246:81
 45.133.107.64:81
 45.133.168.120:8080
-45.133.168.138:8080
 45.133.168.149:8080
 45.133.168.160:8080
 45.133.168.29:8080
@@ -30013,6 +30021,7 @@
 45.164.148.114:999
 45.164.150.122:999
 45.164.150.123:999
+45.164.174.30:999
 45.164.247.192:4153
 45.164.249.244:5566
 45.164.60.138:53281
@@ -30205,6 +30214,7 @@
 45.174.76.22:999
 45.174.77.192:999
 45.174.77.1:999
+45.174.77.20:999
 45.174.77.241:999
 45.174.77.243:999
 45.174.78.1:999
@@ -30287,6 +30297,7 @@
 45.179.184.6:8083
 45.179.185.106:8083
 45.179.185.115:8083
+45.179.185.120:8083
 45.179.185.92:8083
 45.179.187.111:8083
 45.179.187.18:8083
@@ -30346,6 +30357,7 @@
 45.183.142.126:999
 45.184.103.113:999
 45.184.103.67:999
+45.184.109.199:8080
 45.184.128.100:8181
 45.184.128.95:8181
 45.184.129.165:8181
@@ -30418,6 +30430,7 @@
 45.188.166.52:1994
 45.188.166.53:1994
 45.188.167.25:999
+45.188.76.107:999
 45.188.76.236:999
 45.188.76.238:999
 45.188.76.98:999
@@ -30800,6 +30813,7 @@
 45.229.206.8:55551
 45.229.206.9:55551
 45.229.222.27:8080
+45.229.31.253:11211
 45.229.31.33:11211
 45.229.31.34:11211
 45.229.32.157:999
@@ -31547,7 +31561,6 @@
 46.161.243.182:8080
 46.161.248.60:8080
 46.161.250.167:8080
-46.163.124.109:80
 46.164.226.252:1080
 46.164.227.196:1080
 46.167.196.161:8080
@@ -32037,7 +32050,6 @@
 47.243.242.70:20000
 47.243.242.70:20201
 47.243.242.70:3128
-47.243.242.70:4153
 47.243.242.70:55443
 47.243.242.70:80
 47.243.242.70:805
@@ -32051,7 +32063,6 @@
 47.243.50.83:20002
 47.243.50.83:30000
 47.243.50.83:3128
-47.243.50.83:4444
 47.243.50.83:5555
 47.243.50.83:8019
 47.243.50.83:8080
@@ -32324,7 +32335,6 @@
 47.88.11.3:8045
 47.88.11.3:8080
 47.88.11.3:8118
-47.88.11.3:8499
 47.88.11.3:8888
 47.88.11.3:999
 47.88.11.3:9999
@@ -33017,6 +33027,7 @@
 5.189.140.113:8118
 5.189.146.57:80
 5.189.158.162:3128
+5.189.161.23:3128
 5.189.164.212:3128
 5.189.170.180:5566
 5.189.179.28:3128
@@ -34669,13 +34680,17 @@
 51.89.73.162:8051
 51.91.100.252:443
 51.91.109.113:8118
+51.91.109.83:80
+51.91.120.11:8080
 51.91.13.215:49680
 51.91.13.215:51269
 51.91.13.215:51328
 51.91.13.215:54029
 51.91.13.215:55637
 51.91.13.215:59889
+51.91.152.181:3128
 51.91.157.66:80
+51.91.208.193:3128
 51.91.60.144:80
 51.91.76.186:8080
 51.91.77.26:443
@@ -36350,7 +36365,6 @@
 69.91.87.60:53935
 69.94.136.71:8443
 7.0.0.7:8050
-7.129.15.197:48784
 7.148.201.157:8095
 7.243.20.186:8019
 7.243.20.187:8050
@@ -37332,7 +37346,6 @@
 8.208.90.243:20201
 8.208.90.243:443
 8.208.90.243:55443
-8.208.90.243:80
 8.208.90.243:8015
 8.208.90.243:8118
 8.208.90.243:9090
@@ -37593,7 +37606,6 @@
 8.213.137.155:8181
 8.213.137.155:8499
 8.213.137.155:86
-8.213.137.155:92
 8.213.151.128:3128
 8.215.27.71:3128
 8.218.100.213:8899
@@ -40438,8 +40450,8 @@
 <li><a class="dropdown-item" href="/websites/tiktok-com/">TikTok</a></li>
 <li><a class="dropdown-item" href="/websites/twitter-com/">Twitter</a></li>
 <li><a class="dropdown-item" href="https://api.fineproxy.org/docs/"><i class="fas fa-code"></i>API</a></li>
-<li><a href="/cdn-cgi/l/email-protection#483b3d3838273a3c082e21262d383a27303166273a2f"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="ea999f9a9a85989eaa8c83848f9a98859293c485988d">[email&#160;protected]</span></a></li>
-<li><a href="/cdn-cgi/l/email-protection#8beaefe6e2e5cbede2e5eefbf9e4f3f2a5e4f9ec"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="3c5d585155527c5a5552594c4e53444512534e5b">[email&#160;protected]</span></a></li>
+<li><a href="/cdn-cgi/l/email-protection#582b2d2828372a2c183e31363d282a37202176372a3f"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="6b181e1b1b04191f2b0d02050e1b190413124504190c">[email&#160;protected]</span></a></li>
+<li><a href="/cdn-cgi/l/email-protection#cbaaafa6a2a58bada2a5aebbb9a4b3b2e5a4b9ac"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="b7d6d3daded9f7d1ded9d2c7c5d8cfce99d8c5d0">[email&#160;protected]</span></a></li>
 <li><a onclick="yaCounter24131110.reachGoal ('klik-po-telefonu'); return true;" href="tel:+16463285065"><i class="fas fa-phone"></i> <span class="flag-icon flag-icon-us"></span> USA + 1 646 328-50-65
 <li><a target="_blank" href="https://github.com/fnprx/" rel="nofollow noopener"><i class="fab fa-github"></i> GitHub</a></li>
 <li><a target="_blank" href="https://telegram.me/fineproxy" rel="nofollow noopener"><i class="fab fa-telegram"></i> Telegram</a></li>
@@ -40564,7 +40576,7 @@
 <p class="rank-math-question ">What is the risk of using a shared IP address from a free proxy list?</p>
 <p>
 <p>2011-2024 © <a href="/">FineProxy</a><br/>
-<p><a class="email" href="/cdn-cgi/l/email-protection#40333530302f32340026292e2530322f38396e2f3227"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="d7a4a2a7a7b8a5a397b1beb9b2a7a5b8afaef9b8a5b0">[email&#160;protected]</span></a> </p>
+<p><a class="email" href="/cdn-cgi/l/email-protection#8efdfbfefee1fcfacee8e7e0ebfefce1f6f7a0e1fce9"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="0d7e787d7d627f794d6b6463687d7f62757423627f6a">[email&#160;protected]</span></a> </p>
 <p><a href="https://fineproxy.org/finance/" rel="nofollow">Financial information</a></p></div></section> </div>
 <p>A free proxy service is a platform that allows you to connect to the internet via its server, effectively hiding your IP address. You can use it to unblock websites by entering the website’s URL on the proxy’s webpage.</p>
 <p>Free proxy lists cannot guarantee reliable anonymity. Many of these proxies are easily detectable by websites and services, compromising your anonymity. Paid shared and private proxies provide stronger anonymity measures, ensuring a more secure browsing experience.</p>
@@ -40614,7 +40626,7 @@
 <section id="content" class="white-section py-80">
 <section id="custom_html-2" class="widget_text widget widget_custom_html"><h3 class="widget-title">Contacts</h3><div class="textwidget custom-html-widget"><ul>
 <section id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><img src="/wp-content/themes/fineproxyorg/images/icons/payments/visa.png" alt="Visa" width="50" height="30" loading="lazy" fetchpriority="low" /> <img src="/wp-content/themes/fineproxyorg/images/icons/payments/mastercard.png" alt="Mastercard" width="50" height="30" loading="lazy" fetchpriority="low" />
-<section id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a class="email" href="/cdn-cgi/l/email-protection#80f3f5f0f0eff2f4c0e6e9eee5f0f2eff8f9aeeff2e7"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="6d1e181d1d021f192d0b0403081d1f02151443021f0a">[email&#160;protected]</span></a><a href="https://fineproxy.org/account/index.php?rp=/login&amp;language=english" rel="nofollow noopener" target="_blank"><i class="fas fa-lock"></i>User Login</a></div></section> </div>
+<section id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a class="email" href="/cdn-cgi/l/email-protection#681b1d1818071a1c280e01060d181a07101146071a0f"><i class="fas fa-envelope"></i> <span class="__cf_email__" data-cfemail="b9caccc9c9d6cbcdf9dfd0d7dcc9cbd6c1c097d6cbde">[email&#160;protected]</span></a><a href="https://fineproxy.org/account/index.php?rp=/login&amp;language=english" rel="nofollow noopener" target="_blank"><i class="fas fa-lock"></i>User Login</a></div></section> </div>
 <section id="custom_html-7" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><p>Quality Network US LLC, 30 N Gould St STE R Sheridan, WY 82801. United States</p>
 <section id="header" class="green-section pb-80">
 <section id="nav_menu-3" class="widget widget_nav_menu"><h3 class="widget-title">For you</h3><div class="menu-footer-menu-tools-container"><ul id="menu-footer-menu-tools" class="menu"><li id="menu-item-460184" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-455912 current_page_item menu-item-460184"><a href="https://fineproxy.org/free-proxy/" aria-current="page">Free Proxy List</a></li>
