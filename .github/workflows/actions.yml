@@ -1,7 +1,8 @@
-name: Proxy Check
+name: Proxy Scraper
 
 on:
   schedule:
+    # Run every 10 minutes
     - cron: '*/10 * * * *'
   push:
     branches:
@@ -19,20 +20,39 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v3
 
-    - name: Install Requirements
-      run: pip install -r requirements.txt
+    - name: Removing old proxies.txt
+        run: |
+          rm -rf proxies.txt
+
+    - name: Installing tar and unew via binary
+      run: |
+        sudo apt install tar
+
+        wget https://github.com/rix4uni/unew/releases/download/v0.0.5/unew-linux-amd64-0.0.5.tgz
+        tar -xvzf unew-linux-amd64-0.0.5.tgz
+        rm -rf unew-linux-amd64-0.0.5.tgz
+        mv unew /usr/local/bin/unew
+
+        pip3 install -r requirements.txt
 
     - name: Scraping Proxy From Internet
-      run: python3 proxy_scraper.py
+      run: |
+        python3 scraper.py
+        cat http_proxies.txt | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
 
-    - name: Removing Duplicate Proxy
-      run: cat http_proxies.txt | sort -u > proxies.txt
+        rm -rf http_proxies.txt
 
-    - name: Commit and push changes
+    - name: Commit and push changes if there are any
       run: |
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@users.noreply.github.com'
-        git add proxies.txt
-        IST_DATE=$(TZ='Asia/Kolkata' date +'%a %b %d %H:%M:%S IST %Y')
-        git commit -m "Update Proxy List: $IST_DATE"
-        git push
+        git add .
+          
+        # Check if there are changes before committing
+        if ! git diff --cached --exit-code; then
+          IST_DATE=$(TZ='Asia/Kolkata' date +'%a %b %d %H:%M:%S IST %Y')
+          git commit -m "Updated List: $IST_DATE"
+          git push
+        else
+          echo "No changes to commit"
+        fi
