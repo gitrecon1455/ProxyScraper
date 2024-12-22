@@ -27,6 +27,7 @@ jobs:
     - name: Installing tar and unew via binary
       run: |
         sudo apt install tar
+        sudo apt install jq -y
 
         wget https://github.com/rix4uni/unew/releases/download/v0.0.5/unew-linux-amd64-0.0.5.tgz
         tar -xvzf unew-linux-amd64-0.0.5.tgz
@@ -53,6 +54,30 @@ jobs:
         curl -s "https://raw.githubusercontent.com/hookzof/socks5_list/refs/heads/master/proxy.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
         curl -s "https://raw.githubusercontent.com/Vann-Dev/proxy-list/refs/heads/main/proxies/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
         curl -s "https://raw.githubusercontent.com/Vann-Dev/proxy-list/refs/heads/main/proxies/https.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://spys.me/proxy.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://www.proxy-list.download/proxylist.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/hendrikbgr/Free-Proxy-Repo/master/proxy_list.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://www.proxy-list.download/api/v2/get?l=en&t=http" | jq -r '.LISTA[] | "\(.IP):\(.PORT)"' | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://www.proxy-list.download/api/v2/get?l=en&t=https" | jq -r '.LISTA[] | "\(.IP):\(.PORT)"' | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://niek.github.io/free-proxy-list/" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/resource-collector/proxylist/results/all/http.proxy.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/resource-collector/proxylist/results/all/https.proxy.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/saisuiu/Lionkings-Http-Proxys-Proxies/main/free.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://ab57.ru/downloads/proxylist.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://multiproxy.org/txt_all/proxy.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "http://rootjazz.com/proxies/proxies.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        for i in {1..21};do curl -s "https://proxylist.geonode.com/api/proxy-list?limit=500&page=$i&sort_by=lastChecked&sort_type=desc" | jq -r '.data[] | "\(.ip):\(.port)"';done | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://sunny9577.github.io/proxy-scraper/proxies.json" | jq -r '.[] | "\(.ip):\(.port)"' | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all" | jq -r '.[] | "\(.ip):\(.port)"' | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
 
         rm -rf http_proxies.txt
 

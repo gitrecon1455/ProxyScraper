@@ -109,42 +109,6 @@ def openproxy():
 openproxy()
 
 
-def proxies():
-    url = "https://sunny9577.github.io/proxy-scraper/proxies.json"
-    try:
-        response = requests.get(url)
-        data = json.loads(response.text)
-
-        for proxy in data:
-            with open("http_proxies.txt", "a") as f:
-                f.write(proxy["ip"] + ":" + proxy["port"] + "\n")
-
-    except requests.exceptions.RequestException as e:
-        print(f"Error accessing {url}: {e}")
-
-    except Exception as e:
-        print(e)
-proxies()
-
-
-def proxyscrape():
-    url = "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all"
-    try:
-        response = requests.get(url)
-
-        proxies = response.text
-        proxy = '\n'.join(line for line in proxies.splitlines() if line.strip())
-        with open("http_proxies.txt", "a") as f:
-            f.write(proxy)
-
-    except requests.exceptions.RequestException as e:
-        print(f"Error accessing {url}: {e}")
-
-    except Exception as e:
-        print(e)
-proxyscrape()
-
-
 # working but taking too much time
 # def freeproxy():
 #     for page in range(1, 560):
@@ -167,44 +131,6 @@ proxyscrape()
 #                 with open("http_proxies.txt", "a") as f:
 #                     f.write(f"{i}:{p}" + "\n")
 # freeproxy()
-
-
-def spys_me():
-    url = "https://spys.me/proxy.txt"
-    try:
-        response = requests.get(url)
-
-        proxys = re.findall(r'\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?):\d{1,5}\b', response.text)
-        for proxy in proxys:
-            with open("http_proxies.txt", "a") as f:
-                f.write(proxy + "\n")
-
-    except requests.exceptions.RequestException as e:
-        print(f"Error accessing {url}: {e}")
-
-    except Exception as e:
-        print(e)
-spys_me()
-
-
-# def proxy_list():
-#     url2 = "https://www.proxy-list.download/proxylist.txt"
-#     response2 = requests.get(url2).text
-#     website_output2 = "\n".join(response2.split("\n")[2:])
-#
-#     url3 = "https://raw.githubusercontent.com/hendrikbgr/Free-Proxy-Repo/master/proxy_list.txt"
-#     response3 = requests.get(url3).text
-#     website_output3 = "\n".join(response3.split("\n")[:-1])
-#     print(website_output2, website_output3)
-#
-#     urls = ["https://www.proxy-list.download/api/v2/get?l=en&t=http", "https://www.proxy-list.download/api/v2/get?l=en&t=https"]
-#     for url in urls:
-#         response = requests.get(url)
-#         data = json.loads(response.text)
-#
-#         for proxy in data["LISTA"]:
-#             print(proxy["IP"] + ":" + proxy["PORT"])
-# proxy_list()
 
 
 # def proxynova():
@@ -249,63 +175,6 @@ spys_me()
 # # proxylist()
 
 
-def niek():
-    url = "https://niek.github.io/free-proxy-list"
-
-    try:
-        response = requests.get(url)
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        tbody = soup.find("tbody")
-        tr = tbody.find_all("tr")
-
-        for td in tr:
-            tds = td.find_all("td")
-            proxy = tds[2].text
-            with open("http_proxies.txt", "a") as f:
-                f.write(proxy + "\n")
-
-    except requests.exceptions.RequestException as e:
-        print(f"Error accessing {url}: {e}")
-
-    except Exception as e:
-        print(e)
-niek()
-
-
-def github():
-    urls = ["https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
-            "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
-            "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
-            "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt",
-            "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
-            "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt",
-            "https://raw.githubusercontent.com/resource-collector/proxylist/results/all/http.proxy.txt",
-            "https://raw.githubusercontent.com/resource-collector/proxylist/results/all/https.proxy.txt",
-            "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt",
-            "https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt",
-            "https://raw.githubusercontent.com/saisuiu/Lionkings-Http-Proxys-Proxies/main/free.txt",
-            "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt"]
-
-    for url in urls:
-        try:
-            response = requests.get(url).text
-
-            proxies = response.split("\n")
-            for proxy in proxies:
-                match = re.search(r"\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?):\d{1,5}\b", proxy)
-                if match:
-                    with open("http_proxies.txt", "a") as f:
-                        f.write(match.group() + "\n")
-
-        except requests.exceptions.RequestException as e:
-            print(f"Error accessing {url}: {e}")
-
-        except Exception as e:
-            print(e)
-github()
-
-
 # def proxy_daily():
 #     try:
 #         url = "https://proxy-daily.com"
@@ -345,11 +214,7 @@ proxy11()
 
 
 def proxylists():
-    urls = ["http://www.proxylists.net/http_highanon.txt",
-            "https://ab57.ru/downloads/proxylist.txt",
-            "https://multiproxy.org/txt_all/proxy.txt",
-            "http://rootjazz.com/proxies/proxies.txt",
-            "https://www.proxyscan.io/api/proxy?format=txt&ping=500&limit=10000&type=http,https"]
+    urls = ["http://www.proxylists.net/http_highanon.txt"]
     for url in urls:
         try:
             response = requests.get(url).text
@@ -431,23 +296,3 @@ proxylists()
 #             response2 = requests.get(url2)
 #             soup = BeautifulSoup(response2.text, 'html.parser')
 # checkerproxy()
-
-
-# working but taking too much time
-# def proxylist_geonode():
-#     for x in range(1, 21):
-#         url = f"https://proxylist.geonode.com/api/proxy-list?limit=500&page={x}&sort_by=lastChecked&sort_type=desc"
-#
-#         try:
-#             response = requests.get(url)
-#             data = json.loads(response.text)
-#
-#             for proxy in data["data"]:
-#                 print(proxy["ip"] + ":" + proxy["port"])
-#
-#         except requests.exceptions.RequestException as e:
-#             print(f"Error accessing {url}: {e}")
-#
-#         except Exception as e:
-#             print(e)
-# proxylist_geonode()
