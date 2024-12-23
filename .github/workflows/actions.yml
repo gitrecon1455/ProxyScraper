@@ -79,6 +79,37 @@ jobs:
         curl -s "https://sunny9577.github.io/proxy-scraper/proxies.json" | jq -r '.[] | "\(.ip):\(.port)"' | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
         curl -s "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all" | jq -r '.[] | "\(.ip):\(.port)"' | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
         curl -s "https://raw.githubusercontent.com/jepluk/PROXYLIST/refs/heads/main/all.json" | jq -r '.data[] | "\(.address):\(.port)"' | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies/all.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/mmpx12/proxy-list/refs/heads/master/proxies.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/refs/heads/master/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/All_proxies.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/themiralay/Proxy-List-World/refs/heads/master/data.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/zloi-user/hideip.me/main/https.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/javadbazokar/PROXY-List/refs/heads/main/https.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Https.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Socks4.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Socks5.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/Tsprnay/Proxy-lists/refs/heads/master/proxies/all.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/https.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/refs/heads/main/proxies/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/ErcinDedeoglu/proxies/refs/heads/main/proxies/https.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/SevenworksDev/proxy-list/refs/heads/main/proxies/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/SevenworksDev/proxy-list/refs/heads/main/proxies/https.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/officialputuid/KangProxy/refs/heads/KangProxy/xResults/Proxies.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/MrMarble/proxy-list/refs/heads/main/all.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/yemixzy/proxy-list/refs/heads/main/proxies/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/fyvri/fresh-proxy-list/archive/storage/classic/all.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/dinoz0rg/proxy-list/refs/heads/main/scraped_proxies/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/prestonator/PROXY-List-prefixed/refs/heads/main/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/ZoniBoy00/proxy-lists/refs/heads/master/http_proxies.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/SoliSpirit/proxy-list/refs/heads/main/http.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/SoliSpirit/proxy-list/refs/heads/main/https.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/KUTlime/ProxyList/refs/heads/main/ProxyList.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
+        curl -s "https://raw.githubusercontent.com/ITProxy/Ban_Proxies/refs/heads/main/proxies_of_all_countries.txt" | grep -oP "([\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}\.[\d]{1,3}):([\d]{1,5})" | unew -el -t -q proxies.txt
 
         rm -rf http_proxies.txt
 
